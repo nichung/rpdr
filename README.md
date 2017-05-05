@@ -19,7 +19,7 @@
 4. create API key
 5. create Speech API request using longrunningrecognize method in request.json:
 
-	'''json
+	```javascript
 	{
   	  "config": {
       	      "encoding":"FLAC",
@@ -30,7 +30,7 @@
                 "uri":"gs://{bucket-name}/{file-name}.flac"
   	  }
 	}
-	'''
+	```
 
 6. call Speech API:
 	
