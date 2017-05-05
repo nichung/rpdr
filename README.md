@@ -23,7 +23,7 @@
 	{
   	  "config": {
       	      "encoding":"FLAC",
-              "sampleRateHertz": 16000,
+              "sampleRateHertz": 16000, //can bump to 44100 but config must match 
               "languageCode": "en-US"
   	  },
   	    "audio": {
@@ -34,13 +34,13 @@
 
 6. call Speech API:
 	
-	$curl -s -X POST -H "content-Type: application/json" --data-binary @request.json "https://speech.goo
-gleapis.com/v1/speech:longrunningrecognize?key=${API_KEY}"
+	`curl -s -X POST -H "content-Type: application/json" --data-binary @request.json "https://speech.goo
+gleapis.com/v1/speech:longrunningrecognize?key=${API_KEY}"`
 
 7. wait at least 30 seconds, then GET the response by name and pipe to text file
 	
-	$curl -s GET "https://speech.googleapis.com/v1/operations/{operation-name}?key=${API_KEY}" > {file-name}.txt
+	`curl -s GET "https://speech.googleapis.com/v1/operations/{operation-name}?key=${API_KEY}" > {file-name}.txt`
 
 8. send to storage bucket:
 
-	$gsutil cp *.txt gs://{bucket-name}
+	`gsutil cp *.txt gs://{bucket-name}`
