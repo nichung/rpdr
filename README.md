@@ -1,5 +1,6 @@
 ### to do:
 + complete data collection for two episodes
++ make script to extract relevant data from json response in format amenable to manual revision
 
 ### questions:
 + add RuPaul commentary as control?
@@ -18,6 +19,7 @@
 4. create API key
 5. create Speech API request using longrunningrecognize method in request.json:
 
+	'''json
 	{
   	  "config": {
       	      "encoding":"FLAC",
@@ -28,6 +30,7 @@
                 "uri":"gs://{bucket-name}/{file-name}.flac"
   	  }
 	}
+	'''
 
 6. call Speech API:
 	
