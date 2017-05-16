@@ -6,6 +6,7 @@
 + add RuPaul commentary as control?
 + how specific should the "context" and "episode arc" be? (Must be answered through EDA)
 + measure duration of quote? If so, must capture quote end timestamp
++ probably should finetune who is speaking to whom and in what context. For example, how to capture difference between Ru making puns about someone versus telling them comments directly?
 
 ### additional notes:
 + "grouping" refers to conversation. Must improve conversation grouping notation
