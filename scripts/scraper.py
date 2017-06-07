@@ -3,8 +3,10 @@ beautiful soup 4 scraper.py
 
 usage: $python scraper.py [url]
 
-# todo: pass output file as parameter with argv such that
-# $python scraper.py [output] [url]
+# todo: 
+# 1. adjust encoding at write to save useful tags for parsing
+# 2. pass output file as parameter with argv such that 
+#    $python scraper.py [output] [url]
 """
 import requests
 from bs4 import BeautifulSoup
