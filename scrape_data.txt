@@ -1,0 +1,2322 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RuPaul's Drag Race (Season 5) | RuPaul's Drag Race Wiki | Fandom powered by Wikia
+
+a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: logosrupaulsdragrace:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */
+
+var Wikia={},
+wgUseSiteJs=true,
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more"},
+wgOnSiteNotificationsApiUrl="https://services.wikia.com/on-site-notifications",
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"delayBtf":true,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://rupaulsdragrace.wikia.com/__load/-/cb%3D1496749197%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/c156116a94e7474b5215b80acf3c6a25","sourcePointMMSDomain":"mms.bre.wikia.com","sourcePointRecovery":true,"pageFairDetectionUrl":"http://rupaulsdragrace.wikia.com/__load/-/cb%3D1496749197%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/a54fda455d6a526daa0c19c3a539e953","pageFairRecovery":true,"prebidBidderUrl":["http://slot1.images3.wikia.nocookie.net/__am/1496749197/group/-/prebid_prod_js"]},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"esrbRating":"mature","mappedVerticalName":"ent","pageArticleId":2663,"pageIsArticle":true,"pageName":"RuPaul\'s_Drag_Race_(Season_5)","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;sex=f;age=18-24;age=25-34;media=tv;esrb=mature;tv=netflix;theme=realitytv;","wikiDbName":"logosrupaulsdragrace","wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"],"hasPortableInfobox":true},"providers":{"evolve2":true,"rubiconFastlane":true},"slots":{"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"disableBtf":false}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[100619],
+wgWikiFactoryTagNames=["fandom-stories-search"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1496749197",
+wgDBname="logosrupaulsdragrace",
+wgCityId="329982",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=2663,
+wgCategories=["Seasons","Season 5","RuPaul\'s Drag Race"],
+wgPageName="RuPaul\'s_Drag_Race_(Season_5)",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="tv_season",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1496749197",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s245","php_version":"7.0.7","wiki":"logosrupaulsdragrace","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgDiscussionsApiUrl="https://services.wikia.com/discussion",
+wgSeoTestingBucket=3;
+window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});
+var wgNow = new Date();
+
+
+
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.addEventListener("DOMContentLoaded", function (event) {
+			var image = document.createElement('img');
+			image.src = 'http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty';
+			image.style.position = 'absolute';
+			image.style.top = '-1000px';
+			document.body.appendChild(image);
+		});
+		
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1496749197&c=329982&lc=en&lid=75&x=logosrupaulsdragrace&y=c4&u=0&a=2663&s=oasis&beacon=u8cSRQ6zhl&n=0" + ((typeof document.referrer != "undefined") ? "&r=" + escape(document.referrer) : "") + "&rand=" + (new Date).valueOf() + (window.beacon_id ? "&beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&utma=" + utma[1] : "") + (utmb && utmb[1] ? "&utmb=" + utmb[1] : "");
+	var script = document.createElement('script');
+	script.src = trackUrl;
+	document.head.appendChild(script);
+})();
+
+
+/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/
+
+
+	require([
+		'ext.wikia.adEngine.adContext'
+	], function (adContext) {
+		var context = adContext.getContext();
+
+		if (context.opts.pageFairRecovery === true && !window.wgUserName) {
+			/* observer-7.0.2 */eval(atob("IWZ1bmN0aW9uIHQoZSxuLG8pe2Z1bmN0aW9uIHIoYSxzKXtpZighblthXSl7aWYoIWVbYV0pe3ZhciB1PSJmdW5jdGlvbiI9PXR5cGVvZiByZXF1aXJlJiZyZXF1aXJlO2lmKCFzJiZ1KXJldHVybiB1KGEsITApO2lmKGkpcmV0dXJuIGkoYSwhMCk7dmFyIGQ9bmV3IEVycm9yKCJDYW5ub3QgZmluZCBtb2R1bGUgJyIrYSsiJyIpO3Rocm93IGQuY29kZT0iTU9EVUxFX05PVF9GT1VORCIsZH12YXIgYz1uW2FdPXtleHBvcnRzOnt9fTtlW2FdWzBdLmNhbGwoYy5leHBvcnRzLGZ1bmN0aW9uKHQpe3ZhciBuPWVbYV1bMV1bdF07cmV0dXJuIHIobj9uOnQpfSxjLGMuZXhwb3J0cyx0LGUsbixvKX1yZXR1cm4gblthXS5leHBvcnRzfWZvcih2YXIgaT0iZnVuY3Rpb24iPT10eXBlb2YgcmVxdWlyZSYmcmVxdWlyZSxhPTA7YTxvLmxlbmd0aDthKyspcihvW2FdKTtyZXR1cm4gcn0oezE6W2Z1bmN0aW9uKHQsZSxuKXsidXNlIHN0cmljdCI7ZnVuY3Rpb24gbyh0KXt2YXIgZT0iTkVXX1NDUklQVF9FVkVOVCIsbj1uZXcgcihlLHtkZXRhaWw6e319KTt0LmRpc3BhdGNoRXZlbnQobil9dmFyIHI9dCgzKTtlLmV4cG9ydHM9b30sezM6M31dLDI6W2Z1bmN0aW9uKHQsZSxuKXsidXNlIHN0cmljdCI7ZnVuY3Rpb24gbyh0KXt0LmFkb25pcz10LmFkb25pc3x8e30sdC5hZG9uaXMuc2NyaXB0U3RhdHVzZXM9e30sdC5hZG9uaXMucmVxdWVzdFN0YXR1c2VzPXt9O3ZhciBlPXQuWE1MSHR0cFJlcXVlc3QucHJvdG90eXBlLm9wZW47dC5YTUxIdHRwUmVxdWVzdC5wcm90b3R5cGUub3Blbj1mdW5jdGlvbihuLG8pe3RoaXMuYWRkRXZlbnRMaXN0ZW5lcigiZXJyb3IiLGZ1bmN0aW9uKGUpezA9PT10aGlzLnN0YXR1cz90LmFkb25pcy5zY3JpcHRTdGF0dXNlc1tvXT0iZXJyb3IiOnQuYWRvbmlzLnNjcmlwdFN0YXR1c2VzW29dPSJsb2FkIn0pLHRoaXMuYWRkRXZlbnRMaXN0ZW5lcigibG9hZCIsZnVuY3Rpb24oZSl7dC5hZG9uaXMuc2NyaXB0U3RhdHVzZXNbb109ImxvYWQifSksdGhpcy5hZGRFdmVudExpc3RlbmVyKCJsb2FkZW5kIixmdW5jdGlvbihlKXt0LmFkb25pcy5yZXF1ZXN0U3RhdHVzZXNbb109dGhpcy5zdGF0dXMscih0KX0pO3ZhciBpPVtdLnNsaWNlLmNhbGwoYXJndW1lbnRzLDApO3JldHVybiBlLmFwcGx5KHRoaXMsaSl9fXZhciByPXQoMSk7ZS5leHBvcnRzPXt3cmFwWE1MSHR0cFJlcXVlc3Q6b319LHsxOjF9XSwzOltmdW5jdGlvbih0LGUsbil7KGZ1bmN0aW9uKHQpe2Z1bmN0aW9uIG4oKXt0cnl7dmFyIHQ9bmV3IG8oImNhdCIse2RldGFpbDp7Zm9vOiJiYXIifX0pO3JldHVybiJjYXQiPT09dC50eXBlJiYiYmFyIj09PXQuZGV0YWlsLmZvb31jYXRjaChlKXt9cmV0dXJuITF9dmFyIG89dC5DdXN0b21FdmVudDtlLmV4cG9ydHM9bigpP286InVuZGVmaW5lZCIhPXR5cGVvZiBkb2N1bWVudCYmImZ1bmN0aW9uIj09dHlwZW9mIGRvY3VtZW50LmNyZWF0ZUV2ZW50P2Z1bmN0aW9uKHQsZSl7dmFyIG49ZG9jdW1lbnQuY3JlYXRlRXZlbnQoIkN1c3RvbUV2ZW50Iik7cmV0dXJuIGU/bi5pbml0Q3VzdG9tRXZlbnQodCxlLmJ1YmJsZXMsZS5jYW5jZWxhYmxlLGUuZGV0YWlsKTpuLmluaXRDdXN0b21FdmVudCh0LCExLCExLHZvaWQgMCksbn06ZnVuY3Rpb24odCxlKXt2YXIgbj1kb2N1bWVudC5jcmVhdGVFdmVudE9iamVjdCgpO3JldHVybiBuLnR5cGU9dCxlPyhuLmJ1YmJsZXM9Qm9vbGVhbihlLmJ1YmJsZXMpLG4uY2FuY2VsYWJsZT1Cb29sZWFuKGUuY2FuY2VsYWJsZSksbi5kZXRhaWw9ZS5kZXRhaWwpOihuLmJ1YmJsZXM9ITEsbi5jYW5jZWxhYmxlPSExLG4uZGV0YWlsPXZvaWQgMCksbn19KS5jYWxsKHRoaXMsInVuZGVmaW5lZCIhPXR5cGVvZiBnbG9iYWw/Z2xvYmFsOiJ1bmRlZmluZWQiIT10eXBlb2Ygc2VsZj9zZWxmOiJ1bmRlZmluZWQiIT10eXBlb2Ygd2luZG93P3dpbmRvdzp7fSl9LHt9XSw0OltmdW5jdGlvbih0LGUsbil7InVzZSBzdHJpY3QiO2Z1bmN0aW9uIG8odCxlLG4sbyl7ImFkZEV2ZW50TGlzdGVuZXIiaW4gdD90LmFkZEV2ZW50TGlzdGVuZXIoZSxuLG8pOiJhdHRhY2hFdmVudCJpbiB0JiZ0LmF0dGFjaEV2ZW50KCJvbiIrZSxuKX12YXIgcj10KDIpLGk9dCgxKTshZnVuY3Rpb24oKXt3aW5kb3cuYWRvbmlzPXdpbmRvdy5hZG9uaXN8fHt9LHdpbmRvdy5hZG9uaXMuc2NyaXB0U3RhdHVzZXM9e30sci53cmFwWE1MSHR0cFJlcXVlc3Qod2luZG93KSxvKGRvY3VtZW50LCJsb2FkIixmdW5jdGlvbih0KXt0LnRhcmdldCYmIlNDUklQVCI9PT10LnRhcmdldC5ub2RlTmFtZSYmKHdpbmRvdy5hZG9uaXMuc2NyaXB0U3RhdHVzZXNbdC50YXJnZXQuc3JjXT0ibG9hZCIsaSh3aW5kb3cpKX0sITApLG8oZG9jdW1lbnQsImVycm9yIixmdW5jdGlvbih0KXt0LnRhcmdldCYmIlNDUklQVCI9PT10LnRhcmdldC5ub2RlTmFtZSYmKHdpbmRvdy5hZG9uaXMuc2NyaXB0U3RhdHVzZXNbdC50YXJnZXQuc3JjXT0iZXJyb3IiLGkod2luZG93KSl9LCEwKX0oKX0sezE6MSwyOjJ9XX0se30sWzRdKTs="));
+
+		}
+	});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	require([
+		'ext.wikia.adEngine.adContext'
+	], function (adContext) {
+		var context = adContext.getContext();
+
+		if (context.opts.pageFairRecovery === true && !window.wgUserName) {
+			/* wrapper-7.0.2 */eval(atob("IWZ1bmN0aW9uIHQobixlLHIpe2Z1bmN0aW9uIG8oYSxzKXtpZighZVthXSl7aWYoIW5bYV0pe3ZhciBjPSJmdW5jdGlvbiI9PXR5cGVvZiByZXF1aXJlJiZyZXF1aXJlO2lmKCFzJiZjKXJldHVybiBjKGEsITApO2lmKGkpcmV0dXJuIGkoYSwhMCk7dmFyIGQ9bmV3IEVycm9yKCJDYW5ub3QgZmluZCBtb2R1bGUgJyIrYSsiJyIpO3Rocm93IGQuY29kZT0iTU9EVUxFX05PVF9GT1VORCIsZH12YXIgdT1lW2FdPXtleHBvcnRzOnt9fTtuW2FdWzBdLmNhbGwodS5leHBvcnRzLGZ1bmN0aW9uKHQpe3ZhciBlPW5bYV1bMV1bdF07cmV0dXJuIG8oZT9lOnQpfSx1LHUuZXhwb3J0cyx0LG4sZSxyKX1yZXR1cm4gZVthXS5leHBvcnRzfWZvcih2YXIgaT0iZnVuY3Rpb24iPT10eXBlb2YgcmVxdWlyZSYmcmVxdWlyZSxhPTA7YTxyLmxlbmd0aDthKyspbyhyW2FdKTtyZXR1cm4gb30oezE6W2Z1bmN0aW9uKHQsbixlKXsidXNlIHN0cmljdCI7IWZ1bmN0aW9uKCl7ZnVuY3Rpb24gbigpe2kmJmNvbnNvbGUubG9nLmFwcGx5KGNvbnNvbGUsYXJndW1lbnRzKX1mdW5jdGlvbiBlKHQsbixyLG8saSxhLHMsYyxkLHUpe3ZhciBmPWZ1bmN0aW9uKCl7dD09PSEwJiZjb25zb2xlLmxvZy5hcHBseShjb25zb2xlLGFyZ3VtZW50cyl9LGw9Wyc8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+KCcsZS50b1N0cmluZygpLCIpKCIsW3QudG9TdHJpbmcoKSxuLnRvU3RyaW5nKCksci50b1N0cmluZygpLG8udG9TdHJpbmcoKSxpLnRvU3RyaW5nKCksYS50b1N0cmluZygpLHMudG9TdHJpbmcoKSxjLnRvU3RyaW5nKCksZC50b1N0cmluZygpLHUudG9TdHJpbmcoKV0uam9pbigiLCIpLnRvU3RyaW5nKCksIik8IiwiL3NjcmlwdD4iXS5qb2luKCIiKTtuKCkoSFRNTElGcmFtZUVsZW1lbnQsIm5hbWUiLHIoKSxvKGwpKSxuKCkoSFRNTElGcmFtZUVsZW1lbnQsImNvbnRlbnREb2N1bWVudCIscyhhKGwpLGkoKSksYygpKSxuKCkoSFRNTElGcmFtZUVsZW1lbnQsImNvbnRlbnRXaW5kb3ciLGQoYShsKSxpKCkpLHUoKSksd2luZG93LmZhaWxlZF91cmxzPXdpbmRvdy5mYWlsZWRfdXJsc3x8W107dmFyIHA9WyJzY3JpcHQiLCJpbWciXTtkb2N1bWVudC5hZGRFdmVudExpc3RlbmVyKCJsb2FkIixmdW5jdGlvbih0KXtmKCJ3aXRoaW5JZnJhbWUgbG9hZCBldmVudCIsdC50YXJnZXQpLCF0LnRhcmdldHx8IlNDUklQVCIhPT10LnRhcmdldC5ub2RlTmFtZSYmIklNRyIhPT10LnRhcmdldC5ub2RlTmFtZXx8KHQudGFyZ2V0Ll9sb2FkU3RhdGU9ImxvYWQiKX0sITApLGRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoImVycm9yIixmdW5jdGlvbih0KXtmKCJ3aXRoaW5JZnJhbWUgZXJyb3IgZXZlbnQiLHQudGFyZ2V0KSwhdC50YXJnZXR8fCJTQ1JJUFQiIT09dC50YXJnZXQubm9kZU5hbWUmJiJJTUciIT09dC50YXJnZXQubm9kZU5hbWV8fCh0LnRhcmdldC5fbG9hZFN0YXRlPSJlcnJvciIsd2luZG93LmZhaWxlZF91cmxzPXdpbmRvdy5mYWlsZWRfdXJsc3x8W10sd2luZG93LmZhaWxlZF91cmxzLnB1c2godC50YXJnZXQuc3JjKSl9LCEwKSx3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcigibWVzc2FnZSIsZnVuY3Rpb24odCl7dmFyIG49dC5kYXRhLmV2ZW50TmFtZTtpZih2b2lkIDAhPT1uKXN3aXRjaChuKXtjYXNlImZyYW1lTG9hZGVkIjp3aW5kb3cucGFyZW50LnBvc3RNZXNzYWdlKHQuZGF0YSwiKiIpO2JyZWFrO2Nhc2UiYnViYmxldXAiOndpbmRvdy5wYXJlbnQucG9zdE1lc3NhZ2UodC5kYXRhLCIqIil9aWYodm9pZCAwIT09dC5kYXRhLmlmcmFtZUlkKXtmKCJtZXNzYWdlIHJlY2VpdmVkICIrdC5kYXRhLmlmcmFtZUlkKTt2YXIgZT10LmRhdGEscj1mdW5jdGlvbih0KXsibG9hZGluZyIhPT1kb2N1bWVudC5yZWFkeVN0YXRlP3QoKTpkb2N1bWVudC5hZGRFdmVudExpc3RlbmVyKCJET01Db250ZW50TG9hZGVkIix0KX0sbz1mdW5jdGlvbiBpKHQpe3ZhciBuPXtvcmlnaW5JZnJhbWVJZDp0LmlmcmFtZUlkLHJlYWR5U3RhdGU6ZG9jdW1lbnQucmVhZHlTdGF0ZSxyZXF1ZXN0RGF0YTpbXSxjc3NEYXRhOltdfSxlPXQuc3JjU3Vic3RyaW5ncztpZih2b2lkIDAhPT1lKWZvcih2YXIgcj1kb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKHAuam9pbigiLCIpKSxvPTA7bzxyLmxlbmd0aDtvKyspe3ZhciBhPXJbb107aWYoYS5zcmMpe3ZhciBzPWUuc29tZShmdW5jdGlvbih0KXtyZXR1cm4gYS5zcmMuaW5kZXhPZih0KSE9PS0xfSk7aWYocyl7aWYodm9pZCAwPT09YS5fbG9hZFN0YXRlKXJldHVybiBmKCJXYWl0IGZvciBldmVudCBmcm9tICIrYS5zcmMpLGEuYWRkRXZlbnRMaXN0ZW5lcigibG9hZCIsZnVuY3Rpb24oKXtpKHQpfSksdm9pZCBhLmFkZEV2ZW50TGlzdGVuZXIoImVycm9yIixmdW5jdGlvbigpe2kodCl9KTtuLnJlcXVlc3REYXRhLnB1c2goe3R5cGU6YS5ub2RlTmFtZSxzcmM6YS5zcmMsc3RhdGU6YS5fbG9hZFN0YXRlfSl9fX12YXIgYz10LmRpc3BsYXlUeXBlcyxkPXQuY3NzQXR0cmlidXRlczt2b2lkIDAhPT1jJiZ2b2lkIDAhPT1kJiYocj1kb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKGMuam9pbigiLCIpKSxBcnJheS5wcm90b3R5cGUuZm9yRWFjaC5jYWxsKHIsZnVuY3Rpb24odCl7dmFyIGU9d2luZG93LmdldENvbXB1dGVkU3R5bGUodCkscj17fTtkLmZvckVhY2goZnVuY3Rpb24odCl7clt0XT1lLmdldFByb3BlcnR5VmFsdWUodCl9KSxuLmNzc0RhdGEucHVzaCh7dHlwZTp0Lm5vZGVOYW1lLGlkOnQuaWQsImNsYXNzIjp0LmdldEF0dHJpYnV0ZSgiY2xhc3MiKSxjc3NBdHRyaWJ1dGVzOnJ9KX0pKSxmKCJzZW5kIHJlc3BvbnNlICIrdC5pZnJhbWVJZCksbi5mYWlsZWRfdXJscz13aW5kb3cuZmFpbGVkX3VybHMscGFyZW50LnBvc3RNZXNzYWdlKG4sIioiKX07cihmdW5jdGlvbigpe28oZSl9KX19KX12YXIgcj10KDUpO3dpbmRvdy5hZG9uaXNIYXNoPXdpbmRvdy5hZG9uaXNIYXNofHx3aW5kb3cubG9jYXRpb24uaGFzaHx8IiI7dmFyIG89d2luZG93LlJUQ1BlZXJDb25uZWN0aW9ufHx3aW5kb3cubW96UlRDUGVlckNvbm5lY3Rpb258fHdpbmRvdy53ZWJraXRSVENQZWVyQ29ubmVjdGlvbjtpZighbylyZXR1cm4gdm9pZCByLnJlcG9ydEV2ZW50KCJib290c3RyYXAuaWZ3LnJ0Yy5hYnNlbnQiKTtyLnJlcG9ydEV2ZW50KCJib290c3RyYXAuaWZ3LnJ0Yy5leGlzdHMiKTt2YXIgaT13aW5kb3cuYWRvbmlzSGFzaC5pbmRleE9mKCJhZG9uaXMtbG9nZ2luZyIpIT09LTEsYT1mdW5jdGlvbigpe3JldHVybiBmdW5jdGlvbih0LG4sZSxyKXt2YXIgbz1PYmplY3QuZ2V0T3duUHJvcGVydHlEZXNjcmlwdG9yKHQucHJvdG90eXBlLG4pO09iamVjdC5kZWZpbmVQcm9wZXJ0eSh0LnByb3RvdHlwZSxuLHtnZXQ6ZnVuY3Rpb24oKXtyZXR1cm4gZShvLmdldCx0aGlzLGFyZ3VtZW50cyl9LHNldDpmdW5jdGlvbigpe3JldHVybiByKG8uc2V0LHRoaXMsYXJndW1lbnRzKX0sZW51bWVyYWJsZTohMH0pfX0scz1mdW5jdGlvbigpe3JldHVybiBmdW5jdGlvbih0LG4sZSl7cmV0dXJuIHQuYXBwbHkobixlKX19LGM9ZnVuY3Rpb24odCl7cmV0dXJuIGZ1bmN0aW9uKGUscixvKXt0cnl7dmFyIGk9b1swXTtpZihpLmluZGV4T2YoImh0bWwiKSE9PS0xKXt2YXIgYT1pLnNwbGl0KCI7Iikscz1hWzFdLGM9cGFyc2VJbnQocykrdC5sZW5ndGg7YVsxXT1jLnRvU3RyaW5nKCksaT1hLmpvaW4oIjsiKSxpPWkucmVwbGFjZSgiPGhlYWQ+IiwiPGhlYWQ+Iit0KSxvWzBdPWl9fWNhdGNoKGQpe24oZCl9cmV0dXJuIGUuYXBwbHkocixvKX19LGQ9ZnVuY3Rpb24oKXtyZXR1cm4gZnVuY3Rpb24odCl7dmFyIG49ITE7aWYodC5zcmMmJjAhPT10LnNyYy5pbmRleE9mKCJqYXZhc2NyaXB0OiIpJiYwIT09dC5zcmMuaW5kZXhPZigiYWJvdXQ6YmxhbmsiKSl7dmFyIGU9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgiYSIpO2UuaHJlZj10LnNyYzt2YXIgcj1lLmhvc3Q7cj09PXdpbmRvdy5sb2NhdGlvbi5ob3N0JiYobj0hMCl9ZWxzZSBuPSEwO3JldHVybiBufX0sdT1mdW5jdGlvbih0KXtyZXR1cm4gZnVuY3Rpb24oZSxyKXt2YXIgbz1yLndyaXRlO3Iud3JpdGU9ZnVuY3Rpb24oZSl7dHJ5e3RoaXMuX2luamVjdGVkfHwoZS5pbmRleE9mKCI8aGVhZD4iKSE9PS0xPyhlPWUucmVwbGFjZSgvPGhlYWQ+KC4qKTxcL2hlYWQ+LyxmdW5jdGlvbihuLGUpe3JldHVybiI8aGVhZD4iK3QrZSsiPC9oZWFkPiJ9KSx0aGlzLl9pbmplY3RlZD0hMCk6ZS5pbmRleE9mKCI8Ym9keSIpIT09LTE/KGU9ZS5yZXBsYWNlKC8oPGJvZHkuKj8+KS8sZnVuY3Rpb24obixlKXtyZXR1cm4gZSt0fSksdGhpcy5faW5qZWN0ZWQ9ITApOmUuaW5kZXhPZigiPHNjcmlwdCIpIT09LTEmJihlPWUucmVwbGFjZSgvKDxzY3JpcHQuKj8+Lio8XC9zY3JpcHQ+KS8sZnVuY3Rpb24obixlKXtyZXR1cm4gdCtlfSksdGhpcy5faW5qZWN0ZWQ9ITApKX1jYXRjaChyKXtuKHIpfXJldHVybiBvLmNhbGwodGhpcyxlKX19fSxmPWZ1bmN0aW9uKHQsZSl7cmV0dXJuIGZ1bmN0aW9uKHIsbyxpKXt2YXIgYT1yLmFwcGx5KG8saSk7dHJ5e2lmKG8uY29udGVudERvY3VtZW50RGVjb3JhdGVkKXJldHVybiBhO28uY29udGVudERvY3VtZW50RGVjb3JhdGVkPSEwLGUobykmJnQobyxhKX1jYXRjaChzKXtuKHMpfXJldHVybiBhfX0sbD1mdW5jdGlvbigpe3JldHVybiBmdW5jdGlvbih0LG4sZSl7cmV0dXJuIHQuYXBwbHkobixlKX19LHA9ZnVuY3Rpb24odCxlKXtyZXR1cm4gZnVuY3Rpb24ocixvLGkpe3ZhciBhPXIuYXBwbHkobyxpKTt0cnl7aWYoby5jb250ZW50V2luZG93RGVjb3JhdGVkKXJldHVybiBhO28uY29udGVudFdpbmRvd0RlY29yYXRlZD0hMCxlKG8pJiZ0KG8sYS5kb2N1bWVudCl9Y2F0Y2gocyl7bihzKX1yZXR1cm4gYX19LHc9ZnVuY3Rpb24oKXtyZXR1cm4gZnVuY3Rpb24odCxuLGUpe3JldHVybiB0LmFwcGx5KG4sZSl9fSxnPVsnPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPignLGUudG9TdHJpbmcoKSwiKSgiLFtpLnRvU3RyaW5nKCksYS50b1N0cmluZygpLHMudG9TdHJpbmcoKSxjLnRvU3RyaW5nKCksZC50b1N0cmluZygpLHUudG9TdHJpbmcoKSxmLnRvU3RyaW5nKCksbC50b1N0cmluZygpLHAudG9TdHJpbmcoKSx3LnRvU3RyaW5nKCldLmpvaW4oIiwiKS50b1N0cmluZygpLCIpPCIsIi9zY3JpcHQ+Il0uam9pbigiIik7YSgpKEhUTUxJRnJhbWVFbGVtZW50LCJuYW1lIixzKCksYyhnKSksYSgpKEhUTUxJRnJhbWVFbGVtZW50LCJjb250ZW50RG9jdW1lbnQiLGYodShnKSxkKCkpLGwoKSksYSgpKEhUTUxJRnJhbWVFbGVtZW50LCJjb250ZW50V2luZG93IixwKHUoZyksZCgpKSx3KCkpfSgpfSx7NTo1fV0sMjpbZnVuY3Rpb24odCxuLGUpeyJ1c2Ugc3RyaWN0Ijt2YXIgcj10KDMpO3dpbmRvdy5hZG9uaXNIYXNoPXdpbmRvdy5hZG9uaXNIYXNofHx3aW5kb3cubG9jYXRpb24uaGFzaHx8IiI7dmFyIG89d2luZG93LmFkb25pc0hhc2guaW5kZXhPZigiYWRvbmlzLWxvZ2dpbmciKT49MDtyLkxPR19MRVZFTD1vPyJkZWJ1ZyI6ci5MT0dfTEVWRUw7dmFyIGk9d2luZG93LmFkb25pc3x8e307aS53c0hvc3QmJnIuV1MmJihyLldTLmhvc3Q9aS53c0hvc3QpLGkudHJhbnNwb3J0JiZyLlNVRVpfSFRUUF9FTkRQT0lOVCYmKHIuU1VFWl9IVFRQX0VORFBPSU5UPWkudHJhbnNwb3J0KSxuLmV4cG9ydHM9cn0sezM6M31dLDM6W2Z1bmN0aW9uKHQsbixlKXsidXNlIHN0cmljdCI7bi5leHBvcnRzPXtSRUFMX1NUVU5fSE9TVDoic3R1bi54cGFuYW1hLm5ldDozNDc4IixUVVJOU0lHTkFMX0hPU1Q6InRzLnAueHBhbmFtYS5uZXQ6NzAwMCIsU1RVTkdVTl9IT1NUOiJzZy5wLnhwYW5hbWEubmV0OjM0ODAiLFNFUlZFUl9DQU5ESURBVEU6ImNhbmRpZGF0ZTo4Mjc2NDgwMjYgMSB1ZHAgMjEyMjE5NDY4NyBTRVJWRVJfSVAgU0VSVkVSX1BPUlQgdHlwIGhvc3QgZ2VuZXJhdGlvbiAwIixSRVBPUlRJTkdfVVJMOiJodHRwczovL2xiLnN0YXRzZXZlbnQuY29tL3N0YXRzIixSRVBPUlRJTkdfUkFURTouMDEsTE9HX0xFVkVMOiJlcnJvciIsUkVQT1JUX0VSUk9SUzohMCxNQU5JRkVTVF9VUkw6Imh0dHBzOi8vc3JpLmpzaW50ZWdyaXR5LmNvbS9tYW5pZmVzdC5qc29uIixNQU5JRkVTVF9FWFBJUkFUSU9OX1RJTUU6ODY0MDAsQURfTUFSS0VSOiJhZG9uaXMtbWFya2VyIixBRE9OSVNfQ0xJRU5UX0ZFVENIX1VSTDoiaHR0cHM6Ly9hZHNlcnZlci54cGFuYW1hLm5ldC9jbGllbnQtNy1sYXRlc3QuanMiLFdTOntob3N0OiJzdWV6LXNlcnZlci54cGFuYW1hLm5ldCIscGF0aDoiL3dzIixwb3J0OjQ0MyxzZWN1cmU6ITAscHJvbWlzZVRpbWVvdXQ6M2UzfSxTRVJWSUNFX1NUQVRVU19VUkw6ZnVuY3Rpb24odCl7cmV0dXJuImh0dHBzOi8vY2xpZW50LnJlYWN0cmpzLmNvbS8iK3QrIi1zdGF0dXMuanNvbiJ9LFNVRVpfSFRUUF9FTkRQT0lOVDoiaHR0cHM6Ly9zdWV6LnhwYW5hbWEubmV0L2h0dHAiLFNVRVpfSFRUUF9SRVRSWTozLFNVRVpfSFRUUF9ERUxBWToxMDB9fSx7fV0sNDpbZnVuY3Rpb24odCxuLGUpeyJ1c2Ugc3RyaWN0IjtmdW5jdGlvbiByKHQpe3JldHVybiB0JiZ0Ll9fZXNNb2R1bGU/dDp7ImRlZmF1bHQiOnR9fXZhciBvPXQoMiksaT1yKG8pLGE9dCg3KSxzPSgwLGEuY3JlYXRlKSh7bGV2ZWw6aVsiZGVmYXVsdCJdLkxPR19MRVZFTH0pO24uZXhwb3J0cz17bG9nZ2VyOnMsc3VlekxvZ2dlcjpzfX0sezI6Miw3Ojd9XSw1OltmdW5jdGlvbih0LG4sZSl7InVzZSBzdHJpY3QiO2Z1bmN0aW9uIHIodCl7dmFyIG49bmV3IFhNTEh0dHBSZXF1ZXN0LGU9W2QuUkVQT1JUSU5HX1VSTCx0XS5qb2luKCIiKTtuLm9wZW4oIkdFVCIsZSwhMCksbi5zZW5kKCl9ZnVuY3Rpb24gbyh0KXtkLlJFUE9SVF9FUlJPUlMmJnIoIi9hZG9uaXNfZXJyb3I/ZT0iK3QudG9TdHJpbmcoKSsiJndlYnNpdGU9Iit3aW5kb3cubG9jYXRpb24uaG9zdG5hbWUpfWZ1bmN0aW9uIGkoKXtyZXR1cm4gbnVsbCE9d2luZG93LkFET05JU19CT09UU1RSQVBfU1RBVFM/d2luZG93LkFET05JU19CT09UU1RSQVBfU1RBVFM9PT0hMDpNYXRoLnJhbmRvbSgpPGQuUkVQT1JUSU5HX1JBVEV9ZnVuY3Rpb24gYSh0LG4pe2lmKHModCksaSgpKXt2YXIgZT17d2Vic2l0ZTp3aW5kb3cubG9jYXRpb24uaG9zdG5hbWUsa2V5OnR9O251bGwhPW4mJihlLnF1YW50aXR5PW4pLHIoWyIvYWRvbmlzX2V2ZW50Lz9ldmVudD0iLEpTT04uc3RyaW5naWZ5KGUpXS5qb2luKCIiKSl9fWZ1bmN0aW9uIHModCl7dmFyIG49e2tleTp0LHRpbWVfbXM6TWF0aC5yb3VuZCh3aW5kb3cucGVyZm9ybWFuY2Uubm93KCkpLHdlYnNpdGU6d2luZG93LmxvY2F0aW9uLmhvc3RuYW1lfTtmLnB1c2gobil9ZnVuY3Rpb24gYygpe3UuZGVmaW5lUmVhZE9ubHlQcm9wZXJ0eSgiYWRvbmlzQm9vdHN0cmFwVGltaW5nIixmKX12YXIgZD10KDIpLHU9dCg2KSxmPVtdO24uZXhwb3J0cz17cmVwb3J0RXJyb3I6byxyZXBvcnRFdmVudDphLHNhdmVUaW1pbmc6YyxzaG91bGRSZXBvcnQ6aX19LHsyOjIsNjo2fV0sNjpbZnVuY3Rpb24odCxuLGUpeyJ1c2Ugc3RyaWN0IjtmdW5jdGlvbiByKHQsbil7dHJ5e09iamVjdC5kZWZpbmVQcm9wZXJ0eSh3aW5kb3csdCx7dmFsdWU6bix3cml0YWJsZTohMX0pfWNhdGNoKGUpe28ud2FybigiQ2Fubm90IGRlZmluZSByZWFkLW9ubHkgcHJvcGVydHkgb2Ygd2luZG93IG9iamVjdDogIitlKX19dmFyIG89dCg0KS5sb2dnZXIsaT1mdW5jdGlvbih0KXsibG9hZGluZyIhPT1kb2N1bWVudC5yZWFkeVN0YXRlP3QoKTpkb2N1bWVudC5hZGRFdmVudExpc3RlbmVyKCJET01Db250ZW50TG9hZGVkIix0KX07bi5leHBvcnRzPXtkZWZpbmVSZWFkT25seVByb3BlcnR5OnIscmVhZHk6aX19LHs0OjR9XSw3OltmdW5jdGlvbih0LG4sZSl7ZnVuY3Rpb24gcih0LG4pe2NvbnN0IGU9YVtuXTt2b2lkIDAhPT1lJiYoZT4wJiYodC5hc3NlcnQ9ZnVuY3Rpb24oKXt9KSxlPjUmJih0LnRyYWNlPWZ1bmN0aW9uKCl7fSksZT4xMCYmKHQuZGVidWc9ZnVuY3Rpb24oKXt9KSxlPjIwJiYodC5sb2c9ZnVuY3Rpb24oKXt9KSxlPjMwJiYodC5pbmZvPWZ1bmN0aW9uKCl7fSksZT40MCYmKHQud2Fybj1mdW5jdGlvbigpe30pLGU+NTAmJih0LmVycm9yPWZ1bmN0aW9uKCl7fSkpfWZ1bmN0aW9uIG8odCxuKXtuPW58fHt9O2NvbnN0IGU9bi5sZXZlbHx8ImRlYnVnIjtyKHQsZSl9ZnVuY3Rpb24gaSh0KXtjb25zdCBuPU9iamVjdC5jcmVhdGUoY29uc29sZSk7cmV0dXJuIG8obix0KSxufWNvbnN0IGE9e2FsbDowLHRyYWNlOjUsZGVidWc6MTAsbG9nOjIwLGluZm86MzAsd2Fybjo0MCxlcnJvcjo1MH0scz1pKCk7bi5leHBvcnRzPXtsb2dnZXI6cyxjb25maWd1cmU6byxjcmVhdGU6aX19LHt9XX0se30sWzFdKTs="));
+
+		}
+	});
+
+
+
+
+
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_tv"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+
+
+
+
+
+
+
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+
+
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+
+
+
+
+
+
+	require([
+		'wikia.geo',
+		'wikia.instantGlobals',
+		require.optional('ext.wikia.adEngine.lookup.rubicon.rubiconFastlane')
+	], function (geo, globals, bidder) {
+		var countries = globals['wgAdDriverRubiconFastlaneCountries'];
+
+		if (bidder && geo.isProperGeo(countries)) {
+			bidder.call();
+		}
+	});
+
+
+
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+
+
+
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			dc = globals.wgAdDriverOpenXPrebidBidderCountries,
+			qs = new Querystring();
+
+		if ((geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') && !geo.isProperGeo(dc)) {
+			oxBidder.call();
+		};
+	});
+
+
+
+	require([
+		'wikia.geo',
+		'wikia.instantGlobals',
+		'ext.wikia.adEngine.lookup.prebid'
+	], function (geo, globals, prebid) {
+		var ac = globals['wgAdDriverPrebidBidderCountries'];
+
+		if (geo.isProperGeo(ac)) {
+			prebid.call();
+		}
+	});
+
+
+
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+
+
+
+
+require(['wikia.geo', 'wikia.instantGlobals'], function(geo, instantGlobals) {
+	var url = "//s.adadapter.netzathleten-media.de/API-1.0/NA-828433-1/naMediaAd.js",
+		scriptElementNetzAthleten = document.createElement("script");
+	if (geo.isProperGeo(instantGlobals.wgAdDriverNetzAthletenCountries)) {
+		scriptElementNetzAthleten.type = "text/javascript";
+		scriptElementNetzAthleten.src = url;
+
+		scriptElementNetzAthleten.addEventListener("load", function(){
+			window.naMediaAd.setValue("homesite", window.wgIsMainpage);
+		});
+		document.head.appendChild(scriptElementNetzAthleten);
+	}
+});
+
+
+
+
+	require([
+		"ext.wikia.adEngine.adContext"
+	], function (adContext) {
+		var context = adContext.getContext(),
+		logGroup = 'ext.wikia.aRecoveryEngine.recovery.bootstrap';
+
+		if (context.opts.sourcePointBootstrap === true) {
+			window._sp_ = window._sp_ || {};
+			window._sp_.config = window._sp_.config || {};
+			window._sp_.config.account_id = 106;
+
+			!function(n){function o(e){if(t[e])return t[e].exports;var i=t[e]={i:e,l:!1,exports:{}};return n[e].call(i.exports,i,i.exports,o),i.l=!0,i.exports}var t={};o.m=n,o.c=t,o.i=function(n){return n},o.d=function(n,t,e){o.o(n,t)||Object.defineProperty(n,t,{configurable:!1,enumerable:!0,get:e})},o.n=function(n){var t=n&&n.__esModule?function(){return n.default}:function(){return n};return o.d(t,"a",t),t},o.o=function(n,o){return Object.prototype.hasOwnProperty.call(n,o)},o.p="",o(o.s=4)}([function(n,o){function t(n,o){e&&console[n].apply(console,["[bootstrap]"].concat(Array.prototype.slice.call(o)))}var e=!1;n.exports={debug:function(){t("debug",arguments)},info:function(){t("info",arguments)},time:function(){t("time",arguments)},warn:function(){t("warn",arguments)},error:function(){t("error",arguments)},useDefaults:function(){e=!0},DEBUG:1}},function(n,o,t){"use strict";function e(n){return n.join("")}t.d(o,"b",function(){return i}),t.d(o,"a",function(){return r});var i=(t(0),"1.7.754"),r=(e(["w","w","w",".","d","e","c","e","n","t","h","a","t",".","c","o","m"]),e(["w","w","w",".","r","o","o","s","t","e","r","f","i","r","e","w","o","r","k",".","c","o","m"]));e(["/","/","f","s","m","1","0","1","9",".","g","l","o","b","a","l",".","s","s","l",".","f","a","s","t","l","y",".","n","e","t","/","f","s","m","/","d","s"]),e(["h","t","t","p","s",":","/","/","d","2","z","v","5","r","k","i","i","4","6","m","i","q",".","c","l","o","u","d","f","r","o","n","t",".","n","e","t","/","0","/","1",".","7",".","7","5","4","/","r","e","c","o","v","e","r","y","_","d","f","p","_","i","n","t","e","r","n","a","l","-","v","1",".","7",".","7","5","4",".","j","s"]),e(["h","t","t","p","s",":","/","/","d","2","z","v","5","r","k","i","i","4","6","m","i","q",".","c","l","o","u","d","f","r","o","n","t",".","n","e","t","/","0","/","1",".","7",".","7","5","4","/","r","e","c","o","v","e","r","y","_","l","i","b","_","a","p","i","_","i","f","r","a","m","e","-","v","1",".","7",".","7","5","4",".","h","t","m","l"]),e(["h","t","t","p","s",":","/","/","d","2","z","v","5","r","k","i","i","4","6","m","i","q",".","c","l","o","u","d","f","r","o","n","t",".","n","e","t","/","0","/","1",".","7",".","7","5","4","/","r","e","c","o","v","e","r","y","_","l","i","b","_","r","i","d","_","i","f","r","a","m","e","-","v","1",".","7",".","7","5","4",".","h","t","m","l"])},function(n,o,t){"use strict";function e(n,o){function t(n){try{return n&&n.timeStamp?n.timeStamp:window.performance.now()}catch(n){return Date.now()}}var e=document.createElement("a");if(e.href=n,"https:"===window.location.protocol&&e.protocol!==window.location.protocol)return void o(!1,!1,e.protocol,d);var s=new XMLHttpRequest;try{s.open("GET",n)}catch(n){return void o(!0,!1,n.toString(),c,s)}var u=void 0,f=void 0;s.onloadstart=function(n){u=t(n)},s.onreadystatechange=function(n){if(4===this.readyState){f=t(n)-u;var e=0===this.status,c="2"===this.status.toString()[0],a=c?r:i;return void o(e,c,this.status+"::"+f,a,s)}};try{s.send()}catch(n){return void o(!0,!1,n.toString(),a,s)}}o.a=e;var i=(t(0),"n"),r="nx",c="xo",a="xs",d="p"},function(n,o,t){"use strict";function e(){var n=arguments.length>0&&void 0!==arguments[0]?arguments[0]:document,o=[],t=[],e=i.bind(null,o),r=i.bind(null,t);return n.addEventListener("load",e,!0),n.addEventListener("error",r,!0),{load:{events:o,listener:e},error:{events:t,listener:r}}}function i(n,o){if(o.target){var t="string"==typeof o.target.tagName?o.target.tagName.toLowerCase():"",e=o.target.src||"";"iframe"!==t&&n.push({tagName:t,src:e})}}o.a=e;t(0)},function(n,o,t){"use strict";function e(){if(!q){q=!0,window._sp_=window._sp_||{},F=window._sp_.config=window._sp_.config||{},window._sp_._networkListenerData=t.i(p.a)(),G=F.content_control_callback||window._sp_lock,M=F.account_id||F.client_id||window.sp_cid,F.debug_level&&"OFF"!==F.debug_level.toString().toUpperCase()?z=!0:window.location.search&&null!=window.location.search.match(/_sp_debug_level=(?!off|OFF)/)&&(z=!0),z&&_.useDefaults({defaultLevel:_.DEBUG});for(var n in F)D[n]=F[n]}}function i(n,o,e){function i(t,e){var i=new Image;i.src="//"+(F.content_control_beacon_endpoint||w.a)+"/cct?v="+encodeURIComponent(w.b)+"&ct="+h+"&cid="+encodeURIComponent(M)+"&l="+encodeURIComponent(n.toString())+"&rc="+encodeURIComponent(o)+"&d0="+encodeURIComponent(r)+(t?"&d1="+encodeURIComponent(t):"")+(e?"&d2="+encodeURIComponent(e):""),v.info("sending beacon: "+i.src),a&&a()}var r=arguments.length>3&&void 0!==arguments[3]?arguments[3]:"",c=arguments[4],a=arguments[5];if(c){var d=e.lastIndexOf("."),s=e.lastIndexOf("/"),u=-1===d||s>d?e+".png":e.substring(0,d)+".png",f=new Image;f.addEventListener("load",function(){i("1",u)}),f.addEventListener("error",function(){t.i(l.a)(u,function(n,o,t){i("0",u+"::"+t)})}),f.src=u}else i()}function r(n,o,t,e){var i=arguments.length>4&&void 0!==arguments[4]?arguments[4]:{},c=arguments.length>5&&void 0!==arguments[5]&&arguments[5],a=function(){return r(n,o,t,e,i,!0)};n(o,c?t:a,e,i)}function c(n,o,t,e){function i(t,i){o(t,n,i,e.enableImageLoad)}function r(o,i){t(o,n,i,e.enableImageLoad),e.onError&&e.onError(i)}var c=document.createElement("script");c.src=n,c.onload=function(){try{if(window._sp_&&window._sp_.bootstrap===f&&window.spBootstrap===u&&window._sp_.config===F){for(var n in D)if(D[n]!==F[n]){b&&b();break}}else b&&b()}catch(n){b&&b()}e.onLoad&&e.onLoad()},c.onerror=function(){function o(n){return t.indexOf(n)>-1}var t=(navigator.userAgent||navigator.vendor||window.opera).toLowerCase();o("mobi")||o("ipad")||o("android")||o("iphone")?r(I):o("exabot")?r(S):o("bingbot")||o("bingpreview")?r(U):o("googlebot")||o("adsbot-google")||o("mediapartners-google")?r(E):o("googleweblight")?r(C):window.location.host===g?r(k):window.location.host.indexOf(m)>-1?r(j):o("msie 10")||o("msie 9")||o("msie 8")?r(O):a(n,i,r)},document.head.appendChild(c),document.querySelector('script[src="'+n+'"]')||-1!==window.location.host.indexOf(m)||i(L,n)}function a(n,o,e){t.i(l.a)(n,function(t,i,r,c){(t||i?o:e)(c,n+"::"+r)})}function d(n,o,t,e){if(B)return void s(R+"::"+n,t);i(x,n,o,t,e,function(){if(G){if(z){v.error("bootstrap locking",x,n,o,t,e);debugger}setTimeout(function(){G()},250)}})}function s(n,o,t,e){i(y,n,o,t,e)}function u(n,o){e(),o&&(G=window._sp_lock=o),r(c,n,d,s)}function f(n,o){e(),v.info("bootstrap called with",n,o),r(c,n,d,s,o)}Object.defineProperty(o,"__esModule",{value:!0});var l=t(2),p=t(3),w=t(1),v=t(0),_=void 0;_=t(0);var g=["w","e","b","c","a","c","h","e",".","g","o","o","g","l","e","u","s","e","r","c","o","n","t","e","n","t",".","c","o","m"].join(""),m=["o","p","t","i","m","i","z","e","l","y","p","r","e","v","i","e","w",".","c","o","m"].join(""),b=void 0;try{b=window._sp_&&window._sp_.config&&window._sp_.config.spid_control_callback}catch(n){}var h=1,y=0,x=1,L="s",I="m",E="g",k="gw",C="gl",O="i",U="b",S="e",R="n",j="o",D={},q=!1,B=!1,z=!1,F=void 0,G=void 0,M=void 0;window.addEventListener("beforeunload",function(){B=!0});try{window._sp_=window._sp_||{},window._sp_.bootstrap=f,window.spBootstrap=u,window._sp_.bootstrap===f&&window.spBootstrap===u||b&&b()}catch(n){b&&b()}}]);
+//# sourceMappingURL=https://s3.amazonaws.com/d3jlsadfjkuern/1.7.754/Ym9vdHN0cmFwLmpz.map
+
+			window._sp_.config.content_control_callback = function () {
+				window.Wikia.log('content_control_callback called', window.Wikia.log.levels.debug, logGroup);
+				if (!window.wgUserName) {
+					document.getElementById('WikiaArticle').style.display = 'none';
+					document.getElementById('WikiaArticleMsg').style.display = 'block';
+					window.addEventListener('load', function () {
+						require(['ext.wikia.aRecoveryEngine.adBlockRecovery'], function (adBlockRecovery) {
+							'use strict';
+							adBlockRecovery.track('callback');
+						});
+					});
+				} else {
+					window.Wikia.log(['getBootstrap', 'content control disabled - user is logged in', window.wgUserName], log.levels.debug, logGroup);
+				}
+			};
+		}
+
+		if (context.opts.sourcePointRecovery === true) {
+			window._sp_.config.publisher_base = 'http://rupaulsdragrace.wikia.com/__bre';
+			window._sp_.config.enable_rid = true;
+
+			window._sp_.bootstrap('http://rupaulsdragrace.wikia.com/api/v1/ARecoveryEngine/delivery');
+
+			window.addEventListener('load', function () {
+				require(['ext.wikia.aRecoveryEngine.adBlockRecovery'], function (adBlockRecovery) {
+					adBlockRecovery.verifyContent();
+				});
+			});
+		} else if (context.opts.sourcePointMMS === true) {
+			var mmsDomain = context.opts.sourcePointMMSDomain;
+
+			window._sp_.mms = window._sp_.mms || {};
+			window._sp_.mms.cmd = window._sp_.mms.cmd || [];
+
+			window._sp_.bootstrap('http://rupaulsdragrace.wikia.com/api/v1/ARecoveryEngine/spmsg');
+			window._sp_.bootstrap('http://rupaulsdragrace.wikia.com/api/v1/ARecoveryEngine/spmmsc');
+
+			window.addEventListener('load', function() {
+				window._sp_.config.mms_domain = mmsDomain;
+				window._sp_.config.mms_client_data_callback = function () {
+					window.Wikia.log(['getBootstrap', 'mms_client_data_callback called', arguments], window.Wikia.log.levels.debug, logGroup);
+				};
+
+				window._sp_.mms.cmd.push(function () {
+					window._sp_.mms.setTargeting("showmessage", "yes");
+				});
+				window._sp_.mms.cmd.push(function () {
+					window._sp_.mms.startMsg();
+				});
+			});
+		} else {
+			window.Wikia.log(['getBootstrap', 'MMS and Recovery are disabled'], window.Wikia.log.levels.debug, logGroup);
+		}
+	});
+
+
+
+
+	require([
+		'wikia.document',
+		'wikia.geo',
+		'wikia.instantGlobals'
+	], function (doc, geo, globals) {
+		var acceptedCountries = globals['wgAdDriverGoogleFundingChoicesCountries'],
+			script;
+
+		if (geo.isProperGeo(acceptedCountries)) {
+			script = doc.createElement('script');
+			script.src = 'https://contributor.google.com/scripts/63838b5c087240ba/loader.js';
+
+			doc.head.appendChild(script);
+			(function(){var g=function(a){var b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;var c=Object.prototype.toString.call(a);if("[object Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";if("[object Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null"; else if("function"==b&&"undefined"==typeof a.call)return"object";return b};var h=function(a){"function"==g(a)&&a()},k=function(a,b,c){a.addEventListener?a.addEventListener(b,c):a.attachEvent&&a.attachEvent("on"+b,c)},l=function(a,b){var c=a.indexOf(b);return 0<=c?parseInt(a.substring(c+b.length,a.indexOf(".",c)),10):-1},m=-2;var n=function(a,b,c,f){var d=new Date;k(b,"load",function(){var e;if(-2===m){e=window.navigator.userAgent;var t=l(e,"MSIE ");m=0<=t?t:0<=e.indexOf("Trident/")?11:l(e,"Edge/")}e=m;-1!==e&&11>=e&&a.a[b.src]>=d?h(f):h(c)});k(b,"error",function(){h(f)})},p=function(a,b,c,f){var d=document.createElement("script");n(a,d,function(){h(c);d&&d.parentNode&&d.parentNode.removeChild(d)},function(){h(f);d&&d.parentNode&&d.parentNode.removeChild(d)});d.async=!0;d.src=b;document.getElementsByTagName("head")[0].appendChild(d)}, q=function(a,b,c,f,d,e){0>=d?h(f):p(a,b,c,function(){e?window.setTimeout(function(){q(a,b,c,f,d-1)},e):q(a,b,c,f,d-1)})};var r=new function(){this.a={}},v=function(){h(window.stop);document.body&&document.body.parentNode.removeChild(document.body);document.getElementsByTagName("HTML")[0].appendChild(document.createElement("BODY"));var a=document.createElement("IFRAME");a.src="https:\/\/p.w.m80fg.com\/s\/err?w\x3d63838b5c087240ba";a.style.width="100%";a.style.height="100%";a.style.background="white";a.style.border="none";a.style.zIndex=2147483647;document.body.appendChild(a);a=document.createElement("STYLE");a.innerText="body, html { margin: 0; padding: 0; height: 100%; overflow: hidden; }"; document.head.appendChild(a);a="https:\/\/p.d.em0n.com\/v4\/AAAACgAA_VB9AJgQOcqasVseUvGxTgAA_WD4J5g0043gpWpIDFLUVhCz28LxG7a2oVpxfMkbeYQprNSc9dOJcg?ls="+encodeURIComponent(JSON.stringify(u));p(r,a,null,null)},u=[0,0],w=function(a,b){u[a]=b;(3===u[1]||2===u[0]&&2===u[1])&&v()};window["mjbhyt"]=v;q(r,"https:\/\/p.d.em0n.com\/v4\/AAAACgAA_VB9AJgQOcqasVseUvGxTgAA_82nzXg00869QJGQ8jk-Yj6968DmvEUJcrD5PJ5p9pV62tBKqSw6uGUP3x3-SfgG0ueMPcFyZ_jBbWwiKD7VMgtpucMiegzjw",function(){window["VB9AJgQOco"]||w(1,3)},function(){w(1,2)},3,450);var x=q,y,z=("&"+window.location.search.substring(1)).split("&gmefkevpis=");y=1<z.length?"?gmefkevpis="+z[1].split("&")[0]:""; for(var A=("; "+document.cookie).split("; ymrhmm="),B=[],C=1;C<A.length;C++)B.push(A[C].split(";")[0]);x(r,"https:\/\/p.d.em0n.com\/v4\/AAAACgAA_VB9AJgQOcqasVseUvGxTgAA_Ztzmqw00861D418gz1pLpm38GQIAtZuw7S2B3XJz_4MS_sl-cwds5gaMiv9tKJDSVX4Kb-xDsyrtMM4Rnhz5GTnd24ve6moA"+B.join(",")+y,null,function(){w(0,2)},3,550);}).call(this);
+		}
+	});
+
+
+FANDOM
+
+Skip to Content
+Skip to Wiki Navigation
+Skip to Site Navigation
+
+
+
+
+
+
+
+  
+
+
+	Games
+
+	Movies
+
+	TV
+
+
+Wikis
+ 
+
+
+
+	Explore Wikis
+
+
+	Community Central
+
+
+	Fandom University
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+ 
+
+
+
+
+
+ My Account
+ 
+
+
+
+
+		Sign In	
+
+ 
+		Don't have an account?	
+
+		Register	
+
+
+
+
+
+
+Start a Wiki
+ 
+
+
+
+
+
+
+
+
+
+							window.adslots2.push(["TOP_LEADERBOARD"]);
+					
+
+
+
+
+
+							window.adslots2.push(["TOP_BUTTON_WIDE"]);
+					
+
+
+
+
+
+
+							window.adslots2.push(["INVISIBLE_SKIN"]);
+					
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+			window.adslots2.push(["TOP_LEADERBOARD_AB"]);
+		
+
+
+
+
+
+
+
+
+
+
+
+
+Rupaul's Drag Race Wiki Navigation
+
+
+Seasons
+
+
+Season 9
+
+
+Season 8
+
+
+Season 7
+
+
+Season 6
+
+
+Season 5
+
+
+All Stars
+
+
+Season 1
+
+
+Season 2
+
+
+
+
+Other Seasons
+
+
+Season 1
+
+
+Season 2
+
+
+Season 3
+
+
+Season 4
+
+
+
+
+
+
+Queens
+
+
+S9 Queens
+
+
+Valentina
+
+
+Trinity Taylor
+
+
+Aja
+
+
+Alexis Michelle
+
+
+Charlie Hides
+
+
+Eureka O’Hara
+
+
+Farrah Moan
+
+
+
+
+S8 Queens
+
+
+Kim Chi
+
+
+Derrick Barry
+
+
+Dax ExclamationPoint
+
+
+Acid Betty
+
+
+Chi Chi DeVayne
+
+
+Naomi Smalls
+
+
+Laila McQueen
+
+
+
+
+S7 Queens
+
+
+Kennedy Davenport
+
+
+Miss Fame
+
+
+Ginger Minj
+
+
+Violet Chachki
+
+
+Pearl
+
+
+Katya
+
+
+Trixie Mattel
+
+
+
+
+S6 Queens
+
+
+Gia Gunn
+
+
+Magnolia Crawford
+
+
+Adore Delano
+
+
+Joslyn Fox
+
+
+BenDeLaCreme
+
+
+Kelly Mantle
+
+
+Courtney Act
+
+
+
+
+All Stars Queens
+
+
+All Stars 1 Queens
+
+
+All Stars 2 Queens
+
+
+
+
+Other Queens
+
+
+S1 Queens
+
+
+S2 Queens
+
+
+S3 Queens
+
+
+S4 Queens
+
+
+S5 Queens
+
+
+
+
+
+
+Judges
+
+
+RuPaul
+
+
+Michelle Visage
+
+
+Carson Kressley
+
+
+Ross Mathews
+
+
+Santino Rice
+
+
+Guest Judges
+
+
+Lady Bunny
+
+
+Merle Ginsberg
+
+
+Billy B
+
+
+LaToya Jackson
+
+
+
+
+
+
+Community
+
+
+Recent blog posts
+
+
+Administrators
+
+
+Mandy
+
+
+Bela
+
+
+
+
+Policies
+
+
+Editing Rules
+
+
+Forum Rules
+
+
+Blog Rules
+
+
+Chat Rules
+
+
+Comment Rules
+
+
+
+
+Forum
+
+
+Discord
+
+
+
+
+On the Wiki
+
+
+Wiki Activity
+
+
+Random page
+
+
+Videos
+
+
+Images
+
+
+Chat
+
+
+Forum
+
+
+
+
+
+
+
+ 
+
+
+ Contribute
+	
+
+
+
+
+Add a Video
+
+
+Add a Photo
+
+
+Add a Page
+
+
+Wiki Activity
+
+
+
+
+
+Watchlist
+Random page
+Recent changes
+
+
+
+
+
+
+
+RuPaul's Drag Race (Season 5)
+
+
+174pages on this wiki
+
+		Add New Page	
+
+
+
+
+ Edit	
+
+
+
+
+
+History
+
+
+
+ Comments3
+
+				Share			
+
+
+
+
+
+
+ RuPaul's Drag Race
+
+
+ 1
+ 2
+ 3
+ 4
+ AS1
+ 5
+ 6
+ 7
+ 8
+ AS2
+ 9
+
+
+
+
+ 
+ Spoilers
+
+This article contains spoilers and/or upcoming content, and therefore may be incorrect and will change from time to time. Continue reading at your own discretion.
+
+
+
+
+Season 5
+
+
+
+
+
+Information
+
+No. of Episodes
+14
+
+
+Premiere
+January 28, 2013
+
+
+Finale
+May 6, 2013
+
+
+Season Chronology
+
+
+← Previous
+Next →
+
+
+
+
+All Stars 1
+Season 6
+
+
+
+
+The fifth season of RuPaul's Drag Race premiered on January 28, 2013 with a 90-minute premiere episode. It had the most contestants since the creation of the show with fourteen.
+As this season's winner, Jinkx Monsoon walked away with the title of "America's Next Drag Superstar," along with a lifetime supply of Colorevolution Cosmetics, a one-of-a-kind trip courtesy of AlandChuck.travel, a headlining spot on Logo's Drag Race Tour featuring Absolut Vodka, and a cash prize of $100,000. Santino Rice and Michelle Visage were back as judges at the panel. The theme song playing during the runway every episode is "I Bring the Beat", while the song playing during the credits is "The Beginning", both songs are from RuPaul's album Glamazon.
+
+Contents[show]
+ Contestants 
+     
+
+
+
+ Alaska
+ Alyssa Edwards
+ Coco Montrese
+ Detox
+ Honey Mahogany
+
+
+
+ Ivy Winters
+ Jade Jolie
+ Jinkx Monsoon
+ Lineysha Sparx
+
+
+
+ Monica Beverly Hillz
+ Penny Tration
+ Roxxxy Andrews
+ Serena ChaCha
+ Vivienne Pinay
+
+
+
+(Ages and names stated are during time of contest)
+
+
+
+ Rank  Photo  Contestant  Real Name  Age  Hometown  Ep. 1  Ep. 2  Ep. 3  Ep. 4  Ep. 5  Ep. 6  Ep. 7  Ep. 8  Ep. 9  Ep. 10  Ep. 11  Ep. 12  Ep. 13(Recap)Ep. 14(Reunion)
+
+
+1st(Winner)
+
+Jinkx Monsoon
+Jerick Hoffer
+25
+Seattle, WA
+SAFE
+HIGH
+HIGH
+HIGHTeam Captain
+WIN
+HIGH
+HIGH
+HIGH
+WIN
+HIGH
+BTM2
+SAFE
+N/A
+ WINNER
+
+
+2nd & 3rd(Runners-Up)
+
+Alaska
+Justin Andrew Honard
+27
+Pittsburgh, PA
+HIGH
+SAFE
+LOWTeam Captain
+SAFE
+HIGH
+LOW
+HIGHMini Challenge WInner
+WIN
+HIGH
+LOWMini Challenge Winner
+WINMini Challenge Winner
+SAFE
+N/A
+RUN UP
+
+
+
+Roxxxy Andrews
+Michael Feliciano
+ 28
+Orlando, FL
+ WIN
+SAFEImmunity
+HIGH
+LOW
+HIGHMini Challenge Winner
+HIGH
+BTM2
+LOW
+HIGH
+WIN
+HIGH
+SAFE
+N/A
+RUN UP
+
+
+4th
+
+Detox
+Matthew Sanderson
+ 27
+Los Angeles, CA
+SAFEMini Challenge Winner
+SAFETeam Captain
+WIN
+SAFE
+BTM2Mini Challenge Winner
+SAFEMini Chalenge Winner
+SAFE
+HIGH
+LOWTeam Captain
+BTM2
+ELIM
+
+RTRN
+
+
+5th
+
+Coco Montrese
+Martin Cooper
+37
+Las Vegas, NV
+SAFE
+HIGH
+BTM2
+SAFETeam Captain
+SAFE
+BTM2
+WIN
+LOW
+BTM2
+ELIM
+
+RTNR
+
+
+6th
+
+Alyssa Edwards
+Justin Johnson
+32
+Mesquite, TX
+SAFE
+HIGH
+SAFE
+WIN
+LOWImmunity & Mini Challenge Winner
+LOW
+BTM2
+BTM2
+ELIMTeam Captain
+
+RTRN
+
+
+7th(Ms. Congeniality)
+
+Ivy Winters
+Dustin Winters
+26
+New York, NY
+HIGH
+SAFETeam Captain
+SAFE
+HIGH
+LOW
+WIN
+LOW
+ ELIMMini Challenge Winner
+
+ MS.CON
+
+
+8th
+
+Jade Jolie
+Josh Green
+25
+Gainesville, FL
+LOW
+HIGH
+SAFE
+SAFE
+SAFE
+ELIM
+
+RTRN
+
+
+9th
+
+Lineysha Sparx
+Andy Trinidad
+24
+San Juan, PR
+HIGH
+WIN
+LOWImmunity & Team Captain
+SAFE
+ ELIM
+
+RTRN
+
+
+10th & 11th (Double Elimination)
+
+Honey Mahogany
+Alpha Mulugeta
+29
+San Francisco, CA
+SAFE
+SAFE
+SAFE
+ELIM
+
+RTRN
+
+
+
+Vivienne Pinay
+Michael Donehoo
+26
+New York, NY
+SAFE
+SAFE
+LOW
+ELIM
+
+RTRN
+
+
+12th
+
+Monica Beverly Hillz
+Juan DeJesus Anaya
+27
+Owensboro, KY
+SAFE
+BTM2
+ELIM
+
+RTRN
+
+
+13th
+
+Serena Cha Cha
+Myron Morgan
+21
+Tallahassee, FL
+BTM2
+ELIMTeam Captain
+
+RTRN
+
+
+14th (Fan Vote Winner)
+
+Penny Tration
+Tony Kody
+39
+Cincinnati, OH
+ ELIM
+
+RTRN
+
+█ The contestant won RuPaul's Drag Race.
+█ The contestant was a runner-up.
+█ The contestant won the main challenge. Winners in Episodes 1, 2, and 4 received immunity the following week.
+█ The contestant was one of the best but did not win the main challenge.
+█ The contestant was a member of a winning team but did not win the main challenge.
+█ The contestant was one of the worst but did not place in the bottom two.
+█ The contestant placed in the bottom two but neither was eliminated.
+█ The contestant placed in the bottom two but was not eliminated.
+█ The contestant placed in the bottom two & was eliminated.
+█ The contestant placed in the bottom two & both were eliminated.
+█ After being eliminated, the contestant was voted Ms. Congeniality by viewers on Episode 14.
+█ After being eliminated, the contestant returned and appeared on Episode 14 (The Reunion), but was out of the running.
+█ The contestant did not participate in the episode.
+
+Trivia
+ Episode 4 included the first double elimination in series history.
+ In Episode 7, Alyssa Edwards and Roxxxy Andrews ended up in the bottom two, but both got a second chance to stay as there was no elimination that week.
+ No elimination occurred in Episode 12 as the winner was crowned during Episode 14, the reunion episode.
+ Episode 13 is a recap episode with never-before seen footage.
+
+Many milestones were broken this season:
+
+ Jade Jolie is the first contestant in Drag Race history to be neither in the top or bottom over four consecutive weeks.
+ Episode 8 marks the first time in Drag Race history to have more than four consecutive different main-challenge winners, with eight consecutive different winners.
+ Jinkx Monsoon is the first contestant in Drag Race history to be in the top for more than five consecutive weeks, with eight weeks.
+ Jinkx Monsoon is the only season winner to not win a main challenge within the first three weeks of competition, winning her first challenge during week 5.
+ Coco Montrese is the first contestant in Drag Race history to lip sync four times in the same season.
+ In Episode 9, Detox set a record for most mini-challenge wins in a season with five.
+ Jinkx Monsoon is the first season winner to have also won the Snatch Game challenge.
+ In 7th place, Ivy Winters is the second lowest ranked contestant of any season to have been voted Miss Congeniality.
+
+ Episodes 
+
+
+Series #
+Episode #
+Title #
+Airdate
+
+
+
+
+
+
+
+
+52
+1
+RuPaullywood or Bust
+January 28, 2013
+
+
+53
+2
+Lip Synch Eleganza Extravaganza
+February 4, 2013
+
+
+54
+3
+Draggle Rock
+February 11, 2013
+
+
+55
+4
+Black Swan: Why It Gotta Be Black?
+February 18, 2013
+
+
+56
+5
+Snatch Game
+February 25, 2013
+
+
+57
+6
+Can I Get An Amen?
+March 4, 2013
+
+
+58
+7
+RuPaul Roast
+March 11, 2013
+
+
+59
+8
+Scent of a Drag Queen
+March 18, 2013
+
+
+60
+9
+Drama Queens
+April 1, 2013
+
+
+61
+10
+Super Troopers
+April 8, 2013
+
+
+62
+11
+Sugar Ball
+April 15, 2013
+
+
+63
+12
+The Final Three, Hunty
+April 22, 2013
+
+
+64
+13
+Countdown to the Crown
+April 29, 2013
+
+
+65
+14
+Reunited!
+May 6, 2013
+
+ Episode 1, "RuPaullywood or Bust" 
+Airdate: January 28, 2013
+For the first time ever fourteen new queens begin their quests for the title of "America's Next Drag Superstar." During the underwater photoshoot, some rose to the occasion while others fell flat. Alaska gave up as she found it difficult to keep her composure while underwater. RuPaul announces that Detox is the winner of the mini-challenge and then reveals that the queens will be challenged to construct a 'Hollywood Glamor' outfit for the main stage presentation, made from materials salvaged from a dumpster in Beverly Hills. After revealing their looks on the runway; Detox, Coco Montrese, Alyssa Edwards, Honey Mahogony, Monica Beverly Hillz, Vivienne Pinay and Jinkx Monsoon were all called out as safe. RuPaul does stop them momentarily to request they impress her next week before they leave the stage, as being safe is not something to be proud of. Roxxxy Andrews, Ivy Winters, Alaska and Lineysha Sparx are praised for their looks, while Serena ChaCha and Penny Tration get critiqued on their outfits. Jade Jolie's look failed to show true Hollywood glamor as her aesthetic was over the top, but her personality shined through, and is safe. Roxxxy Andrews wins the challenge; gaining a custom made dress and immunity from elimination next week. Penny Tration and Serena ChaCha end up as the bottom two and lip synch for their lives to 'Party in the U.S.A.'. Penny is scrutinized by the other queens for not knowing the words to the song, while Serena turns out a party atmosphere, even dropping into the splits during her performance. RuPaul decides to give Serena a second chance, and Penny Tration sashays away.
+Off stage, a new clique emerged. Roxxxy Andrews, Alaska and Detox bonded together and formed "Rolaskatox". "Rolaskatox" is known to enter the work room at the beginning of an episode shouting "Ro-Laska-Tox". A rivalry between two contestants also emerged between Alyssa Edwards and Coco Montrese. The two queens competed in in the Miss Gay America competition back in 2010. The rivalry between both queens came from the fact that Alyssa was disqualified from a competition after being crowned, with Coco, the runner-up, taking her crown.
+
+ Guest Judges: Camille Grammer and Mike Ruiz
+ Mini-Challenge: Underwater photoshoot
+ Mini-Challenge Winner: Detox
+ Mini-Challenge Winner Advantage: Head start at dumpster
+ Main Challenge: Going dumpster diving to make a dress that brings out Hollywood realness and glamor
+ Main Challenge Winner: Roxxxy Andrews
+ Main Challenge Prize: Custom gown by Marco Marco and immunity for next week's elimination
+ Bottom Two: Penny Tration & Serena ChaCha
+ Lip Synch Song: "Party in the U.S.A." by Miley Cyrus
+ Eliminated: Penny Tration
+ Farewell Message: "You ARE ALL STARS smooches PT"
+
+ Episode 2, "Lip Synch Extravaganza Eleganza" 
+Airdate: February 4, 2013
+The contestants must lip synch to the spoken word, as they recreate classic moments from Drag Race history in scene-stealing viral videos. The mini-challenge consisted of lip-synching one of three of RuPaul's songs; Tranny Chaser, LadyBoy or Peanut Butter, with only their mouth visible. The winners were Serena ChaCha, Detox and Ivy Winters. The three winners became team captains for the main challenge. The main challenge was to impersonate memorable scenes from RuPaul's Drag Race Untucked season 2, 3 and 4.
+
+
+Impersonations
+
+
+ Season
+ Location
+ Impersonator
+ Impersonating
+
+
+Season 2
+Interior Illusions Lounge
+ Honey MahoganyIvy WintersMystique Summers MadisonMorgan McMichaels
+
+
+Gold Bar
+Lineysha SparxVivienne PinayTyra SanchezTatianna
+
+
+Season 3
+Interior Illusions Lounge
+ Alyssa EdwardsJinkx MonsoonRoxxxy AndrewsShangela Laquifa WadleyMimi ImfurstMariah
+
+
+Gold Bar
+Serena ChaChaJade JolieRajaDelta Work
+
+
+Season 4
+Interior Illusions Lounge
+ AlaskaDetoxPhi Phi O'HaraSharon Needles
+
+
+Gold Bar
+Monica Beverly HillzCoco MontreseJiggly CalienteLashauwn Beyond
+
+Guest judges Natural Born Killers' Juliette Lewis and 3rd Rock from the Sun's Kristen Johnston joined the judging panel. Following the runway presentations for the week, as well as viewing each team's clip, Ru announces team Ivy Winters is the winning team, with Lineysha Sparx declared the winner of the challenge. The 6ý two teams are critiqued, with Alyssa, Coco, Jade, and Jinkx receiving the most positive critiques for both their individual performances in the challenge, as well as their runway presentations. Roxxxy and Alaska are positively noted for their performances, but are critiqued on their runway looks, which the judges actually questioned as their "best drag". Detox was praised for her hilarious portrayal of Sharon Needles, but was criticized for appearing to have "been there, done that". During her critiques, a tearful Monica revealed that she is in fact a transgender woman in the process of transitioning. Serena ChaCha landed in the bottom two for a second straight week alongside Monica Beverly Hillz, both for lackluster performances in the challenge. After a fierce lip-sync, RuPaul decided to give Monica Beverly Hillz another chance, while Serena ChaCha sashayed away.
+
+ Guest Judges: Kristen Johnston and Juliette Lewis
+ Mini-Challenge: Lip synch to one of RuPaul's songs (Tranny Chaser, Ladyboy, Peanut Butter) with only your mouth visible.
+ Mini-Challenge Winners: Serena ChaCha, Detox, Ivy Winters
+ Mini-Challenge Winners Advantage: Become team captains and select team members
+ Main Challenge: Lip synch and re-enact a famous scene from a past season of RuPaul's Drag Race Untucked
+ Challenge Winner: Lineysha Sparx
+ Main Challenge Prize: A custom latex garment from Syren Latex and immunity for next week's elimination
+ Bottom Two: Monica Beverly Hillz & Serena Cha Cha
+ Lip Synch Song: "Only Girl (In the World)" by Rihanna
+ Eliminated: Serena ChaCha
+ Farewell Message: "God bless America, Viva Panama, Keep bearing light QUEENS xoxo Serena ChaCha"
+
+ Episode 3, "Draggle Rock" 
+Airdate: February 11, 2013
+The queens connect with their inner child as they star in a fun-filled kids TV show. During the mini-challenge, each contestant paired-up with another contestant and had to take a blank mannequin doll and create a mini-pageant for "America's Junior Drag Superstar". Alaska and Lineysha Sparx paired up together and were the winner of the mini-challenge. For the main challenge, the queens had to create a kid TV-show. As winners of the mini-challenge, Alaska and Lineysha were team captains. Team Alaska was: Alaska, Detox, Vivienne Pinay, Roxxxy Andrews, Monica Beverly Hillz and Alyssa Edwards. Team Lineysha was: Lineysha Sparx, Jinkx Monsoon, Jade Jolie, Ivy Winters, Honey Mahogany and Coco Montrese.
+
+
+
+Segment/Responsibility
+Team Alaska
+Team Lineysha
+
+
+Host
+Alaska
+Jinkx
+
+
+Word of the Day
+Detox
+Jade
+
+
+"How to" Segment
+Roxxxy & Vivienne
+Ivy & Lineysha
+
+
+Social Lesson of the Day
+Alyssa & Monica
+Coco & Honey
+
+For their main runway look, the contestants had to dress in pink. On the runway, Honey, Ivy, Alyssa and Jade are all called safe. Lineysha is also called safe, but is warned by RuPaul that she would be in the bottom if it wasn't for her immunity. The judges liked Roxxxy, Jinkx and Detox's performances in the challenges, with RuPaul naming Detox the winner. Alaska is criticized for dressing in male drag for the challenge, but her runway look is a hit, so she is safe. Vivienne is also criticized for resting on pretty, but she is also safe, leaving Coco and Monica in the bottom two for their poor performances. Coco outshines Monica in the lip synch, and Monica sashays away.
+
+ Guest Judges: Coco Austin and Paulina Porizkova
+ Mini-Challenge: Create a mannequin doll in pairs for "America's Junior Drag Superstar" pageant
+ Mini-Challenge Winners: Alaska and Lineysha Sparx
+ Mini-Challenge Winners Advantage: Become team captains and select team members
+ Main Challenge: Split into two teams and star in children's TV Shows
+ Challenge Winner: Detox
+ Main Challenge Prize: Wig wardrobe from New Attitude Wigs
+ Bottom Two: Monica Beverly Hillz & Coco Montrese
+ Lip Synch Song: "When I Grow Up" by The Pussycat Dolls
+ Eliminated: Monica Beverly Hillz
+ Farewell Message: "Love all of u guys, And never be a victim -♡- Monica Beverly Hillz'"
+
+
+
+ Episode 4, "Black Swan: Why It Gotta Be Black?" 
+Airdate: February 18, 2013
+For this episode's mini-challenge, the queens had to participate in a dance-off dancing to "Jealous of My Boogie" in a quick drag look wearing big afro hair. RuPaul chose Jinkx Monsoon and Coco Montrese as the winners of the mini-challenge and became team captains for the main challenge. This week, the queens are challenged to prove their elegance and dancing skills by starring in a ballet based on the life of RuPaul, and on the runway, are asked to present 'extravaganza' looks. Coco shocked everyone when she picked Alyssa as her first choice on her team. In her interview, she stated that she did this because of Alyssa's dancing abilities.
+
+
+
+ Team  Contestant  Role
+
+
+Act OneTeam Jinkx Monsoon Alaska  RuPaul's Mother
+
+
+ Jade Jolie  Young RuPaul
+
+
+ Lineysha Sparx  The Supremes' Diana Ross
+
+
+ Ivy Winters  Lady Bunny
+
+
+ Jinkx Monsoon  21-Year Old RuPaul
+
+
+Act TwoTeam Coco Montrese  Alyssa Edwards  Bad RuPaul
+
+
+ Coco Montrese  Good RuPaul
+
+
+ Detox  90s RuPaul
+
+
+ Honey Mahogany  90s Diana Ross
+
+
+ Roxxxy Andrews  Modern RuPaul
+
+
+ Vivienne Pinay  America's Next Drag Superstar
+
+On the runway, Detox, Coco, Lineysha, Jade and Alaska are all declared safe. In their critiques, although Jinkx and Ivy are praised, both Alyssa's dancing and her characterization of 'Bad RuPaul' secure her the win. Roxxxy is criticized for lacking energy, but RuPaul names Vivienne and Honey as the bottom two. After a fairly low-key lip synch, RuPaul surprises everyone by eliminating both queens, stating that neither brought the fire that proved they wanted to stay in the competition. RuPaul also added that he will not tolerate "half-stepping" and that he wants the queens to bring their best. This was the first in the history of RuPaul's Drag Race that two queens were eliminated on the same episode.
+
+ Guest Judges: Chaz Bono and Travis Wall
+ Mini-Challenge: Soul Train dance-off
+ Mini-Challenge Winners: Jinkx Monsoon and Coco Montrese
+ Mini-Challenge Winners Advantage: Become team captains and select team members
+ Main Challenge: Divide into two teams each tasked with performing a different act of a ballet about RuPaul's life
+ Challenge Winner: Alyssa Edwards
+ Main Challenge Prize: A custom feather headpiece from Mother Plucker and immunity for next week's elimination
+ Bottom Two: Honey Mahogany & Vivienne Pinay
+ Lip Synch Song: "Oops!... I Did It Again" by Britney Spears
+ Eliminated: Honey Mahogany and Vivienne Pinay
+ Farewell Message — Honey Mahogany: "Keep on loving each other, we will meet again, I can't wait. All my l♡ve, Honey Mahogany"
+ Farewell Message — Vivienne Pinay: "I love all my girls! Here's to the revolution of the FISH! ♡ Always, Vivienne Pinay"
+
+ Episode 5, "Snatch Game" 
+Airdate: February 25, 2013
+The queens compete in a star-studded TV game show that showcases their celebrity impersonations. With guest judges comedienne Julie Brown and former MTV VJ, Downtown Julie Brown.
+This week saw the return of the fan-favorite "Snatch Game" challenge, and on the runway, the queens wore their best 'fishy glamazon' looks. In the workroom, Jinkx's choice to do Little Edie is met with bewilderment from the other queens, while Ru is confused by Lineysha's initial choice to portray Michelle Obama. Realizing the choice could land her in the bottom, Lineysha made a last-minute change to Celia Cruz.
+
+
+
+ Queen  Celebrity Impersonation
+
+
+
+ Alaska  Lady Bunny       
+
+
+ Alyssa Edwards  Katy Perry      
+
+
+ Coco Montrese  Janet Jackson      
+
+
+ Detox  Ke$ha       
+
+
+ Ivy Winters   Marilyn Monroe     
+
+
+ Jade Jolie  Taylor Swift       
+
+
+ Jinkx Monsoon Little Edie      
+
+
+ Lineysha Sparx  Celia Cruz      
+
+
+ Roxxxy Andrews  Tamar Braxton       ----
+
+On the main stage, Jade, Coco and Alyssa were all declared safe, although Alyssa was warned that this was only because of her immunity as her Katy Perry impersonation was poor. Within the top three, Alaska was praised for being hilarious despite her voice not being Lady Bunny and Roxxxy was praised for both her impersonation and runway look. However, Jinkx's portrayal of Little Edie was deemed the best and she was declared the winner, although was warned that she still needed to bring the glamor. Detox, Lineysha and Ivy were all criticized for their impersonations, but Ivy's stunning runway look kept her out of the bottom two. During the lip synch, although both queens put in a strong performance, Detox's unique style kept her in the competition, and Lineysha sashayed away.
+
+ Guest Judges: Julie Brown and Downtown Julie Brown
+ Mini-Challenge: Style a cuddler into a red carpet ready look for an Us Weekly fashion face-off
+ Mini-Challenge Winners: Alyssa Edwards, Detox, Roxxxy Andrews
+ Mini-Challenge Winners Advantage: None
+ Main Challenge: Celebrity impersonations in a Match Game -style setting
+ Main Challenge Winner: Jinkx Monsoon
+ Main Challenge Prize: Custom jewel package from Fierce Drag Jewels
+ Bottom Two: Detox & Lineysha Sparx
+ Lip Synch Song: "Take Me Home" by Cher*
+ Eliminated: Lineysha Sparx
+ Farewell Message: "Latino shade. It was a pleasure to meet you girls, Thanks for your friendship. XOXO Kiss and hugs! Lineysha þ"
+
+ Episode 6, "Can I Get An Amen?" 
+Airdate: March 4, 2013
+The queens test their vocal abilities as they sing in RuPaul's 1980s "We Are The World"-inspired charity single. With guest judges La Toya Jackson and Anita and Ruth from The Pointer Sisters.
+For this week's mini-challenge, the queens were given the task to apply make-up in the dark. RuPaul declared Detox the winner. For the main-challenge, the queens had record a "We Are the World"-inspired charity single. As the winner of the mini-challenge, Detox could pick the teams. Coco Montrese was paired up with Alyssa Edwards, much to Coco's frustration, and were assigned the first verse. Ivy Winters, Jinkx Monsoon and Jade Jolie were grouped together and were assigned the second verse. Detox picked Roxxxy Andrews and Alaska for her team and decided to do the bridge.
+
+
+
+ Contestant  Section
+
+
+ Alyssa Edwards
+Verse One
+
+
+ Coco Montrese
+
+
+ Ivy Winters
+Verse Two
+
+
+ Jade Jolie
+
+
+ Jinkx Monsoon
+
+
+ Alaska
+Bridge
+
+
+ Detox
+
+
+ Roxxxy Andrews
+
+For this week's mainstage look, RuPaul wanted the queens to have an outfit that showcased their best body part. On the runway, RuPaul asked Coco how it was to work with Alyssa and she answered that Detox was trying to be malicious by pairing her up with Alyssa. Then, Michelle Visage critiqued Alaska that she was holding back too much and RuPaul said they have a feeling that she is hiding behind a shticky character. Ivy Winters was the winner of this week's main-challenge and was praised for the harmony she added to the song. Roxxxy Andrews and Jinkx Monsoon were also among the queens who received good critiques. Detox was safe, but RuPaul told her she wanted to see more next time. Jade Jolie and Coco Montrese landed in the bottom two; Jade for letting the other queens outshine her, and Coco for being too much in her head during the challenge. Ultimately, Coco could stay and Jade sashayed away.
+
+ Guest Judges: La Toya Jackson and The Pointer Sisters (Anita and Ruth)
+ Mini-Challenge: Apply drag makeup in the dark
+ Mini-Challenge Winner: Detox
+ Mini-Challenge Winner Advantage: Pairing the queens up in teams
+ Main Challenge: Record a "We Are the World"-inspired anthem entitled "Can I Get An Amen?"
+ Challenge Winner: Ivy Winters
+ Main Challenge Prize: A Flight 001 luggage package
+ Bottom Two: Coco Montrese & Jade Jolie
+ Lip Synch Song: "I'm So Excited" by The Pointer Sisters
+ Eliminated: Jade Jolie
+ Farewell Message:  "Cheers to my fish, fabulous and fierce sisters. I ♡ you all, Jade J."
+
+ Episode 7, "RuPaul Roast" 
+Airdate: March 11, 2013
+The queens' comedy skills are put on the spot as they must roast RuPaul and the celebrity judges in front of a live audience. With guest judges, The Help's Leslie Jordan, and Absolut Image Czar Jeffrey Moran. After last week's critiques during the elimination, Alaska decided to set herself apart from "Rolaskatox" so she could stand out for what she is. To mark that, she entered the work room shouting "Alaska", to differ from the better known "Ro-Laska-Tox". For this week's mini-challenge, the queens were asked to "read" the other contestants. RuPaul declared Alaska the winner of the mini-challenge. For the main challenge, the contestants had to roast RuPaul, as well as the judges and the other queens, in front of a live audience. As winner of the mini-challenge, Alaska decided the order in which the queens would perform:
+
+
+
+Order
+Contestant
+
+
+1st
+Alaska
+
+
+2nd
+Roxxxy Andrews
+
+
+3rd
+Coco Montrese
+
+
+4th
+Jinkx Monsoon
+
+
+5th
+Ivy Winters
+
+
+6th
+Alyssa Edwards
+
+
+Last
+Detox
+
+Nadya Ginsburg, Deven Green, and Bruce Vilanch coached the queens and guided them for their live performance. During the judges critiques, Alaska was praised for her comedy and her look. Michelle Visage admitted to Jinkx Monsoon that she loved her look on the runway, and Leslie Jordan said she can have a career in comedy in or out of drag. Coco Montrese was praised by the judges for her whole performance and her look. Detox was criticized for using the "f-word" too often but was praised for having a sparkle in her eyes during her performance. Alyssa Edwards was criticized for grabbing the microphone too much and for her prom-looking dress. Ivy Winters was criticized for relying on her cue cards too much, and Roxxxy Andrews for not delivering her jokes fast enough and not being funny enough. After deliberating, the judges declared Coco Montrese the winner of the main challenge. Roxxxy Andrews and Alyssa Edwards landed in the bottom two. After a stellar performance by both queens, Roxxxy Andrews broke into tears before RuPaul could reveal her decision, saying that being in the bottom two made some bad childhood memories resurface, and that she always felt not good enough. After an emotional moment, RuPaul decided to give both queens another chance, and they were both safe. This is the third time that no elimination has occurred in the series history; the other two occurrences were during season 3 (Carmen Carrera & Yara Sofia) and the All-Stars season (Raven and Jujubee).
+
+ Guest Judges: Leslie Jordan and Jeffrey Moran
+ Mini-Challenge: "Reading is Fundamental"
+ Mini-Challenge Winner: Alaska
+ Mini-Challenge Winner Advantage: Decide in which order the queens will appear on stage
+ Main Challenge: Roast RuPaul, as well as the judges and fellow queens, in front of a live audience
+ Challenge Winner: Coco Montrese
+ Main Challenge Prize: A custom gown from Sequin Queen
+ Bottom Two: Alyssa Edwards & Roxxxy Andrews
+ Lip Synch Song: "Whip My Hair" by Willow Smith
+ Eliminated: None
+ Farewell Message: N/A
+
+ Episode 8, "Scent of a Drag Queen" 
+Airdate: March 18, 2013
+The queens create, market and film a commercial for their own signature fragrance. With guest judges Aubrey O'Day, and Knots Landing's Joan Van Ark.
+This week's mini-challenge had the queens play Drag Race's version of the memory game, Whatcha Packin', where the queens had to pair two models among a group of 22 with the same underwear in the shortest amount of time. As a curiosity, the brand oriented to gay customers, Andrew Christian appeared with mostly of their cast, the porn actor Brent Corrigan can be seen in the background. After all the queens completed the challenge, Ivy Winters was declared winner and won a phone-call home. Then, RuPaul announced that the main-challenge of this week would be to create, market and film a commercial for a signature fragrance. During the main-stage presentation, the queens presented their commercial and wore the looks for their perfume launch party.
+
+
+
+ Queen  Fragrance
+
+
+ Alaska  Red for Filth
+
+
+ Alyssa Edwards  Alyssa's Secret
+
+
+ Coco Montrese  Ru Animale by Coco
+
+
+ Detox  Heroine
+
+
+ Ivy Winters   Dress Code
+
+
+ Jinkx Monsoon  Delusion
+
+
+ Roxxxy Andrews  Thick and Juicy
+
+During the critiques, Jinkx Monsoon was once again praised by Michelle Visage for her look on the runway and guest judge Joan Van Ark thought her commercial was the best. Detox was criticized for her look as it looked undone but was praised for her good commercial. Coco Montrese was criticized for her commercial due to the abundance of animal print in it but her runway look was praised, although she over-accessorized. Out of all the queens, Alaska received praise both for her funny commercial and her runway look matching her brand, which led to Ru declaring her the winner of this challenge. On the other hand, Ivy Winters was criticized for not selling her brand well enough in the commercial and her ice-skater look on the runway. Roxxxy Andrews was also criticized by Santino Rice for her look on the runway but her commercial was deemed better. Alyssa Edwards was also criticized for her commercial and confusing branding. In the end, Ivy Winters and Alyssa Edwards landed in the bottom two. After their lip-synch performance, RuPaul told Alyssa to stay and asked Ivy to sashay away.
+
+ Guest Judges: Aubrey O'Day and Joan Van Ark
+ Mini-Challenge: Whatcha Packin' - Match male models wearing the same pairs of Andrew Christian underwear
+ Mini-Challenge Winner: Ivy Winters
+ Mini-Challenge Prize: A phone call home
+ Main Challenge: Create, market, and film a commercial for a signature fragrance
+ Challenge Winner: Alaska
+ Main Challenge Prize: A selection of handmade corsets from Corset Connection
+ Bottom Two: Alyssa Edwards & Ivy Winters
+ Lip Synch Song: "Ain't Nothin' Goin' on But the Rent" by Gwen Guthrie
+ Eliminated: Ivy Winters
+ Farewell Message: "Love you girls so much!! You always have a friend in me! XOXO Ivy"
+
+ Episode 9, "Drama Queens" 
+Airdate: April 1, 2013
+The competition gets spicy as the queens star with Wilmer Valderrama in a sexy Latin telenovela acting challenge, with guest judges Maria Conchita Alonso and The Sopranos' Jamie-Lynn Sigler. During the mini-challenge of this week, the queens had to cry on cue as RuPaul asked the contestants to create a fake sob story and cry. The majority of the queens approached this challenge with humor, but Detox confessed that she did not felt like doing this challenge humorously and it brought back memories of his boyfriend's passing two years prior. After the mini-challenge was over, RuPaul declared Detox and Alyssa Edwards winners. For this week's main challenge, the queens had to star in a Latin telenovela with co-star Wilmer Valderrama. As winners of the mini-challenge, Alyssa Edwards and Detox picked the teams. "Rolaskatox" was reunited while Alyssa Edwards and Coco Montrese were once again teamed together, which created some frustration among both queens, knowing their past.
+
+
+
+ Teams  Queens
+
+
+Team DetoxElla No Es Dama  Detox
+
+
+ Roxxxy Andrews
+
+
+ Alaska
+
+
+Team Alyssa EdwardsCasa de Locas  Alyssa Edwards
+
+
+ Jinkx Monsoon
+
+
+ Coco Montrese
+
+For the runway presentation, RuPaul asked the queens to be dressed in their best Latin glamor. During the critiques, Roxxxy Andrews's makeup and acting was well received among the judges and felt like she redeemed herself for her past two bad weeks. Detox was criticized for her campy hat that was not fitting with the rest of her look, and that she was not bringing enough villain into her character during the telenovela. Alaska was praised for her walk and acting, but was criticized for her cheap-looking dress. Then, Michelle Visage commented to Alyssa Edwards that she could not understand what she was saying during the telenovela. Santino claimed Alyssa's dress to be the worst dress that he has seen in the past five seasons of Drag Race. Alyssa replied that if she was asked to lip-synch for her life every week, she would do it and she would stay in the competition. Coco argued with Alyssa claiming that what Alyssa was saying is discrediting the other queen's talent. Then, Michelle Visage complimented Jinkx's spooky look. Jamie-Lynn Sigler praised her for her great acting and RuPaul said that she was shocked about her look but it was great. Coco Montrese was criticized for her acting, claiming that she looked like she was intimidated by the co-star but her look was praised. Also, during Untucked, it was revealed that RuPaul asked the queens to say who was their biggest rival and who should go home next. All but Detox said that Jinkx Monsoon was one of their biggest rivals. Alyssa Edwards was unanimously voted as the girl who should go home next. In the end, Jinkx Monsoon was declared the winner, and Alyssa Edwards and Coco Montrese were asked to lip-synch for their lives. After a great performance by both queens, Coco Montrese could stay in the competition and Alyssa was asked to sashay away.
+
+ Guest Judges: Maria Conchita Alonso and Jamie-Lynn Sigler
+ Mini-Challenge: Creating fake 'sob stories' and producing real tears in front of RuPaul
+ Mini-Challenge Winners: Detox and Alyssa Edwards
+ Mini-Challenge Winners Advantage: Become team captains and select team members
+ Main Challenge: Star in a faux Latin telenovela alongside Wilmer Valderrama
+ Challenge Winner: Jinkx Monsoon
+ Main Challenge Prize: A pair of fur coats from Fabulous-Furs
+ Bottom Two: Alyssa Edwards & Coco Montrese
+ Lip Synch Song: "Cold Hearted" by Paula Abdul
+ Eliminated: Alyssa Edwards
+ Farewell Message: "The sky is the limit when your ♡ 's in it. Don't dream it, be it. Always and forever, Alyssa"
+
+ Episode 10, "Super Troopers" 
+Airdate: April 8, 2013
+For the mini challenge, the remaining queens were exposed to drag boot camp by Storm (fitness trainer). Alaska won the challenge for outlasting the other queens, with her prize being to match the queens to a gay veteran for a drag makeover. Roxxxy was annoyed that Alaska picked Iszy, a short veteran for her, while Alaska gave Jinkx to the oldest veteran in order for her to perform badly due to her being Alaska's competition. With the other queens, Detox's partner Aaron is enthusiastic and flirty, while Coco was worried that she may not be able to paint her partner Steve well. Jinkx's partner Dave also revealed that he will have a hard time walking in heels, due to his medication because he has AIDS.
+
+
+
+Queen
+Drag Sister/Mother
+
+
+Alaska
+Nebraska
+
+
+Coco Montrese
+Horchata Montrese
+
+
+Detox
+Beth Adone
+
+
+Jinkx Monsoon
+Fortuna Monsoon
+
+
+Roxxxy Andrews
+Isabella Andrews
+
+On the main stage, the queens and veterans were challenged to perform a patriotic flag salute before walking the runway displaying their transformation. During the critiques, Roxxxy was praised for her veteran's look and their sister-like image, while Jinkx and her veteran's homage to Judy Garland and Liza Minnelli also received positive feedback. On the other hand, Detox and Beth Adone were criticized for their sloppy flag salute, Alaska was castigated for making Nebraska more good looking than her as well as padding her incorrectly, and Coco's veteran's makeup received very negative feedback. In the end, Roxxxy won the challenge while Coco and Detox lip synched for their lives. Detox was allowed to stay and Coco sashayed away.
+
+ Guest Judges: Clinton Kelly and George Kotsiopoulos
+ Mini-Challenge: Last as long as possible in drag booty camp with a fitness trainer
+ Mini-Challenge Winner: Alaska
+ Mini-Challenge Winner Advantage: Select and pair veterans with each queen
+ Main Challenge: Military-to-drag makeover/color guard performance
+ Challenge Winner: Roxxxy Andrews
+ Main Challenge Prize: A shopping spree at American Apparel
+ Bottom Two: Detox & Coco Montrese
+ Lip Synch Song: "(It Takes) Two to Make It Right" by Seduction
+ Eliminated: Coco Montrese
+ Farewell Message: "I love you all, Give them hell girls. Love, Coco M"
+
+ Episode 11, "Sugar Ball" 
+Airdate: April 15, 2013
+The race gets sticky and sweet, when the queens compete in a pageant of candy inspired couture. With guest judges CSI's Marg Helgenberger, and legendary designer Bob Mackie. For this week's mini-challenge, the queens had to make a puppet of their own peers and made a "bitch fest", of which Alaska was declared the winner. For the main challenge, the queens had to participate in the Sugar Ball and design three outfits in three different categories:
+
+ Super Duper Sweet 16, to display teen looks,
+ Sugar Mama - Executive Realness, to represent real-life strong business women,
+ Candy Couture, which was to be made out of real candy.
+
+As the winner of the mini-challenge, Alaska was given a 15 seconds head-start in picking the candies for her outfit as well as being tasked with choreographing a dance routine for all four queens as an opening number to a song from Sugar Babies. During the critiques, Alaska was praised for her three looks, especially her Candy Couture which Bob Mackie loved, although she was criticized for her simple opening choreography. Jinkx Monsoon was criticized for her Sweet 16 look because it looked too old, or as Michelle Visage said, it looked like Sweet 47. Her other two looks also did not receive good reviews, although she was praised by Marg Helgenberger for her performance in the opening number. Roxxxy Andrews' three looks were well received, and the judges liked that she was the only one to have candy in all three looks. However, Michelle felt that her Sweet 16 was too promiscuous. Detox was criticized for her Candy Couture look as it demonstrated a questionable taste level, but her executive realness look was very well received. In the end, Roxxxy Andrews was safe and Alaska won the challenge. Alaska is the third contestant in Drag Race history to reach the finale without being in the bottom two; the other two being Nina Flowers of season 1 and Tyra Sanchez of season 2. Jinkx Monsoon and Detox ended up in the bottom two. After a well-performed lip-synch by both queens, RuPaul allowed Jinkx to stay and Detox sashayed away.
+
+ Guest Judges: Marg Helgenberger and Bob Mackie
+ Mini-Challenge: Make a caricature of their own peers with a puppet
+ Mini-Challenge Winner: Alaska
+ Mini-Challenge Winner Advantage: 15 second head start at candy selection, and becoming choreographer for opening musical number.
+ Main Challenge: Design three outfits for the Sugar Ball: Super Duper Sweet 16, Sugar Mama - Executive Realness, and Candy Couture
+ Challenge Winner: Alaska
+ Main Challenge Prize: A private portrait session with Austin Young
+ Bottom Two: Detox & Jinkx Monsoon
+ Lip Synch Song: "Malambo No. 1" by Yma Sumac
+ Eliminated: Detox
+ Farewell Message: "Condragulations grillz! Go F****** Kill Them! Rolaskatox 4EVAAAHH! ♡ Detox"
+
+ Episode 12, "The Beginning " 
+Airdate: April 22, 2013
+The top 3 queens go to court, as Judge Ru presents their final challenge - starring in the music video for RuPaul's hit "The Beginning". With special guest mega-attorney Gloria Allred. This week, Michelle Visage came to announce the week's main challenge to the queens. The main challenge consisted of two parts: star in RuPaul's music video "The Beginning" and shooting a dramatic courtroom scene. For the music video, the queens had to learn a choreography with a chiffon as well as to work their hair in the wind, with the help of guest star Candis Cayne. Then, for the courtroom scene, each queens had to portray three different roles: the defense attorney, the defendant and the prosecutor. Mathu Anderson was directing the queens during the scenes. As in each Drag Race series finale, RuPaul also sat down with each queens for a kiki about the competition. For the final runway presentation, the queens had to plead their case and defend their lives, while showing why they should be "America's Next Drag Superstar". Guest star Gloria Allred was there to help out the queens with their cases. During the final runway presentation, no guest judges were present; only Michelle Visage, Santino and RuPaul. For the critiques, each queens were praised for a part in this week's main challenge: Roxxxy Andrews for the music video, Jinkx Monsoon for the court-room scene and Alaska for defending her life. Then, each queens participated in the final lip-synch to "The Beginning". Like the fourth season, RuPaul announced that she did not made up her mind, and that she would need the help of the public to decide who "America's Next Drag Superstar" will be and is going to be announced during the reunion episode. This is the first time since the second season that a queen has not come back in the competition for a second chance at the crown. Also by this episode, Roxxxy Andrews had become the third contestant in drag race history (following season one's Nina Flowers and Rebecca Glasscock), to be critiqued on the runway every week leading up to the finale. She finished the season with a total of 12 weeks to be critiqued.
+
+ Special Guests: Gloria Allred, Candis Cayne and Mathu Anderson
+ Main Challenge: Star in RuPaul's music video "The Beginning" and shoot a courtroom scene.
+ Lip Synch Song: "The Beginning" by RuPaul
+
+ Episode 13, "Countdown to the Crown" 
+Airdate: April 29, 2013
+A look back on the highlights, low-lights, and previously unseen footage from the season as we race toward the climactic crowning of America's Next Drag Superstar. With guest appearances by Latrice Royale, Willam, and Sharon Needles.
+
+ Episode 14, "Reunited!" 
+Airdate: May 6, 2013
+Wigs fly as the queens discuss the drama of the season. Plus, both "America's Next Drag Superstar" and "Miss Congeniality" are crowned. The episode was filmed on May 1, 2013 in Los Angeles.[5]
+
+ Miss Congeniality: Ivy Winters
+ Runners Up: Alaska & Roxxxy Andrews
+ Winner of RuPaul's Drag Race Season 5: Jinkx Monsoon
+
+Gallery
+
+
+
+
+
+ Check out the lookbook gallery to see the queens' looks from each episode.
+
+
+Navigation
+
+
+ RuPaul's Drag Race Season 5
+
+
+
+Winner
+
+
+Jinkx Monsoon
+
+
+
+
+Runner-Ups
+
+
+2nd: Alaska & 3rd: Roxxxy Andrews
+
+
+
+
+Other Queens
+
+
+4th: Detox, 5th: Coco Montrese, 6th: Alyssa Edwards, 7th: Ivy Winters (Miss Congeniality), 8th: Jade Jolie, 9th: Lineysha Sparx, 10th & 11th: Honey Mahogany & Vivienne Pinay, 12th: Monica Beverly Hillz, 13th: Serena ChaCha, 14th: Penny Tration
+
+
+
+
+Judges
+
+
+RuPaul • Santino Rice • Michelle Visage
+
+
+
+
+Pit Crew
+
+
+Jason Carter • Shawn Morales
+
+
+
+
+ RuPaul's Drag Race Wiki
+
+
+
+
+
+ Seasons
+
+
+
+RuPaul's Drag Race
+
+
+1 • 2 • 3 • 4 • 5 • 6 • 7 • 8 • 9
+
+
+
+
+RuPaul's All Stars Drag Race
+
+
+1 • 2
+
+
+
+
+ Queens
+
+
+
+Winners
+
+
+Bebe Zahara Benet (S1), Tyra Sanchez (S2), Raja (S3), Sharon Needles (S4), Chad Michaels (AS1), Jinkx Monsoon (S5), Bianca Del Rio (S6), Violet Chachki (S7), Bob The Drag Queen (S8), Alaska (AS2)
+
+
+
+
+Runner-Ups
+
+
+Nina Flowers (S1), Raven & Jujubee (S2, All-Stars S1), Manila Luzon & Alexis Mateo (S3), Chad Michaels & Phi Phi O'Hara (S4), Raven (AS1), Alaska & Roxxy Andrews (S5), Adore Delano & Courtney Act (S6), Ginger Minj & Pearl (S7), Kim Chi & Naomi Smalls (S8), Detox & Katya (AS2)
+
+
+
+
+Miss Congeniality
+
+
+Nina Flowers (S1), Pandora Boxx (S2), Yara Sofia (S3), Latrice Royale (S4), Ivy Winters (S5), BenDeLaCreme (S6), Katya (S7), Cynthia Lee Fontaine (S8)
+
+
+
+
+See also: 
+
+
+Queens By Category • Category:Queens
+
+
+
+
+ Other
+
+
+
+Judges
+
+
+RuPaul, Santino Rice (S1-6), Merle Ginsberg (S1-2), Billy B (S3-4), Michelle Visage (S3-AS2), Mike Ruiz (Guest Judge S1-7), Carson Kressley (S7-AS2), Ross Mathews (S7-8), Todrick Hall (AS2)
+
+
+
+
+Pit Crew
+
+
+Kenyon Glover (S1), Keon Hunt (S1), Preston Taylor (S1), Emanuel Palmer (S2), Max "The Body" Philisaire (S2), Shawn Morales (S3-6), Jason Carter (S3-8), Miles Davis Moody (S6-8), Simon Sherry Wood (S6), Bryce Eilenberg (S7-8)
+
+
+
+
+Other Series
+
+
+RuPaul's Drag Race Untucked • RuPaul's Drag U • RuPaul's All Stars Drag Race • The Boulet Brothers' DRAGULA • The Switch Drag Race
+
+
+
+
+See also: 
+
+
+Dictionary • Snatch Game • Reading is Fundamental • Drag Makeovers • "Dusted or Busted" Scoring System • How To Win RuPaul's Drag Race • List of Lip Sync Performances
+
+
+
+
+
+
+Retrieved from "http://rupaulsdragrace.wikia.com/wiki/RuPaul%27s_Drag_Race_(Season_5)?oldid=29325"
+
+
+
+Ad blocker interference detected!
+
+Wikia is a free-to-use site that makes money from advertising. We have a modified experience for viewers using ad blockers							
+							Wikia is not accessible if you’ve made further modifications. Remove the custom ad blocker rule(s) and the page will load as expected.						
+
+
+
+
+Categories:
+
+
+Seasons
+
+
+
+
+
+
+Season 5
+
+
+
+
+
+
+RuPaul's Drag Race
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+							wgAfterContentAndJS.push(function () {
+					window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+				});
+					
+
+
+
+
+
+							wgAfterContentAndJS.push(function () {
+					window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+				});
+					
+
+
+
+
+
+
+
+
+
+
+
+							window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Games
+
+
+
+
+Movies
+
+
+
+
+TV
+
+
+
+
+Explore Wikis
+
+
+
+
+
+Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overview
+
+
+
+	About
+
+
+
+	Careers
+
+
+
+	Press
+
+
+
+	Contact
+
+
+
+	Wikia.org
+
+
+
+
+
+
+
+	Terms of Use
+
+
+
+	Privacy Policy
+
+
+
+	Global Sitemap
+
+
+
+	Local Sitemap
+
+
+
+
+Community
+
+
+
+	Community Central
+
+
+
+	Support
+
+
+
+	Fan Contributor Program
+
+
+
+	WAM Score
+
+
+
+	Help
+
+
+
+
+Can't find a community you love? Create your own and start something epic.
+
+
+
+	Start a wiki
+
+
+
+
+Community Apps
+Take your favorite fandoms with you and never miss a beat.
+
+
+
+
+
+
+
+
+
+
+
+
+Advertise
+
+
+
+	Media Kit
+
+
+
+	Contact
+
+
+
+
+
+
+RuPaul's Drag Race Wiki is a Fandom TV Community. Content is available under CC-BY-SA.
+
+
+
+
+
+
+
+
+
+
+
+
+Sci-Fi
+
+
+
+GOTG Yondu
+
+
+
+Prey
+
+
+
+
+
+
+
+
+
+
+							window.adslots2.push(["GPT_FLUSH"]);
+					
+
+
+
+
+
+							window.adslots2.push(["EVOLVE_FLUSH"]);
+					
+
+
+
+
+
+							window.adslots2.push(["TURTLE_FLUSH"]);
+					
+
+
+
+
+
+
+
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"RuPaul\'s_Drag_Race_(Season_5)","wgTitle":"RuPaul\'s Drag Race (Season 5)","wgCurRevisionId":29325,"wgArticleId":2663,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Seasons","Season 5","RuPaul\'s Drag Race"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"RuPaul\'s_Drag_Race_(Season_5)","wgRestrictionEdit":[],"wgRestrictionMove":[],"egMapsDebugJS":false,"egMapsAvailableServices":["googlemaps3","openlayers","leaflet"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"false","background-image":"http://vignette3.wikia.nocookie.net/logosrupaulsdragrace/images/5/50/Wiki-background/revision/latest?cb=20170213193449","background-image-height":"1080","background-image-width":"1920","color-body":"#863089","color-body-middle":"#e7e7e7","color-buttons":"#8c27b0","color-header":"#ee038d","color-links":"#992c9c","color-page":"#f5ebf5","oasisTypography":1,"page-opacity":"93","widthType":0,"wordmark-font":"idolwild"},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"RuPaul\'s Drag Race Wiki","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1496749197/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1496749197/common","wgSitename":"RuPaul\'s Drag Race Wiki","wgMWrevId":false,"wgRevisionId":29325,"wgDisableAnonymousEditing":true,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":true,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":true,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=RuPaul%27s_Drag_Race_(Season_5)","fbReturnToTitle":"RuPaul\'s_Drag_Race_(Season_5)","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":[],"wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","isContributor":false,"isCurrentWikiAdmin":false,"fullVerticalName":"tv","dartGnreValues":[],"wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgEnablePortableInfoboxBuilderInVE":false,"wgFlowTrackingFlows":{"CREATE_PAGE_ARTICLE_REDLINK":"create-page-article-redlink","CREATE_PAGE_CONTRIBUTE_BUTTON":"create-page-contribute-button","CREATE_PAGE_CREATE_BOX":"create-page-create-box","CREATE_PAGE_INPUT_BOX":"create-page-input-box","CREATE_PAGE_CREATE_BUTTON":"create-page-create-button","CREATE_PAGE_DIRECT_URL":"create-page-direct-url","CREATE_PAGE_SPECIAL_CREATE_PAGE":"create-page-special-create-page","CREATE_PAGE_SPECIAL_REDLINK":"create-page-special-redlink","CREATE_PAGE_UNRECOGNIZED_FLOW":"create-page-unrecognized"},"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":[],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1491236565","wgScriptsTimestamp":"1491362809","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"RuPaul\'s Drag Race (Season 5)"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"enotifdiscussionsfollows":1,"enotifdiscussionsvotes":1,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-329982":0,"founderemails-edits-329982":0,"founderemails-views-digest-329982":0,"founderemails-complete-digest-329982":0,"adoptionmails-329982":1,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true
+,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs420":false,"searchNs421":false,"searchNs500":false,"searchNs501":false,"searchNs502":false,"searchNs503":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: logosrupaulsdragrace:resourceloader:filter:minify-js:7:6178c9a409faa545481a0ade05b349f9 */
+}
+if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.designSystem","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}
+
+
+
+
+
+
+
+
+/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/
+/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/
+
+
+(function(){importWikiaScriptPages(["external:dev:Countdown/code.js", "external:dev:UserTags/code.js", "external:dev:AjaxRC/code.js", "external:dev:PurgeButton/code.js", "external:dev:BackToTopButton/code.js", "external:dev:ExtendedNavigation/code.js", "external:dev:WallGreetingButton/code.js", "external:dev:LockForums/code.js", "external:dev:LockOldBlogs/code.js", "external:dev:YoutubePlayer/code.js", "external:dev:User_Avatar_Finder/code.js", "external:dev:QuickDiff/code.js", "external:dev:ReferencePopups/code.js", "external:dev:ThreadIndicator/code.js", "external:dev:ViewRemoved/code.js", "external:dev:GlobalEditcount/code.js", "external:dev:DiscordIntegrator/code.js", "external:dev:AddRailModule/code.js", "external:dev:SeeMoreActivityButton/code.js"]);})();var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/DesignSystem\/styles\/design-system.scss","extensions\/wikia\/AdMixExperiment\/styles\/recirculation.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];
+
+
+	require([
+		'ext.wikia.adEngine.adContext',
+		'wikia.instantGlobals',
+		'wikia.window'
+	], function (adContext, instantGlobals, win) {
+		var context = adContext.getContext();
+
+		if (context.opts.pageFairRecovery === true) {
+			var adonis = win.adonis || {};
+
+			adonis.ENABLE_SLOT_CACHE = true;
+			adonis.conditionalAdRendering = true;
+			adonis.conditionalIframeRendering = true;
+			adonis.transport = 'https://9k6y.b2rrns9dgbx56tf5kc.agency/http';
+
+			/* loader-7.0.2 */eval(atob("IWZ1bmN0aW9uIGUodCxuLHIpe2Z1bmN0aW9uIG8oYSxjKXtpZighblthXSl7aWYoIXRbYV0pe3ZhciB1PSJmdW5jdGlvbiI9PXR5cGVvZiByZXF1aXJlJiZyZXF1aXJlO2lmKCFjJiZ1KXJldHVybiB1KGEsITApO2lmKGkpcmV0dXJuIGkoYSwhMCk7dmFyIHM9bmV3IEVycm9yKCJDYW5ub3QgZmluZCBtb2R1bGUgJyIrYSsiJyIpO3Rocm93IHMuY29kZT0iTU9EVUxFX05PVF9GT1VORCIsc312YXIgbD1uW2FdPXtleHBvcnRzOnt9fTt0W2FdWzBdLmNhbGwobC5leHBvcnRzLGZ1bmN0aW9uKGUpe3ZhciBuPXRbYV1bMV1bZV07cmV0dXJuIG8obj9uOmUpfSxsLGwuZXhwb3J0cyxlLHQsbixyKX1yZXR1cm4gblthXS5leHBvcnRzfWZvcih2YXIgaT0iZnVuY3Rpb24iPT10eXBlb2YgcmVxdWlyZSYmcmVxdWlyZSxhPTA7YTxyLmxlbmd0aDthKyspbyhyW2FdKTtyZXR1cm4gb30oezE6W2Z1bmN0aW9uKGUsdCxuKXsidXNlIHN0cmljdCI7dmFyIHI9ZSgxMiksbz1lKDcpO2UoMjIpLHdpbmRvdy5hZG9uaXNDb25uVHlwZT0iaHR0cCIsci5sb2dnZXIuaW5mbygiW2h0dHBMb2FkZXJdOiBTdGFydGluZyBib290c3RyYXAiKSwoMCxvLnJ1bikoKX0sezEyOjEyLDIyOjIyLDc6N31dLDI6W2Z1bmN0aW9uKGUsdCxuKXsidXNlIHN0cmljdCI7ZnVuY3Rpb24gcigpe3JldHVybiBpKHdpbmRvdykmJmMod2luZG93KSYmdSh3aW5kb3cpJiZhKHdpbmRvdykmJnMod2luZG93KX1mdW5jdGlvbiBvKCl7cmV0dXJuIGkod2luZG93KSYmdSh3aW5kb3cpJiZhKHdpbmRvdykmJnMod2luZG93KX1mdW5jdGlvbiBpKGUpe3ZhciB0PSJfX3h5el9fIjt0cnl7cmV0dXJuIGUubG9jYWxTdG9yYWdlLnNldEl0ZW0odCx0KSxlLmxvY2FsU3RvcmFnZS5yZW1vdmVJdGVtKHQpLCEwfWNhdGNoKG4pe3JldHVybiExfX1mdW5jdGlvbiBhKGUpe3RyeXtyZXR1cm4hIW5ldyBlLkJsb2J9Y2F0Y2godCl7cmV0dXJuITF9fWZ1bmN0aW9uIGMoZSl7dmFyIHQ9ZnVuY3Rpb24odCl7cmV0dXJuIHQuc29tZShmdW5jdGlvbih0KXtyZXR1cm4gdCBpbiBlfSl9LG49WyJSVENQZWVyQ29ubmVjdGlvbiIsIm1velJUQ1BlZXJDb25uZWN0aW9uIiwid2Via2l0UlRDUGVlckNvbm5lY3Rpb24iXSxyPVsiUlRDU2Vzc2lvbkRlc2NyaXB0aW9uIiwibW96UlRDU2Vzc2lvbkRlc2NyaXB0aW9uIiwid2Via2l0UlRDU2Vzc2lvbkRlc2NyaXB0aW9uIl0sbz1bIlJUQ0ljZUNhbmRpZGF0ZSIsIm1velJUQ0ljZUNhbmRpZGF0ZSIsIndlYmtpdFJUQ0ljZUNhbmRpZGF0ZSJdO3JldHVybiB0KG4pJiZ0KHIpJiZ0KG8pfWZ1bmN0aW9uIHUoZSl7cmV0dXJuIlByb21pc2UiaW4gZSYmInJlc29sdmUiaW4gZS5Qcm9taXNlJiYicmVqZWN0ImluIGUuUHJvbWlzZSYmImFsbCJpbiBlLlByb21pc2UmJiJyYWNlImluIGUuUHJvbWlzZX1mdW5jdGlvbiBzKGUpe3JldHVybiJmdW5jdGlvbiI9PXR5cGVvZiBlLk9iamVjdC5hc3NpZ259dC5leHBvcnRzPXtpc1N1cHBvcnRlZEJyb3dzZXJSdGM6cixpc1N1cHBvcnRlZEJyb3dzZXI6byxpc0xvY2FsU3RvcmFnZVN1cHBvcnRlZDppLGlzUnRjU3VwcG9ydGVkOmMsaXNCbG9iU3VwcG9ydGVkOmEsaXNPYmplY3RBc3NpZ25TdXBwb3J0ZWQ6cyxpc1Byb21pc2VTdXBwb3J0ZWQ6dX19LHt9XSwzOltmdW5jdGlvbihlLHQsbil7InVzZSBzdHJpY3QiO2Z1bmN0aW9uIHIoZSx0KXt2YXIgbj0iY2FjaGUvc3RvcmVBZG9uaXNDbGllbnRSZXNwb25zZSIscj10WyJhZG9uaXMtY2xpZW50LXZlcnNpb24iXSxhPXRbImNhY2hlLWNvbnRyb2wiXSxjPWEmJmEuc3RhcnRzV2l0aCgibWF4LWFnZSIpLHU9dC5leHBpcnlNaWxsaXN8fDA7aWYoYyl7aS5sb2dnZXIuZGVidWcoYSk7dmFyIHM9cGFyc2VJbnQoYS5zcGxpdCgiPSIpWzFdLDEwKTtpc05hTihzKXx8KHU9KG5ldyBEYXRlKS5nZXRUaW1lKCkrMWUzKnMpfXImJihpLmxvZ2dlci5pbmZvKCJbIituKyJdOiBuZXcgZXhwaXJ5ICIrdSsiID0gIituZXcgRGF0ZSh1KSksbyhlLHIsdSkpfWZ1bmN0aW9uIG8oZSx0LG4pe3dpbmRvdy5sb2NhbFN0b3JhZ2UuYWRvbmlzQ2FjaGVTcmM9ZSx3aW5kb3cubG9jYWxTdG9yYWdlLmFkb25pc0NhY2hlRXhwaXJ5TWlsbGlzPW4sd2luZG93LmxvY2FsU3RvcmFnZS5hZG9uaXNDbGllbnRWZXJzaW9uPXR9T2JqZWN0LmRlZmluZVByb3BlcnR5KG4sIl9fZXNNb2R1bGUiLHt2YWx1ZTohMH0pLG4uc3RvcmVBZG9uaXNDbGllbnRSZXNwb25zZT1yLG4uY2FjaGVBZG9uaXNDbGllbnQ9bzt2YXIgaT1lKDEyKX0sezEyOjEyfV0sNDpbZnVuY3Rpb24oZSx0LG4peyJ1c2Ugc3RyaWN0Ijt2YXIgcj1lKDUpO3dpbmRvdy5hZG9uaXNIYXNoPXdpbmRvdy5hZG9uaXNIYXNofHx3aW5kb3cubG9jYXRpb24uaGFzaHx8IiI7dmFyIG89d2luZG93LmFkb25pc0hhc2guaW5kZXhPZigiYWRvbmlzLWxvZ2dpbmciKT49MDtyLkxPR19MRVZFTD1vPyJkZWJ1ZyI6ci5MT0dfTEVWRUw7dmFyIGk9d2luZG93LmFkb25pc3x8e307aS53c0hvc3QmJnIuV1MmJihyLldTLmhvc3Q9aS53c0hvc3QpLGkudHJhbnNwb3J0JiZyLlNVRVpfSFRUUF9FTkRQT0lOVCYmKHIuU1VFWl9IVFRQX0VORFBPSU5UPWkudHJhbnNwb3J0KSx0LmV4cG9ydHM9cn0sezU6NX1dLDU6W2Z1bmN0aW9uKGUsdCxuKXsidXNlIHN0cmljdCI7dC5leHBvcnRzPXtSRUFMX1NUVU5fSE9TVDoic3R1bi54cGFuYW1hLm5ldDozNDc4IixUVVJOU0lHTkFMX0hPU1Q6InRzLnAueHBhbmFtYS5uZXQ6NzAwMCIsU1RVTkdVTl9IT1NUOiJzZy5wLnhwYW5hbWEubmV0OjM0ODAiLFNFUlZFUl9DQU5ESURBVEU6ImNhbmRpZGF0ZTo4Mjc2NDgwMjYgMSB1ZHAgMjEyMjE5NDY4NyBTRVJWRVJfSVAgU0VSVkVSX1BPUlQgdHlwIGhvc3QgZ2VuZXJhdGlvbiAwIixSRVBPUlRJTkdfVVJMOiJodHRwczovL2xiLnN0YXRzZXZlbnQuY29tL3N0YXRzIixSRVBPUlRJTkdfUkFURTouMDEsTE9HX0xFVkVMOiJlcnJvciIsUkVQT1JUX0VSUk9SUzohMCxNQU5JRkVTVF9VUkw6Imh0dHBzOi8vc3JpLmpzaW50ZWdyaXR5LmNvbS9tYW5pZmVzdC5qc29uIixNQU5JRkVTVF9FWFBJUkFUSU9OX1RJTUU6ODY0MDAsQURfTUFSS0VSOiJhZG9uaXMtbWFya2VyIixBRE9OSVNfQ0xJRU5UX0ZFVENIX1VSTDoiaHR0cHM6Ly9hZHNlcnZlci54cGFuYW1hLm5ldC9jbGllbnQtNy1sYXRlc3QuanMiLFdTOntob3N0OiJzdWV6LXNlcnZlci54cGFuYW1hLm5ldCIscGF0aDoiL3dzIixwb3J0OjQ0MyxzZWN1cmU6ITAscHJvbWlzZVRpbWVvdXQ6M2UzfSxTRVJWSUNFX1NUQVRVU19VUkw6ZnVuY3Rpb24oZSl7cmV0dXJuImh0dHBzOi8vY2xpZW50LnJlYWN0cmpzLmNvbS8iK2UrIi1zdGF0dXMuanNvbiJ9LFNVRVpfSFRUUF9FTkRQT0lOVDoiaHR0cHM6Ly9zdWV6LnhwYW5hbWEubmV0L2h0dHAiLFNVRVpfSFRUUF9SRVRSWTozLFNVRVpfSFRUUF9ERUxBWToxMDB9fSx7fV0sNjpbZnVuY3Rpb24oZSx0LG4peyJ1c2Ugc3RyaWN0IjtmdW5jdGlvbiByKGUpe3JldHVybiBlJiZlLl9fZXNNb2R1bGU/ZTp7ImRlZmF1bHQiOmV9fWZ1bmN0aW9uIG8oKXt2YXIgZT0iY29udHJvbC1zZXJ2ZXIvY2hlY2siO2YubG9nZ2VyLmluZm8oIlsiK2UrIl06IENoZWNraW5nIHNlcnZpY2Ugc3RhdHVzIik7dmFyIHQ9aSh3aW5kb3cpO3JldHVybigwLHUucmVxdWVzdCkodCkudGhlbihmdW5jdGlvbih0KXtyZXR1cm4gZi5sb2dnZXIuZGVidWcoIlsiK2UrIl06IFN0YXR1cyBjaGVjayBmZXRjaGVkIHdpdGggc3RhdHVzLWNvZGUgPCIrdC5zdGF0dXMrIj4iKSxKU09OLnBhcnNlKHQucmVzcG9uc2VUZXh0KX0pWyJjYXRjaCJdKGZ1bmN0aW9uKHQpe2YubG9nZ2VyLmluZm8oIlsiK2UrIl06IEZhaWxlZCB0byBjaGVjayBjb250cm9sIHNlcnZlciBzdGF0dXMgPCIrdCsiPiIpO3ZhciBuPXZvaWQgMCE9PXQucmVxP3QucmVxLnN0YXR1czpudWxsO3Rocm93IDA9PT1uP25ldyBzLlhockJsb2NrRXJyb3I6bmV3IEVycm9yKCJVbmV4cGVjdGVkIHN0YXR1cyBjb2RlIHdoaWxlIHBlcmZvcm1pbmcgY29udHJvbCBzZXJ2ZXIgY2hlY2ssIHN0YXR1cy1jb2RlID0gPCIrbisiPiIpfSl9ZnVuY3Rpb24gaShlKXtyZXR1cm4gZFsiZGVmYXVsdCJdLlNFUlZJQ0VfU1RBVFVTX1VSTChjWyJkZWZhdWx0Il0uZ2V0KGUubG9jYXRpb24uaG9zdCkpfU9iamVjdC5kZWZpbmVQcm9wZXJ0eShuLCJfX2VzTW9kdWxlIix7dmFsdWU6ITB9KSxuLmNoZWNrPW8sbi5nZXRTZXJ2aWNlU3RhdHVzVXJsPWk7dmFyIGE9ZSgyNCksYz1yKGEpLHU9ZSgxOCkscz1lKDkpLGw9ZSg0KSxkPXIobCksZj1lKDEyKX0sezEyOjEyLDE4OjE4LDI0OjI0LDQ6NCw5Ojl9XSw3OltmdW5jdGlvbihlLHQsbil7InVzZSBzdHJpY3QiO2Z1bmN0aW9uIHIoZSl7aWYoZSYmZS5fX2VzTW9kdWxlKXJldHVybiBlO3ZhciB0PXt9O2lmKG51bGwhPWUpZm9yKHZhciBuIGluIGUpT2JqZWN0LnByb3RvdHlwZS5oYXNPd25Qcm9wZXJ0eS5jYWxsKGUsbikmJih0W25dPWVbbl0pO3JldHVybiB0WyJkZWZhdWx0Il09ZSx0fWZ1bmN0aW9uIG8oZSl7cmV0dXJuIGUmJmUuX19lc01vZHVsZT9lOnsiZGVmYXVsdCI6ZX19ZnVuY3Rpb24gaSgpe3ZhciBlPSJodHRwLWFkb25pcy1jbGllbnQtbG9hZGVyL3J1biI7cmV0dXJuIHBbImRlZmF1bHQiXS5yZXBvcnRFdmVudCgiYm9vdHN0cmFwLmh0dHAucGFnZXZpZXciKSxnWyJkZWZhdWx0Il0uaXNTdXBwb3J0ZWRCcm93c2VyKCk/KHkubG9nZ2VyLmluZm8oIlsiK2UrIl06IEJyb3dzZXIgaXMgY29tcGF0aWJsZSIpLHBbImRlZmF1bHQiXS5yZXBvcnRFdmVudCgiYm9vdHN0cmFwLmh0dHAuc3VwcG9ydGVkIiksYSgpLnRoZW4oZnVuY3Rpb24odCl7cmV0dXJuIHkubG9nZ2VyLmluZm8oIlsiK2UrIl06IFJ1bm5pbmcgYW5kIGNhY2hpbmcgYWRvbmlzQ2xpZW50IHNvdXJjZSIpLHBbImRlZmF1bHQiXS5yZXBvcnRFdmVudCgiYm9vdHN0cmFwLmh0dHAucnVuY2xpZW50c2NyaXB0IikscFsiZGVmYXVsdCJdLnNhdmVUaW1pbmcoKSxkWyJkZWZhdWx0Il0uZGVmaW5lUmVhZE9ubHlQcm9wZXJ0eSgiYWRvbmlzQ29uZmlnIixzWyJkZWZhdWx0Il0pLCgwLG0uc3RvcmVBZG9uaXNDbGllbnRSZXNwb25zZSkodC5zb3VyY2UsdC5tZXRhKSx2WyJkZWZhdWx0Il0uaW5zZXJ0SW5saW5lU2NyaXB0KHQuc291cmNlKSxudWxsfSlbImNhdGNoIl0oZnVuY3Rpb24odCl7cmV0dXJuIHQgaW5zdGFuY2VvZiBMLlhockJsb2NrRXJyb3I/KHkubG9nZ2VyLmluZm8oIlsiK2UrIl06IEZhaWxlZCB0byBmZXRjaCBhZG9uaXMtY2xpZW50IHVzaW5nIFN1ZXoiKSx5LmxvZ2dlci5pbmZvKCJbIitlKyJdOiBBbGwgbG9hZGVycyBmYWlsZWQgdG8gZmV0Y2ggYWRvbmlzLWNsaWVudCwgY2hlY2tpbmcgY29udHJvbCBzZXJ2ZXIiKSxiLmNoZWNrKCkpOih5LmxvZ2dlci53YXJuKCJbIitlKyJdOiBVbmV4cGVjdGVkIGVycm9yIHdoZW4gdHJ5aW5nIHRvIGZldGNoIGFkb25pcy1jbGllbnQgb3ZlciBTdWV6OiA8Iit0KyI+IikscFsiZGVmYXVsdCJdLnJlcG9ydEVycm9yKHQpLG51bGwpfSlbImNhdGNoIl0oZnVuY3Rpb24odCl7cmV0dXJuIHQgaW5zdGFuY2VvZiBMLlhockJsb2NrRXJyb3I/KHBbImRlZmF1bHQiXS5yZXBvcnRFdmVudCgiYm9vdHN0cmFwLmh0dHAuc3RhdHVzX2Jsb2NrZWQiKSx5LmxvZ2dlci5pbmZvKCJbIitlKyJdOiBDb250cm9sIHNlcnZlciBjaGVjayBmYWlsZWQsIHByb2JhYmx5IGFuIGFkYmxvY2tlciIpLHtzdGF0dXM6ITB9KTooeS5sb2dnZXIud2FybigiWyIrZSsiXTogVW5leHBlY3RlZCBlcnJvciBmcm9tIGNvbnRyb2wgc2VydmVyIGNoZWNrOiA8Iit0KyI+IikscFsiZGVmYXVsdCJdLnJlcG9ydEVycm9yKHQpLG51bGwpfSkudGhlbihmdW5jdGlvbih0KXsoMCxTWyJkZWZhdWx0Il0pKHdpbmRvdy5uYXZpZ2F0b3IudXNlckFnZW50KSYmdCYmInN0YXR1cyJpbiB0JiZ0LnN0YXR1cz8ocFsiZGVmYXVsdCJdLnJlcG9ydEV2ZW50KCJib290c3RyYXAuaHR0cC50cmlnZ2VkIikseS5sb2dnZXIuaW5mbygiWyIrZSsiXTogQ29udHJvbCBzZXJ2ZXIgcmVwb3J0ZWQgc3RhdHVzIGlzIGhlYWx0aHkgb3Igd2FzIGJsb2NrZWQsIHRyaWdnZXJpbmcgb3BwZW5oZWltZXIiKSwoMCxjLnJlcGxhY2VDb250ZW50KSh3aW5kb3cuZG9jdW1lbnQpKTp0JiYic3RhdHVzImluIHQmJnQuc3RhdHVzPT09ITEmJihwWyJkZWZhdWx0Il0ucmVwb3J0RXZlbnQoImJvb3RzdHJhcC5odHRwLm5vdF90cmlnZ2VkIikseS5sb2dnZXIud2FybigiWyIrZSsiXTogQ29udHJvbCBzZXJ2ZXIgcmVwb3J0ZWQgc3RhdHVzIGlzIHVuaGVhbHRoeSwgbm90IHRyaWdnZXJpbmcgb3BwZW5oZWltZXIiKSl9KSk6dm9pZCB5LmxvZ2dlci5pbmZvKCJbIitlKyJdOiBJbmNvbXBhdGlibGUgYnJvd3Nlciwgbm90IGNvbnRpbnVpbmciKX1mdW5jdGlvbiBhKCl7dmFyIGU9Imh0dHAtYWRvbmlzLWNsaWVudC1sb2FkZXIvbG9hZEFkb25pc0NsaWVudCI7cmV0dXJuIHkubG9nZ2VyLmRlYnVnKCJbIitlKyJdOiBUcnlpbmcgdG8gbG9hZCBhZG9uaXMtY2xpZW50IHdpdGggWEhSIGxvYWRlciAoZnJvbSBDRE4pIiksVC5sb2FkKClbImNhdGNoIl0oZnVuY3Rpb24odCl7cmV0dXJuIHQgaW5zdGFuY2VvZiBMLlhockJsb2NrRXJyb3I/eS5sb2dnZXIuaW5mbygiWyIrZSsiXTogRmFpbGVkIHRvIGZldGNoIGFkb25pcy1jbGllbnQgb3ZlciBYSFIsIHRyeWluZyB0byBsb2FkIGZyb20gY2FjaGUiKTooeS5sb2dnZXIud2FybigiWyIrZSsiXTogVW5leHBlY3RlZCBlcnJvciB3aGVuIHRyeWluZyBmZXRjaCBhZG9uaXMtY2xpZW50IG92ZXIgWEhSLCB0cnlpbmcgdG8gbG9hZCBmcm9tIGNhY2hlOiA8Iit0KyI+IikscFsiZGVmYXVsdCJdLnJlcG9ydEVycm9yKHQpKSxQLmxvYWQoKX0pWyJjYXRjaCJdKGZ1bmN0aW9uKHQpe3JldHVybiB0IGluc3RhbmNlb2YgTC5DYWNoZUxvYWRFcnJvcj95LmxvZ2dlci5pbmZvKCJbIitlKyJdOiBGYWlsZWQgdG8gZmV0Y2ggYWRvbmlzLWNsaWVudCBmcm9tIGNhY2hlLCB0cnlpbmcgdG8gbG9hZCBmcm9tIFN1ZXoiKTooeS5sb2dnZXIud2FybigiWyIrZSsiXTogVW5leHBlY3RlZCBlcnJvciB3aGVuIHRyeWluZyBmZXRjaCBhZG9uaXMtY2xpZW50IGZyb20gY2FjaGUsIHRyeWluZyB0byBsb2FkIGZyb20gU3VlejogPCIrdCsiPiIpLHBbImRlZmF1bHQiXS5yZXBvcnRFcnJvcih0KSksQy5sb2FkKCl9KX1PYmplY3QuZGVmaW5lUHJvcGVydHkobiwiX19lc01vZHVsZSIse3ZhbHVlOiEwfSksbi5ydW49aSxuLmxvYWRBZG9uaXNDbGllbnQ9YTt2YXIgYz1lKDIwKSx1PWUoNCkscz1vKHUpLGw9ZSgxNyksZD1vKGwpLGY9ZSgxNSkscD1vKGYpLGg9ZSgyKSxnPW8oaCksdz1lKDE0KSx2PW8odyksXz1lKDYpLGI9cihfKSxtPWUoMykseT1lKDEyKSxFPWUoMTYpLFM9byhFKSxPPWUoMTEpLFQ9cihPKSxSPWUoMTApLEM9cihSKSxBPWUoOCksUD1yKEEpLEw9ZSg5KX0sezEwOjEwLDExOjExLDEyOjEyLDE0OjE0LDE1OjE1LDE2OjE2LDE3OjE3LDI6MiwyMDoyMCwzOjMsNDo0LDY6Niw4OjgsOTo5fV0sODpbZnVuY3Rpb24oZSx0LG4peyJ1c2Ugc3RyaWN0IjtmdW5jdGlvbiByKCl7dmFyIGU9ImxvYWRlcnMvY2FjaGUvbG9hZCI7YS5sb2dnZXIuZGVidWcoIlsiK2UrIl06IFN0YXJ0aW5nIGNhY2hlIGxvYWRlciIpLHdpbmRvdy5sb2NhbFN0b3JhZ2UuYWRvbmlzQ2FjaGVFeHBpcnkmJndpbmRvdy5sb2NhbFN0b3JhZ2UucmVtb3ZlSXRlbSgiYWRvbmlzQ2FjaGVFeHBpcnkiKTt2YXIgdD1wYXJzZUludCh3aW5kb3cubG9jYWxTdG9yYWdlLmFkb25pc0NhY2hlRXhwaXJ5TWlsbGlzLDEwKTtpc05hTih0KSYmKHQ9MCk7dmFyIG49d2luZG93LmxvY2FsU3RvcmFnZS5hZG9uaXNDbGllbnRWZXJzaW9uLHI9d2luZG93LmxvY2FsU3RvcmFnZS5hZG9uaXNDYWNoZVNyYyxvPShuZXcgRGF0ZSkuZ2V0VGltZSgpPj10LGM9eyJhZG9uaXMtY2xpZW50LXZlcnNpb24iOm4sZXhwaXJ5TWlsbGlzOnQsY2FjaGVkU291cmNlOnJ9O3JldHVybiByP28/KGEubG9nZ2VyLmRlYnVnKCJbIitlKyJdOiBDYWNoZWQgdmVyc2lvbiBvZiBhZG9uaXMtY2xpZW50IGlzIGV4cGlyZWQiKSxQcm9taXNlLnJlamVjdChuZXcgaS5DYWNoZUxvYWRFcnJvcihudWxsLGMpKSk6KGEubG9nZ2VyLmRlYnVnKCJbIitlKyJdOiBGb3VuZCBhIHZhbGlkIGNhY2hlZCB2ZXJzaW9uIG9mIGFkb25pcy1jbGllbnQiKSxQcm9taXNlLnJlc29sdmUoe3NvdXJjZTpyLG1ldGE6Y30pKTooYS5sb2dnZXIuZGVidWcoIlsiK2UrIl06IE5vIGNhY2hlZCB2ZXJzaW9uIG9mIGFkb25pcy1jbGllbnQgZm91bmQgaW4gdGhlIGxvY2FsU3RvcmFnZSIpLFByb21pc2UucmVqZWN0KG5ldyBpLkNhY2hlTG9hZEVycm9yKG51bGwsYykpKX1mdW5jdGlvbiBvKCl7cmV0dXJuIHIoKVsiY2F0Y2giXShmdW5jdGlvbihlKXtpZihlIGluc3RhbmNlb2YgaS5DYWNoZUxvYWRFcnJvcilyZXR1cm57c291cmNlOmUuc291cmNlLG1ldGE6ZS5tZXRhfX0pfU9iamVjdC5kZWZpbmVQcm9wZXJ0eShuLCJfX2VzTW9kdWxlIix7dmFsdWU6ITB9KSxuLmxvYWQ9cixuLmxvYWRJZ25vcmluZ0Vycm9ycz1vO3ZhciBpPWUoOSksYT1lKDEyKX0sezEyOjEyLDk6OX1dLDk6W2Z1bmN0aW9uKGUsdCxuKXsidXNlIHN0cmljdCI7ZnVuY3Rpb24gcihlKXtyZXR1cm4gZSYmZS5fX2VzTW9kdWxlP2U6eyJkZWZhdWx0IjplfX1mdW5jdGlvbiBvKGUsdCl7aWYoIShlIGluc3RhbmNlb2YgdCkpdGhyb3cgbmV3IFR5cGVFcnJvcigiQ2Fubm90IGNhbGwgYSBjbGFzcyBhcyBhIGZ1bmN0aW9uIil9ZnVuY3Rpb24gaShlLHQpe2lmKCFlKXRocm93IG5ldyBSZWZlcmVuY2VFcnJvcigidGhpcyBoYXNuJ3QgYmVlbiBpbml0aWFsaXNlZCAtIHN1cGVyKCkgaGFzbid0IGJlZW4gY2FsbGVkIik7cmV0dXJuIXR8fCJvYmplY3QiIT10eXBlb2YgdCYmImZ1bmN0aW9uIiE9dHlwZW9mIHQ/ZTp0fWZ1bmN0aW9uIGEoZSx0KXtpZigiZnVuY3Rpb24iIT10eXBlb2YgdCYmbnVsbCE9PXQpdGhyb3cgbmV3IFR5cGVFcnJvcigiU3VwZXIgZXhwcmVzc2lvbiBtdXN0IGVpdGhlciBiZSBudWxsIG9yIGEgZnVuY3Rpb24sIG5vdCAiK3R5cGVvZiB0KTtlLnByb3RvdHlwZT1PYmplY3QuY3JlYXRlKHQmJnQucHJvdG90eXBlLHtjb25zdHJ1Y3Rvcjp7dmFsdWU6ZSxlbnVtZXJhYmxlOiExLHdyaXRhYmxlOiEwLGNvbmZpZ3VyYWJsZTohMH19KSx0JiYoT2JqZWN0LnNldFByb3RvdHlwZU9mP09iamVjdC5zZXRQcm90b3R5cGVPZihlLHQpOmUuX19wcm90b19fPXQpfU9iamVjdC5kZWZpbmVQcm9wZXJ0eShuLCJfX2VzTW9kdWxlIix7dmFsdWU6ITB9KSxuLkNhY2hlTG9hZEVycm9yPW4uV3NCbG9ja0Vycm9yPW4uWGhyQmxvY2tFcnJvcj12b2lkIDA7dmFyIGM9ZSgxOSksdT1yKGMpO24uWGhyQmxvY2tFcnJvcj1mdW5jdGlvbihlKXtmdW5jdGlvbiB0KCl7cmV0dXJuIG8odGhpcyx0KSxpKHRoaXMsKHQuX19wcm90b19ffHxPYmplY3QuZ2V0UHJvdG90eXBlT2YodCkpLmFwcGx5KHRoaXMsYXJndW1lbnRzKSl9cmV0dXJuIGEodCxlKSx0fSh1WyJkZWZhdWx0Il0pLG4uV3NCbG9ja0Vycm9yPWZ1bmN0aW9uKGUpe2Z1bmN0aW9uIHQoKXtyZXR1cm4gbyh0aGlzLHQpLGkodGhpcywodC5fX3Byb3RvX198fE9iamVjdC5nZXRQcm90b3R5cGVPZih0KSkuYXBwbHkodGhpcyxhcmd1bWVudHMpKX1yZXR1cm4gYSh0LGUpLHR9KHVbImRlZmF1bHQiXSksbi5DYWNoZUxvYWRFcnJvcj1mdW5jdGlvbihlKXtmdW5jdGlvbiB0KGUsbil7byh0aGlzLHQpO3ZhciByPWkodGhpcywodC5fX3Byb3RvX198fE9iamVjdC5nZXRQcm90b3R5cGVPZih0KSkuY2FsbCh0aGlzKSk7cmV0dXJuIHIuc291cmNlPWUsci5tZXRhPW4scn1yZXR1cm4gYSh0LGUpLHR9KHVbImRlZmF1bHQiXSl9LHsxOToxOX1dLDEwOltmdW5jdGlvbihlLHQsbil7InVzZSBzdHJpY3QiO2Z1bmN0aW9uIHIoZSl7cmV0dXJuIGUmJmUuX19lc01vZHVsZT9lOnsiZGVmYXVsdCI6ZX19ZnVuY3Rpb24gbygpe3ZhciBlPSJsb2FkZXJzL3N1ZXotaHR0cCI7ZC5sb2dnZXIuZGVidWcoIlsiK2UrIl06IFN0YXJ0aW5nIFN1ZXogSFRUUCBsb2FkZXIiKTt2YXIgdD1KU09OLnN0cmluZ2lmeSh7aG9zdDoiYXNzZXRzIixwYXRoOiJjbGllbnQiLHBhcmFtczp7fSxoZWFkZXJzOnthZG9uaXNfY2xpZW50X2FwaToiNy4wLjAifX0pO3JldHVybigwLGwucmVxdWVzdCkoY1siZGVmYXVsdCJdLlNVRVpfSFRUUF9FTkRQT0lOVCwiUE9TVCIsdCkudGhlbihmdW5jdGlvbih0KXtkLmxvZ2dlci5kZWJ1ZygiWyIrZSsiXTogU3VjY2Vzc2Z1bGx5IGZldGNoZWQgYWRvbmlzLWNsaWVudCBvdmVyIFhIUiIpO3ZhciBuPXt9O3RyeXtuWyJhZG9uaXMtY2xpZW50LXZlcnNpb24iXT10LmdldFJlc3BvbnNlSGVhZGVyKCJhZG9uaXMtY2xpZW50LXZlcnNpb24iKX1jYXRjaChyKXt9dHJ5e25bImNhY2hlLWNvbnRyb2wiXT10LmdldFJlc3BvbnNlSGVhZGVyKCJjYWNoZS1jb250cm9sIil9Y2F0Y2gocil7fXJldHVybntzb3VyY2U6dC5yZXNwb25zZVRleHQsbWV0YTpufX0pWyJjYXRjaCJdKGZ1bmN0aW9uKHQpe3Rocm93IGQubG9nZ2VyLmRlYnVnKCJbIitlKyJdOiBGYWlsZWQgdG8gZmV0Y2ggYWRvbmlzLWNsaWVudCBmcm9tIFN1ZXogb3ZlciBYSFIgPCIrdCsiPiIpLDA9PT10LnJlcS5zdGF0dXM/bmV3IGYuWGhyQmxvY2tFcnJvcjpuZXcgRXJyb3IoIlVuZXhwZWN0ZWQgZXJyb3IgZmV0Y2hpbiBhZG9uaXMtY2xpZW50LCBzdGF0dXMtY29kZSA9IDwiK3QucmVxLnN0YXR1cysiPiIpfSl9ZnVuY3Rpb24gaSgpe3ZhciBlPWNbImRlZmF1bHQiXS5TVUVaX0hUVFBfUkVUUll8fDEsdD1jWyJkZWZhdWx0Il0uU1VFWl9IVFRQX0RFTEFZfHwwLG49QXJyYXkuYXBwbHkoMCxBcnJheShlKSkubWFwKGZ1bmN0aW9uKGUpe3JldHVybiBvfSk7cmV0dXJuIHNbImRlZmF1bHQiXS5yZXBvcnRFdmVudCgiYm9vdHN0cmFwLmh0dHAuc3Vlel9vcGVuaW5nIiksKDAscC5jaGFpbikobix0KS50aGVuKGZ1bmN0aW9uKGUpe3JldHVybiBzWyJkZWZhdWx0Il0ucmVwb3J0RXZlbnQoImJvb3RzdHJhcC5odHRwLnN1ZXpfb3BlbmVkIiksZX0pWyJjYXRjaCJdKGZ1bmN0aW9uKGUpe3Rocm93IGUgaW5zdGFuY2VvZiBmLlhockJsb2NrRXJyb3ImJnNbImRlZmF1bHQiXS5yZXBvcnRFdmVudCgiYm9vdHN0cmFwLmh0dHAuc3Vlel9ibG9ja2VkIiksZX0pfU9iamVjdC5kZWZpbmVQcm9wZXJ0eShuLCJfX2VzTW9kdWxlIix7dmFsdWU6ITB9KSxuLmxvYWRPbmNlPW8sbi5sb2FkPWk7dmFyIGE9ZSg0KSxjPXIoYSksdT1lKDE1KSxzPXIodSksbD1lKDE4KSxkPWUoMTIpLGY9ZSg5KSxwPWUoMTMpfSx7MTI6MTIsMTM6MTMsMTU6MTUsMTg6MTgsNDo0LDk6OX1dLDExOltmdW5jdGlvbihlLHQsbil7InVzZSBzdHJpY3QiO2Z1bmN0aW9uIHIoZSl7cmV0dXJuIGUmJmUuX19lc01vZHVsZT9lOnsiZGVmYXVsdCI6ZX19ZnVuY3Rpb24gbygpe3ZhciBlPSJsb2FkZXJzL2NhY2hlL3hociI7cmV0dXJuIGQubG9nZ2VyLmRlYnVnKCJbIitlKyJdOiBTdGFydGluZyBYSFIgbG9hZGVyIiksKDAsbC5yZXF1ZXN0KShjWyJkZWZhdWx0Il0uQURPTklTX0NMSUVOVF9GRVRDSF9VUkwpLnRoZW4oZnVuY3Rpb24odCl7ZC5sb2dnZXIuZGVidWcoIlsiK2UrIl06IFN1Y2Nlc3NmdWxseSBmZXRjaGVkIGFkb25pcy1jbGllbnQgb3ZlciBYSFIiKTt2YXIgbj17ImFkb25pcy1jbGllbnQtdmVyc2lvbiI6bnVsbH07dHJ5e25bImNhY2hlLWNvbnRyb2wiXT10LmdldFJlc3BvbnNlSGVhZGVyKCJjYWNoZS1jb250cm9sIil9Y2F0Y2gocil7fXJldHVybntzb3VyY2U6dC5yZXNwb25zZVRleHQsbWV0YTpufX0pWyJjYXRjaCJdKGZ1bmN0aW9uKHQpe3Rocm93IGQubG9nZ2VyLmRlYnVnKCJbIitlKyJdOiBGYWlsZWQgdG8gZmV0Y2ggYWRvbmlzLWNsaWVudCBvdmVyIFhIUiA8Iit0KyI+IiksMD09PXQucmVxLnN0YXR1cz9uZXcgZi5YaHJCbG9ja0Vycm9yOm5ldyBFcnJvcigiVW5leHBlY3RlZCBlcnJvciBwZXJmb3JtaW5nIHN0YXR1cyBjaGVjayByZXF1ZXN0LCBzdGF0dXMtY29kZSA9IDwiK3QucmVxLnN0YXR1cysiPiIpfSl9ZnVuY3Rpb24gaSgpe3JldHVybiBvKClbImNhdGNoIl0oZnVuY3Rpb24oZSl7cmV0dXJuIGQubG9nZ2VyLmRlYnVnKCJmYWlsZWQgdG8gbG9hZCBhZG9uaXMtY2xpZW50IG92ZXIgaHR0cCIsZSksc1siZGVmYXVsdCJdLnJlcG9ydEV2ZW50KCJib290c3RyYXAuY2xpZW50X2h0dHBfZmV0Y2hfZXJyb3IiKSx7c291cmNlOm51bGwsbWV0YTp7fX19KX1PYmplY3QuZGVmaW5lUHJvcGVydHkobiwiX19lc01vZHVsZSIse3ZhbHVlOiEwfSksbi5sb2FkPW8sbi5sb2FkSWdub3JpbmdFcnJvcnM9aTt2YXIgYT1lKDQpLGM9cihhKSx1PWUoMTUpLHM9cih1KSxsPWUoMTgpLGQ9ZSgxMiksZj1lKDkpfSx7MTI6MTIsMTU6MTUsMTg6MTgsNDo0LDk6OX1dLDEyOltmdW5jdGlvbihlLHQsbil7InVzZSBzdHJpY3QiO2Z1bmN0aW9uIHIoZSl7cmV0dXJuIGUmJmUuX19lc01vZHVsZT9lOnsiZGVmYXVsdCI6ZX19dmFyIG89ZSg0KSxpPXIobyksYT1lKDI2KSxjPSgwLGEuY3JlYXRlKSh7bGV2ZWw6aVsiZGVmYXVsdCJdLkxPR19MRVZFTH0pO3QuZXhwb3J0cz17bG9nZ2VyOmMsc3VlekxvZ2dlcjpjfX0sezI2OjI2LDQ6NH1dLDEzOltmdW5jdGlvbihlLHQsbil7InVzZSBzdHJpY3QiO2Z1bmN0aW9uIHIoZSx0LG4pe2lmKEFycmF5LmlzQXJyYXkoZSkmJjA9PT1lLmxlbmd0aClyZXR1cm4gUHJvbWlzZS5yZWplY3Qobik7dD10fHwwO3ZhciBpPWVbMF07cmV0dXJuIGU9ZS5zbGljZSgxKSxpKClbImNhdGNoIl0oZnVuY3Rpb24obil7cmV0dXJuIG8odCkudGhlbihmdW5jdGlvbihvKXtyZXR1cm4gcihlLHQsbil9KX0pfWZ1bmN0aW9uIG8oZSl7cmV0dXJuIG5ldyBQcm9taXNlKGZ1bmN0aW9uKHQsbil7c2V0VGltZW91dChmdW5jdGlvbihlKXtyZXR1cm4gdCgpfSxlKX0pfU9iamVjdC5kZWZpbmVQcm9wZXJ0eShuLCJfX2VzTW9kdWxlIix7dmFsdWU6ITB9KSxuLmNoYWluPXJ9LHt9XSwxNDpbZnVuY3Rpb24oZSx0LG4peyJ1c2Ugc3RyaWN0IjtmdW5jdGlvbiByKGUsdCl7YS5kZWJ1ZygiaW5zZXJpbmcgYmxvYiIpO3ZhciBuPWRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpO24uc3JjPWUsdCYmKG4uaW50ZWdyaXR5PXQpLGRvY3VtZW50LmhlYWQuYXBwZW5kQ2hpbGQobil9ZnVuY3Rpb24gbyhlLHQpe3ZhciBuPW5ldyB3aW5kb3cuWE1MSHR0cFJlcXVlc3Q7dHJ5e24ub3BlbigiR0VUIixlLCEwKSxuLmFkZEV2ZW50TGlzdGVuZXIoInJlYWR5c3RhdGVjaGFuZ2UiLGZ1bmN0aW9uKGUpezQ9PT1uLnJlYWR5U3RhdGUmJjA9PT1uLnN0YXR1cyYmaSh0KX0pLG4uc2VuZCgpfWNhdGNoKHIpe2Eud2FybigiRmFsbGluZyBiYWNrIHRvIGluc2VydGluZyBpbmxpbmUgc2NyaXB0IiksaSh0KX19ZnVuY3Rpb24gaShlKXt2YXIgdD1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCJzY3JpcHQiKTt0LmlubmVySFRNTD1lLGRvY3VtZW50LmhlYWQuYXBwZW5kQ2hpbGQodCl9dmFyIGE9ZSgxMikubG9nZ2VyO3QuZXhwb3J0cz17aW5zZXJ0QmxvYlNjcmlwdDpyLHRlc3RCbG9iQW5kSW5zZXJ0RmFsbGJhY2s6byxpbnNlcnRJbmxpbmVTY3JpcHQ6aX19LHsxMjoxMn1dLDE1OltmdW5jdGlvbihlLHQsbil7InVzZSBzdHJpY3QiO2Z1bmN0aW9uIHIoZSl7dmFyIHQ9bmV3IFhNTEh0dHBSZXF1ZXN0LG49W3MuUkVQT1JUSU5HX1VSTCxlXS5qb2luKCIiKTt0Lm9wZW4oIkdFVCIsbiwhMCksdC5zZW5kKCl9ZnVuY3Rpb24gbyhlKXtzLlJFUE9SVF9FUlJPUlMmJnIoIi9hZG9uaXNfZXJyb3I/ZT0iK2UudG9TdHJpbmcoKSsiJndlYnNpdGU9Iit3aW5kb3cubG9jYXRpb24uaG9zdG5hbWUpfWZ1bmN0aW9uIGkoKXtyZXR1cm4gbnVsbCE9d2luZG93LkFET05JU19CT09UU1RSQVBfU1RBVFM/d2luZG93LkFET05JU19CT09UU1RSQVBfU1RBVFM9PT0hMDpNYXRoLnJhbmRvbSgpPHMuUkVQT1JUSU5HX1JBVEV9ZnVuY3Rpb24gYShlLHQpe2lmKGMoZSksaSgpKXt2YXIgbj17d2Vic2l0ZTp3aW5kb3cubG9jYXRpb24uaG9zdG5hbWUsa2V5OmV9O251bGwhPXQmJihuLnF1YW50aXR5PXQpLHIoWyIvYWRvbmlzX2V2ZW50Lz9ldmVudD0iLEpTT04uc3RyaW5naWZ5KG4pXS5qb2luKCIiKSl9fWZ1bmN0aW9uIGMoZSl7dmFyIHQ9e2tleTplLHRpbWVfbXM6TWF0aC5yb3VuZCh3aW5kb3cucGVyZm9ybWFuY2Uubm93KCkpLHdlYnNpdGU6d2luZG93LmxvY2F0aW9uLmhvc3RuYW1lfTtkLnB1c2godCl9ZnVuY3Rpb24gdSgpe2wuZGVmaW5lUmVhZE9ubHlQcm9wZXJ0eSgiYWRvbmlzQm9vdHN0cmFwVGltaW5nIixkKX12YXIgcz1lKDQpLGw9ZSgxNyksZD1bXTt0LmV4cG9ydHM9e3JlcG9ydEVycm9yOm8scmVwb3J0RXZlbnQ6YSxzYXZlVGltaW5nOnUsc2hvdWxkUmVwb3J0Oml9fSx7MTc6MTcsNDo0fV0sMTY6W2Z1bmN0aW9uKGUsdCxuKXsidXNlIHN0cmljdCI7ZnVuY3Rpb24gcihlKXt2YXIgdD0vYW5kcm9pZHxpcGhvbmUvZ2ksbj0vQ2hyb21lXC8oXFMpKyBTYWZhcmlcLyhcUykrJC9naSxyPS9cKSBHZWNrb1wvKFxTKSsgRmlyZWZveFwvKFxTKSskL2dpLG89L2xpa2UgR2Vja28uP1wpIFZlcnNpb25cLyhcUykrIFNhZmFyaVwvKFxTKSskL2dpO3JldHVybiBlLnNlYXJjaCh0KT09PS0xJiYoZS5zZWFyY2gobik+LTF8fGUuc2VhcmNoKHIpPi0xfHxlLnNlYXJjaChvKT4tMSl9T2JqZWN0LmRlZmluZVByb3BlcnR5KG4sIl9fZXNNb2R1bGUiLHt2YWx1ZTohMH0pLG5bImRlZmF1bHQiXT1yfSx7fV0sMTc6W2Z1bmN0aW9uKGUsdCxuKXsidXNlIHN0cmljdCI7ZnVuY3Rpb24gcihlLHQpe3RyeXtPYmplY3QuZGVmaW5lUHJvcGVydHkod2luZG93LGUse3ZhbHVlOnQsd3JpdGFibGU6ITF9KX1jYXRjaChuKXtvLndhcm4oIkNhbm5vdCBkZWZpbmUgcmVhZC1vbmx5IHByb3BlcnR5IG9mIHdpbmRvdyBvYmplY3Q6ICIrbil9fXZhciBvPWUoMTIpLmxvZ2dlcixpPWZ1bmN0aW9uKGUpeyJsb2FkaW5nIiE9PWRvY3VtZW50LnJlYWR5U3RhdGU/ZSgpOmRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoIkRPTUNvbnRlbnRMb2FkZWQiLGUpfTt0LmV4cG9ydHM9e2RlZmluZVJlYWRPbmx5UHJvcGVydHk6cixyZWFkeTppfX0sezEyOjEyfV0sMTg6W2Z1bmN0aW9uKGUsdCxuKXsidXNlIHN0cmljdCI7ZnVuY3Rpb24gcihlKXtyZXR1cm4gZSYmZS5fX2VzTW9kdWxlP2U6eyJkZWZhdWx0IjplfX1mdW5jdGlvbiBvKGUsdCl7aWYoIShlIGluc3RhbmNlb2YgdCkpdGhyb3cgbmV3IFR5cGVFcnJvcigiQ2Fubm90IGNhbGwgYSBjbGFzcyBhcyBhIGZ1bmN0aW9uIil9ZnVuY3Rpb24gaShlLHQpe2lmKCFlKXRocm93IG5ldyBSZWZlcmVuY2VFcnJvcigidGhpcyBoYXNuJ3QgYmVlbiBpbml0aWFsaXNlZCAtIHN1cGVyKCkgaGFzbid0IGJlZW4gY2FsbGVkIik7cmV0dXJuIXR8fCJvYmplY3QiIT10eXBlb2YgdCYmImZ1bmN0aW9uIiE9dHlwZW9mIHQ/ZTp0fWZ1bmN0aW9uIGEoZSx0KXtpZigiZnVuY3Rpb24iIT10eXBlb2YgdCYmbnVsbCE9PXQpdGhyb3cgbmV3IFR5cGVFcnJvcigiU3VwZXIgZXhwcmVzc2lvbiBtdXN0IGVpdGhlciBiZSBudWxsIG9yIGEgZnVuY3Rpb24sIG5vdCAiK3R5cGVvZiB0KTtlLnByb3RvdHlwZT1PYmplY3QuY3JlYXRlKHQmJnQucHJvdG90eXBlLHtjb25zdHJ1Y3Rvcjp7dmFsdWU6ZSxlbnVtZXJhYmxlOiExLHdyaXRhYmxlOiEwLGNvbmZpZ3VyYWJsZTohMH19KSx0JiYoT2JqZWN0LnNldFByb3RvdHlwZU9mP09iamVjdC5zZXRQcm90b3R5cGVPZihlLHQpOmUuX19wcm90b19fPXQpfWZ1bmN0aW9uIGMoZSl7dmFyIHQ9YXJndW1lbnRzLmxlbmd0aD4xJiZ2b2lkIDAhPT1hcmd1bWVudHNbMV0/YXJndW1lbnRzWzFdOiJHRVQiLG49YXJndW1lbnRzLmxlbmd0aD4yJiZ2b2lkIDAhPT1hcmd1bWVudHNbMl0/YXJndW1lbnRzWzJdOm51bGwscj1hcmd1bWVudHMubGVuZ3RoPjMmJnZvaWQgMCE9PWFyZ3VtZW50c1szXT9hcmd1bWVudHNbM106e307cmV0dXJuIG5ldyB3aW5kb3cuUHJvbWlzZShmdW5jdGlvbihvLGkpe3ZhciBhPW5ldyB3aW5kb3cuWE1MSHR0cFJlcXVlc3Q7YS5vcGVuKHQsZSwhMCk7Zm9yKHZhciBjIGluIHIpe3ZhciB1PXJbY107YS5zZXRSZXF1ZXN0SGVhZGVyKGMsdSl9YS5vbmxvYWQ9ZnVuY3Rpb24oKXthLnN0YXR1cz49NDAwP2kobmV3IGwoYSwiVW5leHBlY3RlZCBzdGF0dXMgY29kZSIpKTpvKGEpfSxhLm9uZXJyb3I9ZnVuY3Rpb24oKXtpKG5ldyBsKGEsIkVycm9yIGVzdGFibGlzaGluZyBjb25uZWN0aW9uIikpfSxhLnNlbmQobil9KX1PYmplY3QuZGVmaW5lUHJvcGVydHkobiwiX19lc01vZHVsZSIse3ZhbHVlOiEwfSksbi5YaHJSZXF1ZXN0RXJyb3I9dm9pZCAwLG4ucmVxdWVzdD1jO3ZhciB1PWUoMTkpLHM9cih1KSxsPW4uWGhyUmVxdWVzdEVycm9yPWZ1bmN0aW9uKGUpe2Z1bmN0aW9uIHQoZSxuKXtvKHRoaXMsdCk7dmFyIHI9aSh0aGlzLCh0Ll9fcHJvdG9fX3x8T2JqZWN0LmdldFByb3RvdHlwZU9mKHQpKS5jYWxsKHRoaXMsbikpO3JldHVybiByLnJlcT1lLHJ9cmV0dXJuIGEodCxlKSx0fShzWyJkZWZhdWx0Il0pfSx7MTk6MTl9XSwxOTpbZnVuY3Rpb24oZSx0LG4peyJ1c2Ugc3RyaWN0IjtmdW5jdGlvbiByKGUsdCl7aWYoIShlIGluc3RhbmNlb2YgdCkpdGhyb3cgbmV3IFR5cGVFcnJvcigiQ2Fubm90IGNhbGwgYSBjbGFzcyBhcyBhIGZ1bmN0aW9uIil9ZnVuY3Rpb24gbyhlLHQpe2lmKCFlKXRocm93IG5ldyBSZWZlcmVuY2VFcnJvcigidGhpcyBoYXNuJ3QgYmVlbiBpbml0aWFsaXNlZCAtIHN1cGVyKCkgaGFzbid0IGJlZW4gY2FsbGVkIik7cmV0dXJuIXR8fCJvYmplY3QiIT10eXBlb2YgdCYmImZ1bmN0aW9uIiE9dHlwZW9mIHQ/ZTp0fWZ1bmN0aW9uIGkoZSx0KXtpZigiZnVuY3Rpb24iIT10eXBlb2YgdCYmbnVsbCE9PXQpdGhyb3cgbmV3IFR5cGVFcnJvcigiU3VwZXIgZXhwcmVzc2lvbiBtdXN0IGVpdGhlciBiZSBudWxsIG9yIGEgZnVuY3Rpb24sIG5vdCAiK3R5cGVvZiB0KTtlLnByb3RvdHlwZT1PYmplY3QuY3JlYXRlKHQmJnQucHJvdG90eXBlLHtjb25zdHJ1Y3Rvcjp7dmFsdWU6ZSxlbnVtZXJhYmxlOiExLHdyaXRhYmxlOiEwLGNvbmZpZ3VyYWJsZTohMH19KSx0JiYoT2JqZWN0LnNldFByb3RvdHlwZU9mP09iamVjdC5zZXRQcm90b3R5cGVPZihlLHQpOmUuX19wcm90b19fPXQpfWZ1bmN0aW9uIGEoZSl7ZnVuY3Rpb24gdCgpe2UuYXBwbHkodGhpcyxhcmd1bWVudHMpfXJldHVybiB0LnByb3RvdHlwZT1PYmplY3QuY3JlYXRlKGUucHJvdG90eXBlLHtjb25zdHJ1Y3Rvcjp7dmFsdWU6ZSxlbnVtZXJhYmxlOiExLHdyaXRhYmxlOiEwLGNvbmZpZ3VyYWJsZTohMH19KSxPYmplY3Quc2V0UHJvdG90eXBlT2Y/T2JqZWN0LnNldFByb3RvdHlwZU9mKHQsZSk6dC5fX3Byb3RvX189ZSx0fU9iamVjdC5kZWZpbmVQcm9wZXJ0eShuLCJfX2VzTW9kdWxlIix7dmFsdWU6ITB9KTt2YXIgYz1mdW5jdGlvbihlKXtmdW5jdGlvbiB0KCl7dmFyIGU9YXJndW1lbnRzLmxlbmd0aD4wJiZ2b2lkIDAhPT1hcmd1bWVudHNbMF0/YXJndW1lbnRzWzBdOiIiO3IodGhpcyx0KTt2YXIgbj1vKHRoaXMsKHQuX19wcm90b19ffHxPYmplY3QuZ2V0UHJvdG90eXBlT2YodCkpLmNhbGwodGhpcyxlKSk7cmV0dXJuIE9iamVjdC5kZWZpbmVQcm9wZXJ0eShuLCJtZXNzYWdlIix7Y29uZmlndXJhYmxlOiEwLGVudW1lcmFibGU6ITEsdmFsdWU6ZSx3cml0YWJsZTohMH0pLE9iamVjdC5kZWZpbmVQcm9wZXJ0eShuLCJuYW1lIix7Y29uZmlndXJhYmxlOiEwLGVudW1lcmFibGU6ITEsdmFsdWU6bi5jb25zdHJ1Y3Rvci5uYW1lLHdyaXRhYmxlOiEwfSksRXJyb3IuaGFzT3duUHJvcGVydHkoImNhcHR1cmVTdGFja1RyYWNlIik/KEVycm9yLmNhcHR1cmVTdGFja1RyYWNlKG4sbi5jb25zdHJ1Y3RvciksbyhuKSk6KE9iamVjdC5kZWZpbmVQcm9wZXJ0eShuLCJzdGFjayIse2NvbmZpZ3VyYWJsZTohMCxlbnVtZXJhYmxlOiExLHZhbHVlOm5ldyBFcnJvcihlKS5zdGFjayx3cml0YWJsZTohMH0pLG4pfXJldHVybiBpKHQsZSksdH0oYShFcnJvcikpO25bImRlZmF1bHQiXT1jLHQuZXhwb3J0cz1uWyJkZWZhdWx0Il19LHt9XSwyMDpbZnVuY3Rpb24oZSx0LG4peyJ1c2Ugc3RyaWN0IjtmdW5jdGlvbiByKGUpe3JldHVybiBlJiZlLl9fZXNNb2R1bGU/ZTp7ImRlZmF1bHQiOmV9fWZ1bmN0aW9uIG8oZSl7cmV0dXJuIGNbImRlZmF1bHQiXS5yZXBsYWNlKCJ7e1RJVExFfX0iLGUudGl0bGUpfWZ1bmN0aW9uIGkoZSl7ZS5kb2N1bWVudEVsZW1lbnQuaW5uZXJIVE1MPW8oZSl9T2JqZWN0LmRlZmluZVByb3BlcnR5KG4sIl9fZXNNb2R1bGUiLHt2YWx1ZTohMH0pLG4uZGlzcGxheU1lc3NhZ2U9byxuLnJlcGxhY2VDb250ZW50PWk7dmFyIGE9ZSgyMSksYz1yKGEpfSx7MjE6MjF9XSwyMTpbZnVuY3Rpb24oZSx0LG4pe3QuZXhwb3J0cz0nPGhlYWQ+XG4gICAgPG1ldGEgY2hhcnNldD0idXRmLTgiPlxuICAgIDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MS4wLG1heGltdW0tc2NhbGU9MS4wLCB1c2VyLXNjYWxhYmxlPW5vIj5cbiAgICA8dGl0bGU+e3tUSVRMRX19PC90aXRsZT5cbiAgICA8c3R5bGU+XG4gICAgICBodG1sLCBib2R5IHtcbiAgICAgICAgYmFja2dyb3VuZDogI0VGRUZFRjtcbiAgICAgICAgZm9udC1mYW1pbHk6ICJIZWx2ZXRpY2EgTmV1ZSIsIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWY7XG4gICAgICAgIGhlaWdodDogMTAwJVxuICAgICAgfVxuXG4gICAgICAjbWFpbi1jb250ZW50IHtcbiAgICAgICAgaGVpZ2h0OiAxMDAlO1xuICAgICAgfVxuXG4gICAgICAjbWFpbi1jb250ZW50ID4gZGl2ICB7XG4gICAgICAgIG1heC13aWR0aDogODAwcHg7XG4gICAgICAgIG1pbi13aWR0aDogMjAwcHg7XG5cbiAgICAgICAgbWFyZ2luOiAwIGF1dG87XG4gICAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgICAgICAgdG9wOiA1MCU7XG4gICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgtNTAlKTtcbiAgICAgIH1cbiAgICA8L3N0eWxlPlxuPC9oZWFkPlxuPGJvZHk+XG5cdFx0PGRpdiBpZD0ibWFpbi1jb250ZW50Ij5cblx0XHRcdFx0PGRpdj5cblx0XHRcdFx0XHRcdDxoMT5Tb21ldGhpbmcgaW50ZXJmZXJlZCB3aXRoIHRoaXMgd2Vic2l0ZSBsb2FkaW5nPC9oMT5cblx0XHRcdFx0XHRcdDxwPlRoaXMgY291bGQgYmUgYSB0ZW1wb3JhcnkgcHJvYmxlbSB3aXRoIHlvdXIgbmV0d29yaywgb3IgZHVlIHRvIHlvdXIgYWRibG9ja2VyPC9wPlxuXHRcdFx0XHRcdFx0PHA+VHJ5OjwvcD5cblx0XHRcdFx0XHRcdDx1bD5cblx0XHRcdFx0XHRcdFx0XHQ8bGk+Q2hlY2sgeW91ciBpbnRlcm5ldCBjb25uZWN0aW9uIGFuZCByZWxvYWQgdGhlIHBhZ2U8L2xpPlxuXHRcdFx0XHRcdFx0XHRcdDxsaT5JZiB5b3UgYXJlIHVzaW5nIGFuIGFkYmxvY2tlciBkaXNhYmxlIGl0IGJ5IGNsaWNraW5nIG9uIHRoZSBhZGJsb2NrIGljb24gaW4geW91ciBicm93c2VyIHRvb2xiYXI8L2xpPlxuXHRcdFx0XHRcdFx0XHRcdDxsaT5JZiB0aGUgcHJvYmxlbSBwZXJzaXN0cywgY29uc2lkZXIgbGVhdmluZyBhIG1lc3NhZ2Ugb24gdGhlIDxhIGhyZWY9Imh0dHBzOi8vZm9ydW1zLmxhbmlrLnVzLyIgdGFyZ2V0PSJfQkxBTksiPmFkYmxvY2sgdXNlciBmb3J1bXM8L2E+XG5cdFx0XHRcdFx0XHRcdFx0PC9saT5cblx0XHRcdFx0XHRcdDwvdWw+XG5cdFx0XHRcdDwvZGl2PlxuXHRcdDwvZGl2PlxuPC9ib2R5PlxuJ30se31dLDIyOltmdW5jdGlvbihlLHQsbil7ZnVuY3Rpb24gcihlKXsicGVyZm9ybWFuY2UiaW4gZXx8KGUucGVyZm9ybWFuY2U9e30pO3ZhciB0PWUucGVyZm9ybWFuY2U7ZS5wZXJmb3JtYW5jZS5ub3c9dC5ub3d8fHQubW96Tm93fHx0Lm1zTm93fHx0Lm9Ob3d8fHQud2Via2l0Tm93fHxEYXRlLm5vd3x8ZnVuY3Rpb24oKXtyZXR1cm4obmV3IERhdGUpLmdldFRpbWUoKX19cihzZWxmKX0se31dLDIzOltmdW5jdGlvbihlLHQsbil7dC5leHBvcnRzPVsiY29tIiwibmV0IiwiZnIiLCJjby51ayIsImRlIiwidHYiLCJ0b2RheSIsIm9yZyIsImluZm8iLCJpZSIsImJhIiwiZ2ciXX0se31dLDI0OltmdW5jdGlvbihlLHQsbil7InVzZSBzdHJpY3QiO3ZhciByPWUoMjUpLG89e307by5ydWxlcz1lKDIzKS5tYXAoZnVuY3Rpb24oZSl7cmV0dXJue3J1bGU6ZSxzdWZmaXg6ZS5yZXBsYWNlKC9eKFwqXC58XCEpLywiIiksd2lsZGNhcmQ6IioiPT09ZS5jaGFyQXQoMCksZXhjZXB0aW9uOiIhIj09PWUuY2hhckF0KDApfX0pLG8uZW5kc1dpdGg9ZnVuY3Rpb24oZSx0KXtyZXR1cm4gZS5pbmRleE9mKHQsZS5sZW5ndGgtdC5sZW5ndGgpIT09LTF9LG8uZmluZFJ1bGU9ZnVuY3Rpb24oZSl7dmFyIHQ9ci50b0FTQ0lJKGUpO3JldHVybiBvLnJ1bGVzLnJlZHVjZShmdW5jdGlvbihlLG4pe3ZhciBpPXIudG9BU0NJSShuLnN1ZmZpeCk7cmV0dXJuIG8uZW5kc1dpdGgodCwiLiIraSl8fHQ9PT1pP246ZX0sbnVsbCl9LG4uZXJyb3JDb2Rlcz17RE9NQUlOX1RPT19TSE9SVDoiRG9tYWluIG5hbWUgdG9vIHNob3J0LiIsRE9NQUlOX1RPT19MT05HOiJEb21haW4gbmFtZSB0b28gbG9uZy4gSXQgc2hvdWxkIGJlIG5vIG1vcmUgdGhhbiAyNTUgY2hhcnMuIixMQUJFTF9TVEFSVFNfV0lUSF9EQVNIOiJEb21haW4gbmFtZSBsYWJlbCBjYW4gbm90IHN0YXJ0IHdpdGggYSBkYXNoLiIsTEFCRUxfRU5EU19XSVRIX0RBU0g6IkRvbWFpbiBuYW1lIGxhYmVsIGNhbiBub3QgZW5kIHdpdGggYSBkYXNoLiIsTEFCRUxfVE9PX0xPTkc6IkRvbWFpbiBuYW1lIGxhYmVsIHNob3VsZCBiZSBhdCBtb3N0IDYzIGNoYXJzIGxvbmcuIixMQUJFTF9UT09fU0hPUlQ6IkRvbWFpbiBuYW1lIGxhYmVsIHNob3VsZCBiZSBhdCBsZWFzdCAxIGNoYXJhY3RlciBsb25nLiIsTEFCRUxfSU5WQUxJRF9DSEFSUzoiRG9tYWluIG5hbWUgbGFiZWwgY2FuIG9ubHkgY29udGFpbiBhbHBoYW51bWVyaWMgY2hhcmFjdGVycyBvciBkYXNoZXMuIn0sby52YWxpZGF0ZT1mdW5jdGlvbihlKXt2YXIgdD1yLnRvQVNDSUkoZSk7aWYodC5sZW5ndGg8MSlyZXR1cm4iRE9NQUlOX1RPT19TSE9SVCI7aWYodC5sZW5ndGg+MjU1KXJldHVybiJET01BSU5fVE9PX0xPTkciO2Zvcih2YXIgbixvPXQuc3BsaXQoIi4iKSxpPTA7aTxvLmxlbmd0aDsrK2kpe2lmKG49b1tpXSwhbi5sZW5ndGgpcmV0dXJuIkxBQkVMX1RPT19TSE9SVCI7aWYobi5sZW5ndGg+NjMpcmV0dXJuIkxBQkVMX1RPT19MT05HIjtpZigiLSI9PT1uLmNoYXJBdCgwKSlyZXR1cm4iTEFCRUxfU1RBUlRTX1dJVEhfREFTSCI7aWYoIi0iPT09bi5jaGFyQXQobi5sZW5ndGgtMSkpcmV0dXJuIkxBQkVMX0VORFNfV0lUSF9EQVNIIjtpZighL15bYS16MC05XC1dKyQvLnRlc3QobikpcmV0dXJuIkxBQkVMX0lOVkFMSURfQ0hBUlMifX0sbi5wYXJzZT1mdW5jdGlvbihlKXtpZigic3RyaW5nIiE9dHlwZW9mIGUpdGhyb3cgbmV3IFR5cGVFcnJvcigiRG9tYWluIG5hbWUgbXVzdCBiZSBhIHN0cmluZy4iKTt2YXIgdD1lLnNsaWNlKDApLnRvTG93ZXJDYXNlKCk7Ii4iPT09dC5jaGFyQXQodC5sZW5ndGgtMSkmJih0PXQuc2xpY2UoMCx0Lmxlbmd0aC0xKSk7dmFyIGk9by52YWxpZGF0ZSh0KTtpZihpKXJldHVybntpbnB1dDplLGVycm9yOnttZXNzYWdlOm4uZXJyb3JDb2Rlc1tpXSxjb2RlOml9fTt2YXIgYT17aW5wdXQ6ZSx0bGQ6bnVsbCxzbGQ6bnVsbCxkb21haW46bnVsbCxzdWJkb21haW46bnVsbCxsaXN0ZWQ6ITF9LGM9dC5zcGxpdCgiLiIpO2lmKCJsb2NhbCI9PT1jW2MubGVuZ3RoLTFdKXJldHVybiBhO3ZhciB1PWZ1bmN0aW9uKCl7cmV0dXJuL3huLS0vLnRlc3QodCk/KGEuZG9tYWluJiYoYS5kb21haW49ci50b0FTQ0lJKGEuZG9tYWluKSksYS5zdWJkb21haW4mJihhLnN1YmRvbWFpbj1yLnRvQVNDSUkoYS5zdWJkb21haW4pKSxhKTphfSxzPW8uZmluZFJ1bGUodCk7aWYoIXMpcmV0dXJuIGMubGVuZ3RoPDI/YTooYS50bGQ9Yy5wb3AoKSxhLnNsZD1jLnBvcCgpLGEuZG9tYWluPVthLnNsZCxhLnRsZF0uam9pbigiLiIpLGMubGVuZ3RoJiYoYS5zdWJkb21haW49Yy5wb3AoKSksdSgpKTthLmxpc3RlZD0hMDt2YXIgbD1zLnN1ZmZpeC5zcGxpdCgiLiIpLGQ9Yy5zbGljZSgwLGMubGVuZ3RoLWwubGVuZ3RoKTtyZXR1cm4gcy5leGNlcHRpb24mJmQucHVzaChsLnNoaWZ0KCkpLGQubGVuZ3RoPyhzLndpbGRjYXJkJiZsLnVuc2hpZnQoZC5wb3AoKSksZC5sZW5ndGg/KGEudGxkPWwuam9pbigiLiIpLGEuc2xkPWQucG9wKCksYS5kb21haW49W2Euc2xkLGEudGxkXS5qb2luKCIuIiksZC5sZW5ndGgmJihhLnN1YmRvbWFpbj1kLmpvaW4oIi4iKSksdSgpKTp1KCkpOnUoKX0sbi5nZXQ9ZnVuY3Rpb24oZSl7cmV0dXJuIGU/bi5wYXJzZShlKS5kb21haW58fG51bGw6bnVsbH0sbi5pc1ZhbGlkPWZ1bmN0aW9uKGUpe3ZhciB0PW4ucGFyc2UoZSk7cmV0dXJuIEJvb2xlYW4odC5kb21haW4mJnQubGlzdGVkKX19LHsyMzoyMywyNToyNX1dLDI1OltmdW5jdGlvbihlLHQsbil7KGZ1bmN0aW9uKGUpeyFmdW5jdGlvbihyKXtmdW5jdGlvbiBvKGUpe3Rocm93IG5ldyBSYW5nZUVycm9yKGpbZV0pfWZ1bmN0aW9uIGkoZSx0KXtmb3IodmFyIG49ZS5sZW5ndGgscj1bXTtuLS07KXJbbl09dChlW25dKTtyZXR1cm4gcn1mdW5jdGlvbiBhKGUsdCl7dmFyIG49ZS5zcGxpdCgiQCIpLHI9IiI7bi5sZW5ndGg+MSYmKHI9blswXSsiQCIsZT1uWzFdKSxlPWUucmVwbGFjZSh4LCIuIik7dmFyIG89ZS5zcGxpdCgiLiIpLGE9aShvLHQpLmpvaW4oIi4iKTtyZXR1cm4gcithfWZ1bmN0aW9uIGMoZSl7Zm9yKHZhciB0LG4scj1bXSxvPTAsaT1lLmxlbmd0aDtvPGk7KXQ9ZS5jaGFyQ29kZUF0KG8rKyksdD49NTUyOTYmJnQ8PTU2MzE5JiZvPGk/KG49ZS5jaGFyQ29kZUF0KG8rKyksNTYzMjA9PSg2NDUxMiZuKT9yLnB1c2goKCgxMDIzJnQpPDwxMCkrKDEwMjMmbikrNjU1MzYpOihyLnB1c2godCksby0tKSk6ci5wdXNoKHQpO3JldHVybiByfWZ1bmN0aW9uIHUoZSl7cmV0dXJuIGkoZSxmdW5jdGlvbihlKXt2YXIgdD0iIjtyZXR1cm4gZT42NTUzNSYmKGUtPTY1NTM2LHQrPUgoZT4+PjEwJjEwMjN8NTUyOTYpLGU9NTYzMjB8MTAyMyZlKSx0Kz1IKGUpfSkuam9pbigiIil9ZnVuY3Rpb24gcyhlKXtyZXR1cm4gZS00ODwxMD9lLTIyOmUtNjU8MjY/ZS02NTplLTk3PDI2P2UtOTc6RX1mdW5jdGlvbiBsKGUsdCl7cmV0dXJuIGUrMjIrNzUqKGU8MjYpLSgoMCE9dCk8PDUpfWZ1bmN0aW9uIGQoZSx0LG4pe3ZhciByPTA7Zm9yKGU9bj9rKGUvUik6ZT4+MSxlKz1rKGUvdCk7ZT5OKk8+PjE7cis9RSllPWsoZS9OKTtyZXR1cm4gayhyKyhOKzEpKmUvKGUrVCkpfWZ1bmN0aW9uIGYoZSl7dmFyIHQsbixyLGksYSxjLGwsZixwLGgsZz1bXSx3PWUubGVuZ3RoLHY9MCxfPUEsYj1DO2ZvcihuPWUubGFzdEluZGV4T2YoUCksbjwwJiYobj0wKSxyPTA7cjxuOysrcillLmNoYXJDb2RlQXQocik+PTEyOCYmbygibm90LWJhc2ljIiksZy5wdXNoKGUuY2hhckNvZGVBdChyKSk7Zm9yKGk9bj4wP24rMTowO2k8dzspe2ZvcihhPXYsYz0xLGw9RTtpPj13JiZvKCJpbnZhbGlkLWlucHV0IiksZj1zKGUuY2hhckNvZGVBdChpKyspKSwoZj49RXx8Zj5rKCh5LXYpL2MpKSYmbygib3ZlcmZsb3ciKSx2Kz1mKmMscD1sPD1iP1M6bD49YitPP086bC1iLCEoZjxwKTtsKz1FKWg9RS1wLGM+ayh5L2gpJiZvKCJvdmVyZmxvdyIpLGMqPWg7dD1nLmxlbmd0aCsxLGI9ZCh2LWEsdCwwPT1hKSxrKHYvdCk+eS1fJiZvKCJvdmVyZmxvdyIpLF8rPWsodi90KSx2JT10LGcuc3BsaWNlKHYrKywwLF8pfXJldHVybiB1KGcpfWZ1bmN0aW9uIHAoZSl7dmFyIHQsbixyLGksYSx1LHMsZixwLGgsZyx3LHYsXyxiLG09W107Zm9yKGU9YyhlKSx3PWUubGVuZ3RoLHQ9QSxuPTAsYT1DLHU9MDt1PHc7Kyt1KWc9ZVt1XSxnPDEyOCYmbS5wdXNoKEgoZykpO2ZvcihyPWk9bS5sZW5ndGgsaSYmbS5wdXNoKFApO3I8dzspe2ZvcihzPXksdT0wO3U8dzsrK3UpZz1lW3VdLGc+PXQmJmc8cyYmKHM9Zyk7Zm9yKHY9cisxLHMtdD5rKCh5LW4pL3YpJiZvKCJvdmVyZmxvdyIpLG4rPShzLXQpKnYsdD1zLHU9MDt1PHc7Kyt1KWlmKGc9ZVt1XSxnPHQmJisrbj55JiZvKCJvdmVyZmxvdyIpLGc9PXQpe2ZvcihmPW4scD1FO2g9cDw9YT9TOnA+PWErTz9POnAtYSwhKGY8aCk7cCs9RSliPWYtaCxfPUUtaCxtLnB1c2goSChsKGgrYiVfLDApKSksZj1rKGIvXyk7bS5wdXNoKEgobChmLDApKSksYT1kKG4sdixyPT1pKSxuPTAsKytyfSsrbiwrK3R9cmV0dXJuIG0uam9pbigiIil9ZnVuY3Rpb24gaChlKXtyZXR1cm4gYShlLGZ1bmN0aW9uKGUpe3JldHVybiBMLnRlc3QoZSk/ZihlLnNsaWNlKDQpLnRvTG93ZXJDYXNlKCkpOmV9KX1mdW5jdGlvbiBnKGUpe3JldHVybiBhKGUsZnVuY3Rpb24oZSl7cmV0dXJuIEkudGVzdChlKT8ieG4tLSIrcChlKTplfSl9dmFyIHc9Im9iamVjdCI9PXR5cGVvZiBuJiZuJiYhbi5ub2RlVHlwZSYmbix2PSJvYmplY3QiPT10eXBlb2YgdCYmdCYmIXQubm9kZVR5cGUmJnQsXz0ib2JqZWN0Ij09dHlwZW9mIGUmJmU7Xy5nbG9iYWwhPT1fJiZfLndpbmRvdyE9PV8mJl8uc2VsZiE9PV98fChyPV8pO3ZhciBiLG0seT0yMTQ3NDgzNjQ3LEU9MzYsUz0xLE89MjYsVD0zOCxSPTcwMCxDPTcyLEE9MTI4LFA9Ii0iLEw9L154bi0tLyxJPS9bXlx4MjAtXHg3RV0vLHg9L1tceDJFXHUzMDAyXHVGRjBFXHVGRjYxXS9nLGo9e292ZXJmbG93OiJPdmVyZmxvdzogaW5wdXQgbmVlZHMgd2lkZXIgaW50ZWdlcnMgdG8gcHJvY2VzcyIsIm5vdC1iYXNpYyI6IklsbGVnYWwgaW5wdXQgPj0gMHg4MCAobm90IGEgYmFzaWMgY29kZSBwb2ludCkiLCJpbnZhbGlkLWlucHV0IjoiSW52YWxpZCBpbnB1dCJ9LE49RS1TLGs9TWF0aC5mbG9vcixIPVN0cmluZy5mcm9tQ2hhckNvZGU7aWYoYj17dmVyc2lvbjoiMS40LjEiLHVjczI6e2RlY29kZTpjLGVuY29kZTp1fSxkZWNvZGU6ZixlbmNvZGU6cCx0b0FTQ0lJOmcsdG9Vbmljb2RlOmh9LCJmdW5jdGlvbiI9PXR5cGVvZiBkZWZpbmUmJiJvYmplY3QiPT10eXBlb2YgZGVmaW5lLmFtZCYmZGVmaW5lLmFtZClkZWZpbmUoInB1bnljb2RlIixmdW5jdGlvbigpe3JldHVybiBifSk7ZWxzZSBpZih3JiZ2KWlmKHQuZXhwb3J0cz09dyl2LmV4cG9ydHM9YjtlbHNlIGZvcihtIGluIGIpYi5oYXNPd25Qcm9wZXJ0eShtKSYmKHdbbV09YlttXSk7ZWxzZSByLnB1bnljb2RlPWJ9KHRoaXMpfSkuY2FsbCh0aGlzLCJ1bmRlZmluZWQiIT10eXBlb2YgZ2xvYmFsP2dsb2JhbDoidW5kZWZpbmVkIiE9dHlwZW9mIHNlbGY/c2VsZjoidW5kZWZpbmVkIiE9dHlwZW9mIHdpbmRvdz93aW5kb3c6e30pfSx7fV0sMjY6W2Z1bmN0aW9uKGUsdCxuKXtmdW5jdGlvbiByKGUsdCl7Y29uc3Qgbj1hW3RdO3ZvaWQgMCE9PW4mJihuPjAmJihlLmFzc2VydD1mdW5jdGlvbigpe30pLG4+NSYmKGUudHJhY2U9ZnVuY3Rpb24oKXt9KSxuPjEwJiYoZS5kZWJ1Zz1mdW5jdGlvbigpe30pLG4+MjAmJihlLmxvZz1mdW5jdGlvbigpe30pLG4+MzAmJihlLmluZm89ZnVuY3Rpb24oKXt9KSxuPjQwJiYoZS53YXJuPWZ1bmN0aW9uKCl7fSksbj41MCYmKGUuZXJyb3I9ZnVuY3Rpb24oKXt9KSl9ZnVuY3Rpb24gbyhlLHQpe3Q9dHx8e307Y29uc3Qgbj10LmxldmVsfHwiZGVidWciO3IoZSxuKX1mdW5jdGlvbiBpKGUpe2NvbnN0IHQ9T2JqZWN0LmNyZWF0ZShjb25zb2xlKTtyZXR1cm4gbyh0LGUpLHR9Y29uc3QgYT17YWxsOjAsdHJhY2U6NSxkZWJ1ZzoxMCxsb2c6MjAsaW5mbzozMCx3YXJuOjQwLGVycm9yOjUwfSxjPWkoKTt0LmV4cG9ydHM9e2xvZ2dlcjpjLGNvbmZpZ3VyZTpvLGNyZWF0ZTppfX0se31dfSx7fSxbMV0pOw=="));
+
+		}
+	});
+
+
+
+
