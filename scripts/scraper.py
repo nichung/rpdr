@@ -1,10 +1,15 @@
-# import modules
+"""
+beautiful soup 4 scraper.py
+
+usage: $python scraper.py [url]
+
+# todo: pass output file as parameter with argv such that
+# $python scraper.py [output] [url]
+"""
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 from sys import argv
-
-# todo: pass output file as parameter with argv
 
 # open output file
 scraped_data = open("scrape_data.txt", "w")
