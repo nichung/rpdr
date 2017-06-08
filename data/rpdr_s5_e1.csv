@@ -1,198 +1,455 @@
-id,contestant,target,time,comment,context,episode arc,grouping,place
-,Detox,self,2:05,"""I can do everything: I act, I sing, I rap, I dance... Let's send the rest of these clowns home.""",confessional,introduction,,confessional
-,Detox,self,2:12,"""I've worked with huge celebrities, like Rihanna, Ke$ha, and I'm the Queen Bee, so eat it up... and crown it. You're all fucking welcome.""",confessional,introduction,,confessional
-,Roxxxy Andrews andrews,"self, Roxxxy Andrews",2:32,"""Me and Detox started drag together, and I'm just so excited to see her.""",confessional,introduction,,confessional
-,Detox,Roxxxy Andrews,2:34,"""You look gorg.""",in situ,introduction,5,
-,Roxxxy Andrews,Detox,2:35,"""You too""",in situ,introduction,4,
-,Roxxxy Andrews,self,2:38,"""I'm a pageant girl. Big hair, big makeup: from head to toe, it's a Roxxxy Andrews andrews project""",confessional,introduction,,confessional
-,Jade Jolie,self,2:50,"""honey, i'm serving up fish, tuna on a platter""",confessional,introduction,,confessional
-,Jade Jolie,Roxxxy Andrews,2:54,"""You look gorg.""",in situ,introduction,9,
-,Roxxxy Andrews,Jade Jolie,2:55,"""Thank you, you too""",in situ,introduction,8,
-,Jade Jolie,self,2:57,"""jade is bubbly, she laughs a lot. I just like to be fabulous and have fun!""",confessional,introduction,,confessional
-,Detox,"Roxxxy Andrews, Jade Jolie",3:05,"""well, you both are going really home early, just so you know.""",in situ,introduction,,
-,Serena ChaCha,general,3:12,"""this is the best quinceanera present ever!""",in situ,introduction,13,
-,Detox,Serena ChaCha,,"""it's your quinceanera?""",in situ,introduction,12,
-,Serena ChaCha,"Detox, Roxxxy Andrews",3:25,"""automatically, Detox and Roxxxy Andrews were brrrrrrrrrrr... it's a little off-putting... rather, annoying""",confessional,introduction,,confessional
-,Alyssa Edwards,self,3:46,"""I'm known as the Vanessa Williams of drag, because after winning the title of Miss Gay America, the crown was taken away from me.""",confessional,introduction,,confessional
-,Jinkx Monsoon,general,,"""you know I can clear the cackling from down the street""",in situ,introduction,,
-,Jinkx Monsoon,self,4:15,"""my name is jinkx Monsoon I'm 24 and I'm Seattle youngest MILF.""",confessional,introduction,,confessional
-,Jinkx Monsoon,self,4:22,"""I'm theatrically trained in the Broadway school of singing""",confessional,introduction,,confessional
-,Detox,Jinkx Monsoon,4:27,"""I don't know about that Jinx yet, she's a little kooky.""",confessional,introduction,,confessional
-,Penny Tration,general,,Hello my name is Jason and I am 39 years old. I'm here because I was chosen by thousands of people in the online building contest,confessional,introduction,,confessional
-,Penny Tration,general,4:45,"""You guys should be happy to know that everybody actually wanted me here!""",in situ,introduction,,
-,Penny Tration,self,4:48,"""I hope that me being voted on the show by a lot of people makes the other queens really intimidated""",confessional,introduction,,confessional
-,Alyssa Edwards,Vivian Pinay,5:04,"""You're giving me pin-up, Kat Von Dee doll.""",in situ,introduction,22,
-,Vivian Pinay,Alyssa Edwards,5:06,"""Thank you!""",in situ,introduction,21,
-,Vivian Pinay,self,5:08,"""Vivian is all about glamour. My beauty is everything.""",confessional,introduction,,confessional
-,Jade Jolie,Vivian Pinay,5:13,"""Vivian's cute... but I'm cuter""",confessional,introduction,,confessional
-,Alaska,self,5:35,"""My name is Alaska and I'm 27 years old and I also have a very famous boyfriend whose name is Sharon Needles.""",confessional,introduction,,confessional
-,Roxxxy Andrews andrews,Alaska,5:47,"""this trashbag couture is definitely something else.""",in situ,introduction,,
-,Alaska,Roxxxy Andrews andrews,5:49,"""ah, yes, it's a plastic tablecloth""",in situ,introduction,,
-,Roxxxy Andrews andrews,Alaska,5:51,:grimace:,in situ,introduction,,
-,Alyssa Edwards,Alaska,5:52,"""Alaska definitely has big shoes to fill""",confessional,introduction,,confessional
-,Honey Mahogany,general,,"""Hey sisters!""",in situ,introduction,,
-,Honey Mahogany,self,,"""my name is Honey Mahogany and I'm 28 years old""",confessional,introduction,,confessional
-,Detox,Honey Mahogany,6:14,"""Honey Mahogany is like a RuPaul poster... but not quite as polished. sorry about it~! :)""",confessional,introduction,,confessional
-,Honey Mahogany,general,6:16,"""I think I'm the first queen from San Francisco, actually.""",in situ,introduction,,
-,unknown,Honey Mahogany,6:19,"""hello, hippy!""",in situ,introduction,,
-,Honey Mahogany,self,3:46,"""People get down on San Francisco for being a bunch of hippies, but there's so much beauty there. Have you seen Honey Mahogany?""",confessional,introduction,,confessional
-,Ivy Winters,general,,"""hey hey hey ladies!""",in situ,introduction,,
-,Ivy Winters,self,,"""My name is Ivy Winters. I'm 25 years old.""",confessional,introduction,,confessional
-,Serena ChaCha,Ivy Winters,6:40,"""Your top is awesome, it's so well tailored.""",in situ,introduction,,
-,Ivy Winters,Serena ChaCha,6:41,"""thank you""",in situ,introduction,,
-,Ivy Winters,self,6:42,"""I make costumes out of casette tape, paper cups, condoms. I will figure out a way to turn it into a costume.""",confessional,introduction,,confessional
-,Ivy Winters,general,6:50,"""And I used to work as a clown for like eight years.""",in situ,introduction,,
-,"Detox, Alaska",Ivy Winters,6:51,"""You still do.""",in situ,introduction,,
-,Monica Beverly Hillz,general,6:57,"""Hello girls!""",in situ,introduction,,
-,Monica Beverly Hillz,self,6:58,"""I'm Monica Beverly Hillz, with a zee.""",confessional,introduction,,confessional
-,Monica Beverly Hillz,self,7:01,"""I'm 27. Monica Beverly Hillz is very good at giving face.""",confessional,introduction,,confessional
-,Monica Beverly Hillz,general,7:07,"""This might be the fishiest season ever, darlings.""",in situ,introduction,,
-,Monica Beverly Hillz,self,7:09,"""I have been called ghetto, banjy, trashy... I was raised in the ghetto, you know. I'm very street smart, and there's nothing wrong with that.""",confessional,introduction,,confessional
-,Lineysha Sparx,self,7:21,"""I am Lineysha Sparx and I'm 24 years old.""",confessional,introduction,,confessional
-,Lineysha Sparx,self,7:25,"""Lineysha is so fierce, so flawless, so sparkling.""",confessional,introduction,,confessional
-,Lineysha Sparx,general,7:29,"""I'm very excited to be here, representing Puerto Rico.",in situ,introduction,,
-,general,Lineysha Sparx,7:33,"""Yeah!""",in situ,introduction,,
-,Lineysha Sparx,self,,"""Lineysha's in the house, so watch out bitches!""",confessional,introduction,,confessional
-,?,general,,"""how many more girls?",in situ,introduction,,
-,?,general,,"""this has to be it. Lucky 13?""",in situ,introduction,,
-,Coco Montrese,self,,"""I'm Coco Montrese and I'm 37 years old.""",confessional,introduction,,confessional
-,Alyssa Edwards,Coco Montrese,7:57,"""and then walks in Coco Montrese. The face crack of the century.""",confessional,introduction,,confessional
-,Coco Montrese,Alyssa Edwards,8:08,"""Alyssa Edwards. What the fuck.""",confessional,introduction,,confessional
-,Coco Montrese,Alyssa Edwards,8:13,"""Oh, Alyssa Edwards, again.""",in situ,introduction,,
-,?,general,8:15,"""Here she goes!""",in situ,introduction,,
-,Vivian Pinay,general,8:16,"""What's the story?""",in situ,introduction,,
-,Coco Montrese,Alyssa Edwards,8:18,"""Alyssa, you want to tell the story or you want me to tell the story?""",in situ,introduction,,
-,Alyssa Edwards,general,8:20,"""There's no story!""",in situ,introduction,,
-,?,Alyssa Edwards,8:21,"""What's the story?!""",in situ,introduction,,
-,Alyssa Edwards,Coco Montrese,8:22,"""We haven't spoke in two years. The pageant tore our friendship apart.""",confessional,introduction,,confessional
-,Coco Montrese,Alyssa Edwards,8:27,"""We were close. And I feel like I was bamboozled.""",confessional,introduction,,confessional
-,Alyssa Edwards,Coco Montrese,8:30,"""Coco was the one back-stabbing me behind my back.""",in situ,introduction,,
-,Coco Montrese,general,8:33,"""Alyssa and I will have our moment later together, cuz we need a moment.""",in situ,introduction,,
-,Coco Montrese,Alyssa Edwards,8:37,"""I don't think she wants to talk about. But I want to talk about it. If she doesn't get sent home first.""",confessional,introduction,,confessional
-,Alyssa Edwards,Coco Montrese,8:46,"""Game on, bitch: the sequel.""",confessional,introduction,,confessional
-,RuPaul,general,8:55,"""Welcome, my queens. I told you California was the place you oughta be, so you tightened up your tuck, and you flew to Beverly... Hills! Adjacent, that is. So whether you're a Fresh Princess of Bel-Air, a Malibu Barbie, or just serving Real Housewife realness, to get your big break in RuPauliwood, you need to make an even bigger splash and really shake things up.""",recording,SheMail,,
-,RuPaul,general,9:26,"""Oh, oh my goodness!~ An earthquake! My hair! Oooh~ I think it's the big one. Ooh, faster! faster! Ooh, slower, slower, slower, Ah! Cut!""",recording,SheMail,,
-,RuPaul,general,9:43,"""Remember, to snatch this crowd, you need to fake it till you make it.""",recording,SheMail,,
-,RuPaul,general,9:55,"""Hello hello hello~! Welcome to RuPaul's Drag Race!""",in situ,first challenge,,
-,RuPaul,general,10:06,"""Now, I chose each of you because I see in you the raw ""Charisma Uniqueness Nerve and Talent"" that it takes to go all the way. In addition to winning the title of America's Next Drag Superstar, the champion of RuPaul's Drag Race will receive: a lifetime supply of Color Evolution Cosmetics, a one-of-a-kind trip courtesy of AlandChuck.Travel and headline Logos outrageous Drag Race Tour featuring Absolut Vodka cocktails perfected and some cash money, honey. Yes, child, to the tune of $100,000.""",in situ,first challenge,,
-,Lineysha Sparx,self,10:52,"""Wow, I feel so excited, it's one hundred thousand of dollars. and I want to win that money.""",confessional,first challenge,,confessional
-,RuPaul,general,10:59,"""No more kidding around, girls. You're in the entertaint-ment capital of the world. And to make it in RuPauliwood, you've got to dive in the deep end. Are you ready for your closeup?""",in situ,first challenge,,
-,RuPaul,Jade Jolie,11:34,"""Hi Jade~""",in situ,first challenge,,
-,Jade Jolie,RuPaul,11:35,"""Hey Ru~""",in situ,first challenge,,
-,Jade Jolie,self,11:37,"""It's time for our first photoshoot. I am eager to see what the challenge is and i am super nervous.""",confessional,first challenge,,confessional
-,RuPaul,Jade Jolie,11:41,"""What do you think is going on right now?""",in situ,first challenge,,
-,Jade Jolie,RuPaul,11:45,"""Um, I'm not sure.""",in situ,first challenge,,
-,Mike Ruiz,Jade Jolie,11:47,"""Well, turn around~!""",in situ,first challenge,,
-,Jade Jolie,general,11:50,"""Oh my gosh, talk about the elephant in the room, didn't see that.",in situ,first challenge,,
-,RuPaul,Jade Jolie,11:56,"""Now, say hello to the the amazing Mike Ruiz. Mike is here to shoot your Hollywood Splash Photo. What we're looking for is underwater, serving glamour.""",in situ,first challenge,,
-,Mike Ruiz,Jade Jolie,12:06,"""Like, give us fish!""",in situ,first challenge,,
-,Jade Jolie,Mike Ruiz,12:08,"""Awesome.""",in situ,first challenge,,
-,RuPaul,Jade Jolie,12:09,"""Let's do it!""",in situ,first challenge,,
-,Mike Ruiz,Jade Jolie,12:10,"""Today, we're doing an homage to old Hollywood, that's kind of a tribute to old Esther Williams films."" ",in situ,first challenge,,
-,RuPaul,Jade Jolie,12:16,"""Please note that there's no pee in the water.""",in situ,first challenge,,
-,Mike Ruiz,Jade Jolie,12:19,"""Alright, hit it!""",in situ,first challenge,,
-,RuPaul,Jade Jolie,12:22,"""Jade Jolie, you're soaking in it.""",in situ,first challenge,,
-,Mike Ruiz,Jade Jolie,12:25,"""Try not to look like you're holding your breath.""",in situ,first challenge,,
-,Mike Ruiz,self,12:28,"""Jade would inhale a bunch of air and would hold it all in her cheeks like a chipmunk. That doesn't make for a very pretty glamour shot.""",confessional,first challenge,,confessional
-,Mike Ruiz,Jade Jolie,12:34,"""She's giving you parrot fish.""",in situ,first challenge,,
-,Jade Jolie,self,12:36,"""I was giving Helen Keller drowning realness.""",confessional,first challenge,,confessional
-,RuPaul,general,12:40,"""Oooh, wet and wild.""",in situ,first challenge,,
-,RuPaul,Roxxxy Andrews andrews,12:42,"""Roxxxy Andrews Andrews!""",in situ,first challenge,,
-,Mike Ruiz,Roxxxy Andrews andrews,12:44,"""Hit it!""",in situ,first challenge,,
-,Mike Ruiz,Roxxxy Andrews andrews,12:45,"""Acrobatic racegirl gorgeous face glamour!""",in situ,first challenge,,
-,RuPaul,Roxxxy Andrews andrews,12:50,"""Oh, she's rolling in the deep!""",in situ,first challenge,,
-,RuPaul,Roxxxy Andrews andrews,12:52,"""On the Roxxxy Andrews with a splash.""",in situ,first challenge,,
-,RuPaul,Detox,12:54,"""Detox!""",in situ,first challenge,,
-,RuPaul,Detox,12:55,"""Give us everything you've got.""",in situ,first challenge,,
-,Mike Ruiz,Detox,12:58,"""Yes! It's the bumble-fish""",in situ,first challenge,,
-,Mike Ruiz,Detox,13:00,"""Aqua-womana~!""",in situ,first challenge,,
-,"RuPaul, Mike Ruiz",Detox,13:02,"""Gorgeous.""",in situ,first challenge,,
-,RuPaul,general,13:05,"""Detox fell off the wagon and into the pool.""",in situ,first challenge,,
-,RuPaul,Serena ChaCha,13:08,"""Serena ChaCha! The time has come for you to sink, for your life.""",in situ,first challenge,,
-,Mike Ruiz,Serena ChaCha,13:15,"""Uno, dos, tres!""",in situ,first challenge,,
-,RuPaul,Serena ChaCha,13:17,"""Oh! Oh dear. I can see your seafood platter. Your paella is showing.""",in situ,first challenge,,
-,Mike Ruiz,Serena ChaCha,13:24,"""At least Serena was wearing panties.""",in situ,first challenge,,
-,RuPaul,Serena ChaCha,13:27,"""Ok, there's a pole, hun. Hold onto the pole.""",in situ,first challenge,,
-,Mike Ruiz,Serena ChaCha,13:29,"""Look it! It looks like frog legs.""",in situ,first challenge,,
-,Serena ChaCha,general,13:37,"""What the fuck was that about, guys?!""",in situ,first challenge,,workroom
-,Alyssa Edwards,Serena ChaCha,13:38,"""It's not your quinceanera anymore, is it?""",in situ,first challenge,,workroom
-,Jade Jolie,Serena ChaCha,13:41,"""Your quinceanera is ruined!""",in situ,first challenge,,workroom
-,Serena ChaCha,general,13:42,"""I'm not tucked!""",in situ,first challenge,,workroom
-,Alyssa Edwards,Serena ChaCha,13:44,"oh, you didn't tuck?!",in situ,first challenge,,workroom
-,Serena ChaCha,Alyssa Edwards,13:45,"""I'm not tucked at all. So the dress was doing this [waves dress] the whole time.""",in situ,first challenge,,workroom
-,Detox,Serena ChaCha,13:48,"""So, all your bubblegum and everything...""",in situ,first challenge,,workroom
-,Alyssa Edwards,Serena ChaCha,13:50,"""So you thought you were being cute today by being comfortable with your non-tuck, and ????? together...""",in situ,first challenge,,workroom
-,Alyssa Edwards,self,13:54,"""I'm not a fan of girls who don't tuck. Look like a woman. It's female impersonation at the end of the day.""",confessional,first challenge,,stage
-,RuPaul,Alyssa Edwards,14:02,"""Deeper. Don't be so shallow, Alyssa.""",in situ,first challenge,,stage
-,RuPaul,Alyssa Edwards,14:06,"""Your legs look like calamari when you do that.""",in situ,first challenge,,stage
-,Alyssa Edwards,RuPaul,14:10,"""Okay.""",in situ,first challenge,,stage
-,RuPaul,Alyssa Edwards,14:11,::blank look::,in situ,first challenge,,stage
-,RuPaul,Alyssa Edwards,14:14,"""Dance underwater!""",in situ,first challenge,,stage
-,RuPaul,Alyssa Edwards,14:16,"""Is that dress wash and wear?""",in situ,first challenge,,stage
-,RuPaul,Alyssa Edwards,14:20,"""Careful on these wet, slippery surfaces.""",in situ,first challenge,,stage
-,RuPaul,general,14:22,"""Oh! Queen down!""",in situ,first challenge,,stage
-,Alyssa Edwards,RuPaul,14:24,"""At least I did it gracefully.""",in situ,first challenge,,stage
-,RuPaul,general,14:27,"""Very.""",in situ,first challenge,,stage
-,RuPaul,Jinkx Monsoon,14:28,"""Jinkx Monsoon, welcome to the drag lagoon!""",in situ,first challenge,,stage
-,Jinkx Monsoon,self,14:33,"""I don't know how to swim. I learned how to swim by one of my uncles pushing me off a log, into a river.""",confessional,first challenge,,confessional
-,Jinkx Monsoon,self,14:44,"""First time under the water, I lost both of my contacts. i was blinded within seconds.""",confessional,first challenge,,confessional
-,RuPaul,Jinkx Monsoon,14:50,"""Okay, you look a little scared underwater.""",confessional,first challenge,,confessional
-,RuPaul,Jinkx Monsoon,14:53,"""More pretty face.""",in situ,first challenge,,stage
-,Mike Ruiz,Jinkx Monsoon,14:59,"""Okay, too much splashing.""",in situ,first challenge,,stage
-,Mike Ruiz,Jinkx Monsoon,15:00,"""Uh oh...""",in situ,first challenge,,stage
-,Mike Ruiz,Jinkx Monsoon,15:03,"""You're splashing around--oops.""",in situ,first challenge,,stage
-,Mike Ruiz,Jinkx Monsoon,15:08,"""Are you okay?""",in situ,first challenge,,stage
-,Jinkx Monsoon,Mike Ruiz,15:11,"""Just a little tangled.""",in situ,first challenge,,stage
-,Mike Ruiz,Jinkx Monsoon,15:13,"""I think we're going to have to call it a wrap.""",in situ,first challenge,,stage
-,RuPaul,general,15:17,"""Jinkx, there's got to be a morning after.""",in situ,first challenge,,stage
-,RuPaul,Penny Tration,15:20,"""Deeper, Penny Tration!""",in situ,first challenge,,stage
-,RuPaul,Penny Tration,15:23,"""Girl, you're gonna put Shelley Winters out of work!""",in situ,first challenge,,stage
-,RuPaul,Penny Tration,15:27,"""Oh, wait a minute.""",in situ,first challenge,,stage
-,Mike Ruiz,Penny Tration,15:29,"""And go.""",in situ,first challenge,,stage
-,RuPaul,general,15:30,"""Yes, yes, yes! Poseidon adventure, darling.""",in situ,first challenge,,stage
-,Mike Ruiz,Vivian Pinay,15:34,"""Hit it!""",in situ,first challenge,,stage
-,RuPaul,general,15:35,"""Serving Wettie Page.""",in situ,first challenge,,stage
-,Mike Ruiz,Vivian Pinay,15:37,"""Yes!""",in situ,first challenge,,stage
-,RuPaul,general,15:38,"""Touch all of the skin.""",in situ,first challenge,,stage
-,RuPaul,general,15:40,"""The filet of Vivian Pinay.""",in situ,first challenge,,stage
-,RuPaul,general,15:45,"""Oh, Alaska's underwater. Damn you, global warming!""",in situ,first challenge,,stage
-,RuPaul,Alaska,15:51,"""Okay. Yeah, you're head's not going very deep.""",in situ,first challenge,,stage
-,Alaska,general,15:52,"""Wha~!""",in situ,first challenge,,stage
-,Mike Ruiz,Alaska,15:54,"""And keep your hair out of your face!""",in situ,first challenge,,stage
-,Alaska,general,16:00,"""I can't get deep enough. I don't know how to do it!""",in situ,first challenge,,stage
-,Mike Ruiz,self,16:04,"""Alaska, she got really frustrated, and it showed.""",confessional,first challenge,,confessional
-,Mike Ruiz,Alaska,16:08,"""Push yourself down. Go!""",in situ,first challenge,,stage
-,Mike Ruiz,Alaska,16:12,"""No.""",in situ,first challenge,,stage
-,RuPaul,Alaska,16:13,"""Nope--on your face.""",in situ,first challenge,,stage
-,Alaska,general,16:15,"""Alright, alright. I can't do it. I failed.""",in situ,first challenge,,stage
-,RuPaul,Alaska,16:20,"""We will offer you one more dip if you want to take it.""",in situ,first challenge,,stage
-,Alaska,RuPaul,16:24,"""I'm sorry.""",in situ,first challenge,,stage
-,Alaska,general,16:28,"""That was terrible!""",in situ,first challenge,,workroom
-,general,general,16:29,::laughter::,in situ,first challenge,,workroom
-,Alaska,self,16:31,"""I can't believe that. I'm in shock.""",confessional,first challenge,,confessional
-,Alaska,general,16:34,"""I did so bad!""",in situ,first challenge,,workroom
-,Alaska,general,16:36,"""I don't know how to swim.""",in situ,first challenge,,workroom
-,Detox,Alaska,16:38,"""Oh, get that.""",in situ,first challenge,,workroom
-,Alaska,self,16:39,"""I've completely blown it. I don't know what I'm gonna to do.""",confessional,first challenge,,confessional
-,RuPaul,Honey Mahogany,16:43,"""It's Honey Mahogany!""",in situ,first challenge,,stage
-,RuPaul,general,16:47,"""Honey, I sunk the kids.""",in situ,first challenge,,stage
-,RuPaul,general,16:49,"""Ooh! That was pretty!""",in situ,first challenge,,stage
-,RuPaul,Ivy Winters,16:52,"""Ivy Winters!""",in situ,first challenge,,stage
-,RuPaul,Ivy Winters,16:54,"""Throwing caution to the wind!""",in situ,first challenge,,stage
-,RuPaul,general,16:56,"""Fishy when wet!""",in situ,first challenge,,stage
-,RuPaul,Monica Beverly Hillz,16:58,"""Monica Beverly Hillz.""",in situ,first challenge,,stage
-,Mike Ruiz,Monica Beverly Hillz,17:02,"""Push your dress down when you get underwater.""",in situ,first challenge,,stage
-,RuPaul,Monica Beverly Hillz,17:05,"""You look like a jellyfish.""",in situ,first challenge,,stage
-,RuPaul,general,17:07,"""In the future, you should handwash your woolens.""",in situ,first challenge,,stage
-,RuPaul,Lineysha Sparx,17:11,"""Oh... yes!""",in situ,first challenge,,stage
-,Mike Ruiz,Lineysha Sparx,17:14,"""Alright!""",in situ,first challenge,,stage
-,Mike Ruiz,self,17:15,"""Lineysha's body language was so incredibly graceful and dancerly, it was amazing.""",confessional,first challenge,,confessional
-,RuPaul,Lineysha Sparx,17:19,"""Sparkle, Lineysha, sparkle!""",in situ,first challenge,,stage
-,RuPaul,Lineysha Sparx,17:22,"""Sorry to say, that satin will never be the same.""",in situ,first challenge,,stage
-,RuPaul,Lineysha Sparx,17:26,"""Work!""",in situ,first challenge,,stage
-,RuPaul,Coco Montrese,17:28,"""Coco Montrese!",in situ,first challenge,,stage
-,RuPaul,Coco Montrese,17:30,"""Chicken of the sea! Serving Tuna Turner.""",in situ,first challenge,,stage
-,Mike Ruiz,Coco Montrese,17:35,"""Relax your face!""",in situ,first challenge,,stage
-,RuPaul,Coco Montrese,17:37,"""Yes, mama.""",in situ,first challenge,,stage
-,RuPaul,general,17:40,"""Instant CoCo -- just add water.""",in situ,first challenge,,stage
-,Coco Montrese,general,17:43,"""Okay y'all. Somebody forgot to tell them that black people don't swim.""",in situ,first challenge,,workroom
+contestant,target,time,comment,context,episode arc,grouping,place
+Detox,self,2:05,"""I can do everything: I act, I sing, I rap, I dance... Let's send the rest of these clowns home.""",confessional,introduction,0,confessional
+Detox,self,2:12,"""I've worked with huge celebrities, like Rihanna, Ke$ha, and I'm the Queen Bee, so eat it up... and crown it. You're all fucking welcome.""",confessional,introduction,0,confessional
+Roxxxy Andrews,"self, Roxxxy Andrews",2:32,"""Me and Detox started drag together, and I'm just so excited to see her.""",confessional,introduction,1,confessional
+Detox,Roxxxy Andrews,2:34,"""You look gorg.""",in situ,introduction,1,
+Roxxxy Andrews,Detox,2:35,"""You too""",in situ,introduction,1,
+Roxxxy Andrews,self,2:38,"""I'm a pageant girl. Big hair, big makeup: from head to toe, it's a Roxxxy Andrews andrews project""",confessional,introduction,,confessional
+Jade Jolie,self,2:50,"""honey, i'm serving up fish, tuna on a platter""",confessional,introduction,,confessional
+Jade Jolie,Roxxxy Andrews,2:54,"""You look gorg.""",in situ,introduction,9,
+Roxxxy Andrews,Jade Jolie,2:55,"""Thank you, you too""",in situ,introduction,8,
+Jade Jolie,self,2:57,"""Jade is bubbly, she laughs a lot. I just like to be fabulous and have fun!""",confessional,introduction,,confessional
+Detox,"Roxxxy Andrews, Jade Jolie",3:05,"""Well, you both are going really home early, just so you know.""",in situ,introduction,,
+Serena ChaCha,general,3:12,"""This is the best quinceanera present ever!""",in situ,introduction,13,
+Detox,Serena ChaCha,,"""It's your quinceanera?""",in situ,introduction,12,
+Serena ChaCha,"Detox, Roxxxy Andrews",3:25,"""Automatically, Detox and Roxxxy Andrews were brrrrrrrrrrr... it's a little off-putting... rather, annoying""",confessional,introduction,,confessional
+Alyssa Edwards,self,3:46,"""I'm known as the Vanessa Williams of drag, because after winning the title of Miss Gay America, the crown was taken away from me.""",confessional,introduction,,confessional
+Jinkx Monsoon,general,,"""You know I can clear the cackling from down the street""",in situ,introduction,,
+Jinkx Monsoon,self,4:15,"""My name is Jinkx Monsoon I'm 24 and I'm Seattle youngest MILF.""",confessional,introduction,,confessional
+Jinkx Monsoon,self,4:22,"""I'm theatrically trained in the Broadway school of singing""",confessional,introduction,,confessional
+Detox,Jinkx Monsoon,4:27,"""I don't know about that Jinx yet, she's a little kooky.""",confessional,introduction,,confessional
+Penny Tration,general,,"""Hello my name is Jason and I am 39 years old. I'm here because I was chosen by thousands of people in the online building contest.""",confessional,introduction,,confessional
+Penny Tration,general,4:45,"""You guys should be happy to know that everybody actually wanted me here!""",in situ,introduction,,
+Penny Tration,self,4:48,"""I hope that me being voted on the show by a lot of people makes the other queens really intimidated""",confessional,introduction,,confessional
+Alyssa Edwards,Vivian Pinay,5:04,"""You're giving me pin-up, Kat Von Dee doll.""",in situ,introduction,22,
+Vivian Pinay,Alyssa Edwards,5:06,"""Thank you!""",in situ,introduction,21,
+Vivian Pinay,self,5:08,"""Vivian is all about glamour. My beauty is everything.""",confessional,introduction,,confessional
+Jade Jolie,Vivian Pinay,5:13,"""Vivian's cute... but I'm cuter""",confessional,introduction,,confessional
+Alaska,self,5:35,"""My name is Alaska and I'm 27 years old and I also have a very famous boyfriend whose name is Sharon Needles.""",confessional,introduction,,confessional
+Roxxxy Andrews,Alaska,5:47,"""This trashbag couture is definitely something else.""",in situ,introduction,,
+Alaska,Roxxxy Andrews,5:49,"""Ah, yes, it's a plastic tablecloth.""",in situ,introduction,,
+Roxxxy Andrews,Alaska,5:51,:grimace:,in situ,introduction,,
+Alyssa Edwards,Alaska,5:52,"""Alaska definitely has big shoes to fill""",confessional,introduction,,confessional
+Honey Mahogany,general,,"""Hey sisters!""",in situ,introduction,,
+Honey Mahogany,self,,"""My name is Honey Mahogany and I'm 28 years old""",confessional,introduction,,confessional
+Detox,Honey Mahogany,6:14,"""Honey Mahogany is like a RuPaul poster... but not quite as polished. sorry about it~! :)""",confessional,introduction,,confessional
+Honey Mahogany,general,6:16,"""I think I'm the first queen from San Francisco, actually.""",in situ,introduction,,
+unknown,Honey Mahogany,6:19,"""Hello, hippy!""",in situ,introduction,,
+Honey Mahogany,self,3:46,"""People get down on San Francisco for being a bunch of hippies, but there's so much beauty there. Have you seen Honey Mahogany?""",confessional,introduction,,confessional
+Ivy Winters,general,,"""hey hey hey ladies!""",in situ,introduction,,
+Ivy Winters,self,,"""My name is Ivy Winters. I'm 25 years old.""",confessional,introduction,,confessional
+Serena ChaCha,Ivy Winters,6:40,"""Your top is awesome, it's so well tailored.""",in situ,introduction,,
+Ivy Winters,Serena ChaCha,6:41,"""thank you""",in situ,introduction,,
+Ivy Winters,self,6:42,"""I make costumes out of casette tape, paper cups, condoms. I will figure out a way to turn it into a costume.""",confessional,introduction,,confessional
+Ivy Winters,general,6:50,"""And I used to work as a clown for like eight years.""",in situ,introduction,,
+"Detox, Alaska",Ivy Winters,6:51,"""You still do.""",in situ,introduction,,
+Monica Beverly Hillz,general,6:57,"""Hello girls!""",in situ,introduction,,
+Monica Beverly Hillz,self,6:58,"""I'm Monica Beverly Hillz, with a zee.""",confessional,introduction,,confessional
+Monica Beverly Hillz,self,7:01,"""I'm 27. Monica Beverly Hillz is very good at giving face.""",confessional,introduction,,confessional
+Monica Beverly Hillz,general,7:07,"""This might be the fishiest season ever, darlings.""",in situ,introduction,,
+Monica Beverly Hillz,self,7:09,"""I have been called ghetto, banjy, trashy... I was raised in the ghetto, you know. I'm very street smart, and there's nothing wrong with that.""",confessional,introduction,,confessional
+Lineysha Sparx,self,7:21,"""I am Lineysha Sparx and I'm 24 years old.""",confessional,introduction,,confessional
+Lineysha Sparx,self,7:25,"""Lineysha is so fierce, so flawless, so sparkling.""",confessional,introduction,,confessional
+Lineysha Sparx,general,7:29,"""I'm very excited to be here, representing Puerto Rico.",in situ,introduction,,
+general,Lineysha Sparx,7:33,"""Yeah!""",in situ,introduction,,
+Lineysha Sparx,self,,"""Lineysha's in the house, so watch out bitches!""",confessional,introduction,,confessional
+?,general,,"""how many more girls?",in situ,introduction,,
+?,general,,"""this has to be it. Lucky 13?""",in situ,introduction,,
+Coco Montrese,self,,"""I'm Coco Montrese and I'm 37 years old.""",confessional,introduction,,confessional
+Alyssa Edwards,Coco Montrese,7:57,"""and then walks in Coco Montrese. The face crack of the century.""",confessional,introduction,,confessional
+Coco Montrese,Alyssa Edwards,8:08,"""Alyssa Edwards. What the fuck.""",confessional,introduction,,confessional
+Coco Montrese,Alyssa Edwards,8:13,"""Oh, Alyssa Edwards, again.""",in situ,introduction,,
+?,general,8:15,"""Here she goes!""",in situ,introduction,,
+Vivian Pinay,general,8:16,"""What's the story?""",in situ,introduction,,
+Coco Montrese,Alyssa Edwards,8:18,"""Alyssa, you want to tell the story or you want me to tell the story?""",in situ,introduction,,
+Alyssa Edwards,general,8:20,"""There's no story!""",in situ,introduction,,
+?,Alyssa Edwards,8:21,"""What's the story?!""",in situ,introduction,,
+Alyssa Edwards,Coco Montrese,8:22,"""We haven't spoke in two years. The pageant tore our friendship apart.""",confessional,introduction,,confessional
+Coco Montrese,Alyssa Edwards,8:27,"""We were close. And I feel like I was bamboozled.""",confessional,introduction,,confessional
+Alyssa Edwards,Coco Montrese,8:30,"""Coco was the one back-stabbing me behind my back.""",in situ,introduction,,
+Coco Montrese,general,8:33,"""Alyssa and I will have our moment later together, cuz we need a moment.""",in situ,introduction,,
+Coco Montrese,Alyssa Edwards,8:37,"""I don't think she wants to talk about. But I want to talk about it. If she doesn't get sent home first.""",confessional,introduction,,confessional
+Alyssa Edwards,Coco Montrese,8:46,"""Game on, bitch: the sequel.""",confessional,introduction,,confessional
+RuPaul,general,8:55,"""Welcome, my queens. I told you California was the place you oughta be, so you tightened up your tuck, and you flew to Beverly... Hills! Adjacent, that is. So whether you're a Fresh Princess of Bel-Air, a Malibu Barbie, or just serving Real Housewife realness, to get your big break in RuPauliwood, you need to make an even bigger splash and really shake things up.""",recording,SheMail,,
+RuPaul,general,9:26,"""Oh, oh my goodness!~ An earthquake! My hair! Oooh~ I think it's the big one. Ooh, faster! faster! Ooh, slower, slower, slower, Ah! Cut!""",recording,SheMail,,
+RuPaul,general,9:43,"""Remember, to snatch this crowd, you need to fake it till you make it.""",recording,SheMail,,
+RuPaul,general,9:55,"""Hello hello hello~! Welcome to RuPaul's Drag Race!""",in situ,challenge_1,,
+RuPaul,general,10:06,"""Now, I chose each of you because I see in you the raw ""Charisma Uniqueness Nerve and Talent"" that it takes to go all the way. In addition to winning the title of America's Next Drag Superstar, the champion of RuPaul's Drag Race will receive: a lifetime supply of Color Evolution Cosmetics, a one-of-a-kind trip courtesy of AlandChuck.Travel and headline Logos outrageous Drag Race Tour featuring Absolut Vodka cocktails perfected and some cash money, honey. Yes, child, to the tune of $100,000.""",in situ,challenge_1,,
+Lineysha Sparx,self,10:52,"""Wow, I feel so excited, it's one hundred thousand of dollars. and I want to win that money.""",confessional,challenge_1,,confessional
+RuPaul,general,10:59,"""No more kidding around, girls. You're in the entertaint-ment capital of the world. And to make it in RuPauliwood, you've got to dive in the deep end. Are you ready for your closeup?""",in situ,challenge_1,,
+RuPaul,Jade Jolie,11:34,"""Hi Jade~""",in situ,challenge_1,,
+Jade Jolie,RuPaul,11:35,"""Hey Ru~""",in situ,challenge_1,,
+Jade Jolie,self,11:37,"""It's time for our first photoshoot. I am eager to see what the challenge is and i am super nervous.""",confessional,challenge_1,,confessional
+RuPaul,Jade Jolie,11:41,"""What do you think is going on right now?""",in situ,challenge_1,,
+Jade Jolie,RuPaul,11:45,"""Um, I'm not sure.""",in situ,challenge_1,,
+Mike Ruiz,Jade Jolie,11:47,"""Well, turn around~!""",in situ,challenge_1,,
+Jade Jolie,general,11:50,"""Oh my gosh, talk about the elephant in the room, didn't see that.",in situ,challenge_1,,
+RuPaul,Jade Jolie,11:56,"""Now, say hello to the the amazing Mike Ruiz. Mike is here to shoot your Hollywood Splash Photo. What we're looking for is underwater, serving glamour.""",in situ,challenge_1,,
+Mike Ruiz,Jade Jolie,12:06,"""Like, give us fish!""",in situ,challenge_1,,
+Jade Jolie,Mike Ruiz,12:08,"""Awesome.""",in situ,challenge_1,,
+RuPaul,Jade Jolie,12:09,"""Let's do it!""",in situ,challenge_1,,
+Mike Ruiz,Jade Jolie,12:10,"""Today, we're doing an homage to old Hollywood, that's kind of a tribute to old Esther Williams films."" ",in situ,challenge_1,,
+RuPaul,Jade Jolie,12:16,"""Please note that there's no pee in the water.""",in situ,challenge_1,,
+Mike Ruiz,Jade Jolie,12:19,"""Alright, hit it!""",in situ,challenge_1,,
+RuPaul,Jade Jolie,12:22,"""Jade Jolie, you're soaking in it.""",in situ,challenge_1,,
+Mike Ruiz,Jade Jolie,12:25,"""Try not to look like you're holding your breath.""",in situ,challenge_1,,
+Mike Ruiz,self,12:28,"""Jade would inhale a bunch of air and would hold it all in her cheeks like a chipmunk. That doesn't make for a very pretty glamour shot.""",confessional,challenge_1,,confessional
+Mike Ruiz,Jade Jolie,12:34,"""She's giving you parrot fish.""",in situ,challenge_1,,
+Jade Jolie,self,12:36,"""I was giving Helen Keller drowning realness.""",confessional,challenge_1,,confessional
+RuPaul,general,12:40,"""Oooh, wet and wild.""",in situ,challenge_1,,
+RuPaul,Roxxxy Andrews,12:42,"""Roxxxy Andrews!""",in situ,challenge_1,,
+Mike Ruiz,Roxxxy Andrews,12:44,"""Hit it!""",in situ,challenge_1,,
+Mike Ruiz,Roxxxy Andrews,12:45,"""Acrobatic racegirl gorgeous face glamour!""",in situ,challenge_1,,
+RuPaul,Roxxxy Andrews,12:50,"""Oh, she's rolling in the deep!""",in situ,challenge_1,,
+RuPaul,Roxxxy Andrews,12:52,"""On the Roxxxy Andrews with a splash.""",in situ,challenge_1,,
+RuPaul,Detox,12:54,"""Detox!""",in situ,challenge_1,,
+RuPaul,Detox,12:55,"""Give us everything you've got.""",in situ,challenge_1,,
+Mike Ruiz,Detox,12:58,"""Yes! It's the bumble-fish""",in situ,challenge_1,,
+Mike Ruiz,Detox,13:00,"""Aqua-womana~!""",in situ,challenge_1,,
+"RuPaul, Mike Ruiz",Detox,13:02,"""Gorgeous.""",in situ,challenge_1,,
+RuPaul,general,13:05,"""Detox fell off the wagon and into the pool.""",in situ,challenge_1,,
+RuPaul,Serena ChaCha,13:08,"""Serena ChaCha! The time has come for you to sink, for your life.""",in situ,challenge_1,,
+Mike Ruiz,Serena ChaCha,13:15,"""Uno, dos, tres!""",in situ,challenge_1,,
+RuPaul,Serena ChaCha,13:17,"""Oh! Oh dear. I can see your seafood platter. Your paella is showing.""",in situ,challenge_1,,
+Mike Ruiz,Serena ChaCha,13:24,"""At least Serena was wearing panties.""",in situ,challenge_1,,
+RuPaul,Serena ChaCha,13:27,"""Ok, there's a pole, hun. Hold onto the pole.""",in situ,challenge_1,,
+Mike Ruiz,Serena ChaCha,13:29,"""Look it! It looks like frog legs.""",in situ,challenge_1,,
+Serena ChaCha,general,13:37,"""What the fuck was that about, guys?!""",in situ,challenge_1,,workroom
+Alyssa Edwards,Serena ChaCha,13:38,"""It's not your quinceanera anymore, is it?""",in situ,challenge_1,,workroom
+Jade Jolie,Serena ChaCha,13:41,"""Your quinceanera is ruined!""",in situ,challenge_1,,workroom
+Serena ChaCha,general,13:42,"""I'm not tucked!""",in situ,challenge_1,,workroom
+Alyssa Edwards,Serena ChaCha,13:44,"oh, you didn't tuck?!",in situ,challenge_1,,workroom
+Serena ChaCha,Alyssa Edwards,13:45,"""I'm not tucked at all. So the dress was doing this [waves dress] the whole time.""",in situ,challenge_1,,workroom
+Detox,Serena ChaCha,13:48,"""So, all your bubblegum and everything...""",in situ,challenge_1,,workroom
+Alyssa Edwards,Serena ChaCha,13:50,"""So you thought you were being cute today by being comfortable with your non-tuck, and ????? together...""",in situ,challenge_1,,workroom
+Alyssa Edwards,self,13:54,"""I'm not a fan of girls who don't tuck. Look like a woman. It's female impersonation at the end of the day.""",confessional,challenge_1,,stage
+RuPaul,Alyssa Edwards,14:02,"""Deeper. Don't be so shallow, Alyssa.""",in situ,challenge_1,,stage
+RuPaul,Alyssa Edwards,14:06,"""Your legs look like calamari when you do that.""",in situ,challenge_1,,stage
+Alyssa Edwards,RuPaul,14:10,"""Okay.""",in situ,challenge_1,,stage
+RuPaul,Alyssa Edwards,14:11,::blank look::,in situ,challenge_1,,stage
+RuPaul,Alyssa Edwards,14:14,"""Dance underwater!""",in situ,challenge_1,,stage
+RuPaul,Alyssa Edwards,14:16,"""Is that dress wash and wear?""",in situ,challenge_1,,stage
+RuPaul,Alyssa Edwards,14:20,"""Careful on these wet, slippery surfaces.""",in situ,challenge_1,,stage
+RuPaul,general,14:22,"""Oh! Queen down!""",in situ,challenge_1,,stage
+Alyssa Edwards,RuPaul,14:24,"""At least I did it gracefully.""",in situ,challenge_1,,stage
+RuPaul,general,14:27,"""Very.""",in situ,challenge_1,,stage
+RuPaul,Jinkx Monsoon,14:28,"""Jinkx Monsoon, welcome to the drag lagoon!""",in situ,challenge_1,,stage
+Jinkx Monsoon,self,14:33,"""I don't know how to swim. I learned how to swim by one of my uncles pushing me off a log, into a river.""",confessional,challenge_1,,confessional
+Jinkx Monsoon,self,14:44,"""First time under the water, I lost both of my contacts. i was blinded within seconds.""",confessional,challenge_1,,confessional
+RuPaul,Jinkx Monsoon,14:50,"""Okay, you look a little scared underwater.""",confessional,challenge_1,,confessional
+RuPaul,Jinkx Monsoon,14:53,"""More pretty face.""",in situ,challenge_1,,stage
+Mike Ruiz,Jinkx Monsoon,14:59,"""Okay, too much splashing.""",in situ,challenge_1,,stage
+Mike Ruiz,Jinkx Monsoon,15:00,"""Uh oh...""",in situ,challenge_1,,stage
+Mike Ruiz,Jinkx Monsoon,15:03,"""You're splashing around--oops.""",in situ,challenge_1,,stage
+Mike Ruiz,Jinkx Monsoon,15:08,"""Are you okay?""",in situ,challenge_1,,stage
+Jinkx Monsoon,Mike Ruiz,15:11,"""Just a little tangled.""",in situ,challenge_1,,stage
+Mike Ruiz,Jinkx Monsoon,15:13,"""I think we're going to have to call it a wrap.""",in situ,challenge_1,,stage
+RuPaul,general,15:17,"""Jinkx, there's got to be a morning after.""",in situ,challenge_1,,stage
+RuPaul,Penny Tration,15:20,"""Deeper, Penny Tration!""",in situ,challenge_1,,stage
+RuPaul,Penny Tration,15:23,"""Girl, you're gonna put Shelley Winters out of work!""",in situ,challenge_1,,stage
+RuPaul,Penny Tration,15:27,"""Oh, wait a minute.""",in situ,challenge_1,,stage
+Mike Ruiz,Penny Tration,15:29,"""And go.""",in situ,challenge_1,,stage
+RuPaul,general,15:30,"""Yes, yes, yes! Poseidon adventure, darling.""",in situ,challenge_1,,stage
+Mike Ruiz,Vivian Pinay,15:34,"""Hit it!""",in situ,challenge_1,,stage
+RuPaul,general,15:35,"""Serving Wettie Page.""",in situ,challenge_1,,stage
+Mike Ruiz,Vivian Pinay,15:37,"""Yes!""",in situ,challenge_1,,stage
+RuPaul,general,15:38,"""Touch all of the skin.""",in situ,challenge_1,,stage
+RuPaul,general,15:40,"""The filet of Vivian Pinay.""",in situ,challenge_1,,stage
+RuPaul,general,15:45,"""Oh, Alaska's underwater. Damn you, global warming!""",in situ,challenge_1,,stage
+RuPaul,Alaska,15:51,"""Okay. Yeah, you're head's not going very deep.""",in situ,challenge_1,,stage
+Alaska,general,15:52,"""Wha~!""",in situ,challenge_1,,stage
+Mike Ruiz,Alaska,15:54,"""And keep your hair out of your face!""",in situ,challenge_1,,stage
+Alaska,general,16:00,"""I can't get deep enough. I don't know how to do it!""",in situ,challenge_1,,stage
+Mike Ruiz,self,16:04,"""Alaska, she got really frustrated, and it showed.""",confessional,challenge_1,,confessional
+Mike Ruiz,Alaska,16:08,"""Push yourself down. Go!""",in situ,challenge_1,,stage
+Mike Ruiz,Alaska,16:12,"""No.""",in situ,challenge_1,,stage
+RuPaul,Alaska,16:13,"""Nope--on your face.""",in situ,challenge_1,,stage
+Alaska,general,16:15,"""Alright, alright. I can't do it. I failed.""",in situ,challenge_1,,stage
+RuPaul,Alaska,16:20,"""We will offer you one more dip if you want to take it.""",in situ,challenge_1,,stage
+Alaska,RuPaul,16:24,"""I'm sorry.""",in situ,challenge_1,,stage
+Alaska,general,16:28,"""That was terrible!""",in situ,challenge_1,,workroom
+general,general,16:29,::laughter::,in situ,challenge_1,,workroom
+Alaska,self,16:31,"""I can't believe that. I'm in shock.""",confessional,challenge_1,,confessional
+Alaska,general,16:34,"""I did so bad!""",in situ,challenge_1,,workroom
+Alaska,general,16:36,"""I don't know how to swim.""",in situ,challenge_1,,workroom
+Detox,Alaska,16:38,"""Oh, get that.""",in situ,challenge_1,,workroom
+Alaska,self,16:39,"""I've completely blown it. I don't know what I'm gonna to do.""",confessional,challenge_1,,confessional
+RuPaul,Honey Mahogany,16:43,"""It's Honey Mahogany!""",in situ,challenge_1,,stage
+RuPaul,general,16:47,"""Honey, I sunk the kids.""",in situ,challenge_1,,stage
+RuPaul,general,16:49,"""Ooh! That was pretty!""",in situ,challenge_1,,stage
+RuPaul,Ivy Winters,16:52,"""Ivy Winters!""",in situ,challenge_1,,stage
+RuPaul,Ivy Winters,16:54,"""Throwing caution to the wind!""",in situ,challenge_1,,stage
+RuPaul,general,16:56,"""Fishy when wet!""",in situ,challenge_1,,stage
+RuPaul,Monica Beverly Hillz,16:58,"""Monica Beverly Hillz.""",in situ,challenge_1,,stage
+Mike Ruiz,Monica Beverly Hillz,17:02,"""Push your dress down when you get underwater.""",in situ,challenge_1,,stage
+RuPaul,Monica Beverly Hillz,17:05,"""You look like a jellyfish.""",in situ,challenge_1,,stage
+RuPaul,general,17:07,"""In the future, you should handwash your woolens.""",in situ,challenge_1,,stage
+RuPaul,Lineysha Sparx,17:11,"""Oh... yes!""",in situ,challenge_1,,stage
+Mike Ruiz,Lineysha Sparx,17:14,"""Alright!""",in situ,challenge_1,,stage
+Mike Ruiz,self,17:15,"""Lineysha's body language was so incredibly graceful and dancerly, it was amazing.""",confessional,challenge_1,,confessional
+RuPaul,Lineysha Sparx,17:19,"""Sparkle, Lineysha, sparkle!""",in situ,challenge_1,,stage
+RuPaul,Lineysha Sparx,17:22,"""Sorry to say, that satin will never be the same.""",in situ,challenge_1,,stage
+RuPaul,Lineysha Sparx,17:26,"""Work!""",in situ,challenge_1,,stage
+RuPaul,Coco Montrese,17:28,"""Coco Montrese!",in situ,challenge_1,,stage
+RuPaul,Coco Montrese,17:30,"""Chicken of the sea! Serving Tuna Turner.""",in situ,challenge_1,,stage
+Mike Ruiz,Coco Montrese,17:35,"""Relax your face!""",in situ,challenge_1,,stage
+RuPaul,Coco Montrese,17:37,"""Yes, mama.""",in situ,challenge_1,,stage
+RuPaul,general,17:40,"""Instant CoCo -- just add water.""",in situ,challenge_1,,stage
+Coco Montrese,general,17:43,"""Okay y'all. Somebody forgot to tell them that black people don't swim.""",in situ,challenge_1,,workroom
+RuPaul,general,44:19:00,"""first up, the queen that's on everyone's lips: Roxxxy Andrews""",,challenge_2,,stage
+RuPaul,,,"""ooh, foxy Roxxxy""",,challenge_2,,stage
+,,,"""Oh, and the hips don't lie!""",,challenge_2,,stage
+,,,"""Ahh!""",,challenge_2,,stage
+Roxxxy Andrews,,,"""I was walking down the runway -- I'm like, give them a little hip and body... BAM!""",,challenge_2,,stage
+Roxxxy Andrews,,,"""This is exactly what I would wear to an awards show.""",,challenge_2,,stage
+RuPaul,,,"""All that ass...""",,challenge_2,,stage
+,,,"""I'd like to spend a night in the Roxxxy""",,challenge_2,,stage
+RuPaul,,,"""She has a huge opening... weekend. And her box office ain't bad, either.""",,challenge_2,,
+RuPaul,,,"""Jinx Monsoon""",,,,
+,,,"""I'm ready for my close-up, Mr. deMille.""",,,,
+Jinkx Monsoon,,,"""I'm serving 100% aquamarine Grecian red carpet couture. I am in heaven right now.""",,,,
+Santino Rice,,,"""I dream of Jinkx.""",,,,
+RuPaul,,,"""Loufah my ass.""",,,,
+RuPaul,,,"""Detox on the red carpet.""",,,,
+RuPaul,,42:12:00,"""Oh, it's severe up in here.""",,,,
+Michelle Visage,,,"""Well, now we know where last season's backdrop went.""",,,,
+RuPaul,,,"""Yes!""",,,,
+Detox,,42:17:00,"""I'm serving Jem and the Holograms Acid Punk going to the Met Gala, and I feel really gorgeous.""",,,,
+RuPaul,,,"""Just another day in Hollywood. She's detoxing from crack, by the way.""",,,,
+RuPaul,,,"""Ivy Winters! The Ladyboy in red.""",,,,
+Ivy Winters,,,"""I feel really amazing because I know that the garment is completely hand-stitched, and it's Hollywood red carpet couture.""",,,,
+RuPaul,,,"""Isn't she giving Jean Kasem, and...""",,,,
+Michelle Visage,,,"""Janice Dickenson!""",,,,
+RuPaul,,,"""Janice Dickenson!""",,,,
+Michelle Visage,,,"""Yes!""",,,,
+RuPaul,,,"""Let's have lunch at the Ivy.""",,,,
+RuPaul,,42:59:00,"""For your consideration: Honey Mahogany!""",,,,
+Santino Rice,,,"""LaBeija!""",,,,
+Honey Mahogany,,,"""I'm serving Iman, and I'm stomping my heart out.""",,,,
+RuPaul,,,"""The men love me, and the women love me!""",,,,
+RuPaul,,,"""You can catch more flies with Honey Mahogany.""",,,,
+RuPaul,,,"""Jade Jolie!""",,,,
+Michelle Visage,,,"""I can see your peacock-cock-cock!""",,,,
+RuPaul,,,"""Ding ding ding!""",,,,
+Jade Jolie,,,"""I'm serving the judges up red sequins in your face.""",,,,
+Jade Jolie,,,"""I am a million bucks, and nothing can bring me down right now.""",,,,
+RuPaul,,,"""Here's looking at you, kid!""",,,,
+RuPaul,,,"""Alyssa Edwards.""",,,,
+RuPaul,,,"""Wow.""",,,,
+Michelle Visage,,,"""She's all about the drama.""",,,,
+RuPaul,,,"""Wow, very drama-filled.""",,,,
+,,,"""The bird flew the coop on this one!""",,,,
+RuPaul,,,"""Yes.""",,,,
+Alyssa Edwards,,,"""I'm serving dark and twisted Alyssa Edwards realness.""",,,,
+Alyssa Edwards,,,"""My blood is flowing and the heart is pumping, and my mind is in it to win it.""",,,,
+,,,"""Somebody took the black swan and mated with the matador.""",,,,
+Michelle Visage,,,"""And now we got bird flu.""",,,,
+RuPaul,,,"""Penny. Tration.""",,,,
+Michelle Visage,,,"""hehehe... Yes please.""",,,,
+RuPaul,,,"""Penny for your thoughts?""",,,,
+Penny Tration,,,"""I'm walking slow and letting them take all the Penny Tration in. And I made sure they get to see the backside of Penny Tration.""",,,,
+RuPaul,,,"""You better sissy that walk, girl.""",,,,
+Michelle Visage,,,"""All right!""",,,,
+RuPaul,,,"""You better sissy that walk!""",,,,
+Michelle Visage,,,"""Hi!""",,,,
+,,44:06:00,"""I wonder if she has a twin. She'd be double Penny Tration.""",,,,
+RuPaul,,,"""Coco Montrese!""",,,,
+,,,"""Action!""",,,,
+RuPaul,,,"""She is ready for her close-up!""",,,,
+,,,"""Somebody blow into those bullhorns.""",,,,
+,,,"""I know.""",,,,
+Coco Montrese,,,"""I'm working it down the runway, giving it to you. I am serving you old Hollywood.""",,,,
+,,,"""White woman fish, baby!""",,,,
+,,,"""Now, she's a drag queen, but she really wants to direct.""",,,,
+Michelle Visage,,,"""Don't we all? You, on top.""",,,,
+,,,"""Vivienne Pinay.""",,,,
+All,,,"""Oh!""",,,,
+Michelle Visage,,,"""Cache spokeswoman.""",,,,
+RuPaul,,,"""Uh huh.""",,,,
+Vivienne Pinay,,,"""I'm giving face, and I'm giving body. Hands down, I am the fishiest bitch in this competition.""",,,,
+Michelle Visage,,,"""Very J-Lo.""",,,,
+RuPaul,,44:48:00,"""Mwah! Box office gold.""",,,,
+RuPaul,,,"""She's ready for the casting couch.""",,,,
+RuPaul,,,"""The 49th state, Alaska.""",,,,
+All,,,"""Oh!""",,,,
+,,,"""That's gorgeous.""",,,,
+,,,"""Is that a Birkin bag or a Glad bag?""",,,,
+Alaska,,,"""So that dress is made of plastic but I am treating it like it's the most expensive couture gown ever. And I just wiggle my way down the runway as best I can.""",,,,
+RuPaul,,,"""She must have a really big dog.""",,,,
+RuPaul,,,"""Alaska. Oh, dear, I can see Russa from here.""",,,,
+Michelle Visage,,,"""Is that Sarah Palin in that dress?""",,,,
+RuPaul,,,"""It's Saran Palin.""",,,,
+RuPaul,,,"""Lineysha Sparx.""",,,,
+Michelle Visage,,,"""Ooh, glamour.""",,,,
+Santino Rice,,,"""Balenciaga.""",,,,
+,,,"""She's really working it.""",,,,
+,,,"""That's how she walks to the grocery store, what are you talking about?""",,,,
+,,,"""My dress is full of extravaganza, and my design is flawless.""",,,,
+,,,"""And she's got a shoe on her head.""",,,,
+,,,"""Oh, yeah!""",,,,
+,,,"""She has a foot up on the others.""",,,,
+,,,"""She does, she's pumped up the volume, I'll tell you that.""",,,,
+,,,"""She's got Lisa Vanderpump on her mind.""",,,,
+,,,"""Monica Beverly Hillz.""",,,,
+,,,"""Woo! Look at those legs. Legs forever!""",,,,
+Monica Beverly Hillz,,,"""I'm feeling extra extra fishy. My legs are bronzed for the gods, and I'm just eating it up.""",,,,
+,,,"""She is serving Lady Miss Kier in the face--you see that?""",,,,
+,,,"""Yes, she is, meets Lil Kim.""",,,,
+,,,"""Serena ChaCha!""",,,,
+Michelle Visage,,,"""Hey!""",,,,
+,,,"""From Panama!",,,,
+,,,"""Panama City, Florida?""",,,,
+,,,"""Panama City, Florida, via the Suez Canal.""",,,,
+,,,"""Yes.""",,,,
+,,,"""Serena ChaCha is a drag scholar.""",,,,
+,,,"""I feel avant-garde, couture, editorial, like some sort of surreal painting. I'm giving them something different.""",,,,
+,,46:35:00,"""It's like Shakira meets...""",,,,
+Santino Rice,,,"""Pinocchio?""",,,,
+Michelle Visage,,,"""Who you calling a lederhosen?""",,,,
+,,,"""Cha cha cha!""",,,,
+,,,"""Welcome ladies. Based on your Hollywood splash photo session and your red carpet couture presentation, I've made some decisions.""",,Judging,,
+,,,"""When I call your name, please step forward.""",,,,
+,,,"""Jinkx Monsoon. Detox. Honey Mahogany. Monica Beverly Hillz. Vivienne Pinay. Alyssa Edwards. Coco Montrese. To be America's next Drag Superstar, you need to snatch the world's attention at every turn. And unfortunately tonight, you are the ""s"" word: safe.""",,,,
+Alyssa Edwards,,,"""I didn't come to this competition just to be safe. I am here to show people I still got it.""",,,,confessional
+RuPaul,,,"""Anyone who says it's an honor just to be nominated is one lying bitch. You may leave the stage.""",,,,
+RuPaul,,,"""Oh, and ladies... one more thing. Don't call us. We'll call you. That's all.""",,,,
+,,,"""Ladies! You represent the best and the worst of the week. It's time for the judge's critiques.""",,,,
+,,,"""First up, Roxxxy Andrews.""",,,,
+Michelle Visage,,,"""Out of all the dresses, this is the one that I would be wearing.""",,,,
+Camille Grammar,,,"""Absolutely gorgeous. Everything you've done is just perfect to your curves, and you revealed enough skin to keep it classy.""",,,,
+,,,"""Look at that!""",,,,
+,,,"""You just want to show your ass.""",,,,
+,,,"""I dunno if you guys noticed, but when I showed you my shoes, they're RuPaul shoes.""",,,,
+,,,"""I noticed.""",,,,
+,,,"""And I found them in the dumpster.""",,,,
+Michelle and Ru,,,"""What?!""",,,,
+RuPaul,,,"""Who would throw those away?!""",,,,
+,,,"""I don't know.""",,,,
+,,,"""Thank you, Roxxxy.""",,,,
+,,,"""Next up, Ivy Winters!""",,,,
+,,,"""This dress is absolutely gorgeous. You sewed this entire thing?""",,,,
+,,,"""I did. I hand-stitched it completely.""",,,,
+Santino Rice,,,"""I'm looking at you and it's like where's the trash? You kind of have to bring in some unconventional material into this challenge.""",,,,
+,,,"""Thank you, Ivy Winters. Next up, Jade Jolie!""",,,,
+,,,"""Hey Ru, hey!""",,,,
+Mike Ruiz,,,"""You have the sweetest, softest voice.""",,,,
+RuPaul,,,"""You never said that to me, Mike.""",,,,
+Santino Rice,,,"""I'm wanting to like pull these things off of you just so I can see more of who's underneath there. There's too many details all crying out for my attention.""",,,,
+Jade Jolie,,,"""This is very much my personality, kinda like taste the rainbow kind of girl.""",,,,
+RuPaul,,,"""What does the rainbow taste like?""",,,,
+Michelle Visage,,,"""Butterflies and unicorns?""",,,,
+Jade Jolie,,,"""Yeah, Lisa Frank and all that good stuff.""",,,,
+,,,"""Oh, I love it! You are just a cute little thing, aren't you?""",,,,
+,,,"""You're just a cute little thing.""",,,,
+,,,"""Eat you up in one bite.""",,,,
+,,,"""Alright, thank you Jade Jolie. Next up, Penny Tration!""",,,,
+,,,"""What do you got to say for yourself?""",,,,
+,,,"""I'm just so glad to be here. There's a lot to see. Take a look.""",,,,
+Santino Rice,,,"""I think with the dress, it starts to fall apart after the bust line. The left and the right look like different shapes.""",,,,
+Camille Grammar,,,"""I just think if you took this front slit and made it into a side slit, I think it would've been just more flattering.""",,,,
+Michelle Visage,,,"""One thing I notice is your shading is very dark. Black, dare I say.""",,,,
+Santino Rice,,,"""The black on the side looks like a sideburn, almost.""",,,,
+RuPaul,,,"""Next up, Alaska.""",,,,
+Alaska,,,"""Hi.""",,,,
+RuPaul,,,"""Hi.""",,,,
+RuPaul,,,"""Now, did you have any difficulty putting this outfit together?""",,,,
+Alaska,,,"""Getting it on my body, I don't have a zipper... you can't really sew into plastic.""",,,,
+Santino Rice,,,"""You know, the thing is, you can take something that costs nothing and turn it into something that looks like a million dollars. And you really did it tonight.""",,,,
+Alaska,,,"""Thank you.""",,,,
+Michelle Visage,,,"""Why no earrings?""",,,,
+Alaska,,,"""I lost them in the dumpster.""",,,,
+Camille Grammar,,,"""I like the way you have accessorized it. I don't think you need anything more, 'cause you've got a lot of shimmer going on because of the plastic Saran Wrap.""",,,,
+RuPaul,,,"""Next up, Lineysha Sparx.""",,,,
+Lineysha Sparx,,,"""Puerto Rico in the house.""",,,,
+Michelle Visage,,,"""Que bella. This is really elegant. What is that?""",,,,
+RuPaul,,,"""It's wallpaper, actually.""",,,,
+Michelle Visage,,,"""Is it really?""",,,,
+,,,"""Yes""",,,,
+Michelle Visage,,,"""I mean, really impressed because that is not an easy thing to work with. And you made it look really couture.""",,,,
+Santino Rice,,,"""I love the shoe as well in your hair.""",,,,
+RuPaul,,,"""Yes. Repurposed. That's really using your head.""",,,,
+Camille Grammar,,,"""I love the way you've created this piece.""",,,,
+Lineysha Sparx,,,"""This is because if I need to do the lip synch, I can do it like this. Lalala.""",,,,
+RuPaul,,,"""Thank you Lineysha. Serena ChaCha!""",,,,
+Serena ChaCha,,,"""Hola.""",,,,
+Michelle Visage,,,"""I had a little bit of an issue with what you're wearing, I'm not gonna lie.""",,,,
+Michelle Visage,,,"""The shape is all wrong for you, you're gonna get lost in it. And then what's exposed just looks like boy.""",,,,
+Santino Rice,,52:18:00,"""It looks like you've done your makeup in a lighter shade than your body. And it almost looks like if you pulled the head off of one doll and, like, put it onto the body of, like, a G.I. Joe figure. And this collar really adds this big weight around your neck that separates your head from your body.""",,,,
+RuPaul,,,"""Can I see it without the neck thing?""",,,,
+Camille Grammar,,,"""It looks so much prettier.""",,,,
+Serena ChaCha,,,"""I just wanna say I'm open to all of the criticism, and I'm making sure to put it to the next challenge, whatever it may be.""",,,,
+RuPaul,,,"""Alright, well, thank you. Well, ladies, I think we've heard enough. While you enjoy an Absolut cocktail in the Interior Illusions Lounge, the judges and I will deliberate. You may leave the stage.""",,,,
+RuPaul,,,"""Alright kids. Just between us ""goils..."" let's start with... Roxxxy Andrews.""",,,,
+Santino Rice,,,"""Roxxxy had a very convincing red carpet couture look and a great blend of fabrics and unconventional materials.""",,,,
+Camille Grammar,,,"""She combined goth with glam and I thought she looked great.""",,,,
+Michelle Visage,,,"""Completely thought out. Like, she knows what her shape is all about.""",,,,
+RuPaul,,,"""I do have a con with Roxxxy Andrews. I wanted to see more ass.""",,,,
+Michelle Visage,,,"""Hahahaha""",,,,
+,,,"""Ivy Winters!""",,,,
+,,,"""I mean, the dress was beautiful. But I really couldn't stop looking at her hair. I just didn't like it, 'cause this dress was so 'elogent'.""",,,,
+,,,"""You real 'eloguent'.""",,,,
+,,,"""That's my new word!""",,,,
+,,,"""You speak 'eloguent'.""",,,,
+,,,"""Eloguent.""",,,,
+Mike Ruiz,,,"""Talk about couture--I mean, she hand-stitched that dress.""",,,,
+Santino Rice,,,"""As beautiful as that dress was, where's the trash? I didn't get that same kind of feeling when I look at Alaska, or Lineysha.""",,,,
+Michelle Visage,,,"""Lineysha was 'eloguent'.""",,,,
+RuPaul,,,"""Alright, let's move on to Jade Jolie. My goodness, Jade Jolie. She had a lot on.""",,,,
+Santino Rice,,,"""I can't really tell where her taste level is because--""",,,,
+RuPaul,,,"""I think you can. I think you can.""",,,,
+Mike Ruiz,,,"""She has a very fantastical sort of outlook on life about rainbows and unicorns and all. But, I just don't think it was very well-executed.""",,,,
+RuPaul,,,"""Let's talk about Penny. Tration.""",,,,
+Michelle Visage,,,"""She came out with a great attitude. I get the whole Mae West kinda, 'come up and see me sometime' thing going on. But then you kinda scroll down a little bit.""",,,,
+Mike Ruiz,,,"""The padding was asymmetrical. It looked like she had a tilted pelvis. Somebody call the osteopath or something.""",,,,
+Santino Rice,,,"""Make a silhouette and perfect it. Is that too much to ask?""",,,,
+RuPaul,,,"""Hello. It is not. You could be a big girl, make those proportions work for you and actually look couture. And she didn't.""",,,,
+Camille Grammar,,,"""Yeah, but it was the makeup for me. It was just awful.""",,,,
+Michelle Visage,,,"""That was probably the best part, Camille.""",,,,
+RuPaul,,,"""Alright, let's head on to the 49th state, Alaska.""",,,,
+Mike Ruiz,,,"""I wasn't really expecting much from Alaska, based on her performance in the photoshoot, but a little Saran Wrap went a long way tonight. The only thing is, it should've had a little slit, 'cause she had a little difficulty walking tonight.""",,,,
+Michelle Visage,,,"""My one thing was, I would've loved to have seen some sparkling earrings up on that.""",,,,
+RuPaul,,,"""Well, Michelle, Alaska's not from New Jersey.""",,,,
+Michelle Visage,,,"""Hahahaha""",,,,
+RuPaul,,,"""Alright, let's move on to Lineysha Sparx.""",,,,
+,,,"""What a gorgeous face on this one.""",,,,
+,,,"""Yes.""",,,,
+,,,"""The gown was absolutely gorgeous.""",,,,
+,,,"""And when we found out that it was actually wallpaper, I was even more impressed.""",,,,
+,,,"""And to put a shoe, a pump, in her hair, I thought that was really fun and whimsical.""",,,,
+,,,"""You're right, and it could've very easily been a disaster.""",,,,
+Michelle Visage,,,"""But all in all, she's what we call a TP.""",,,,
+RuPaul,,,"""A total package, that's right.""",,,,
+RuPaul,,,"""Let's talk ChaCha, as in Serena ChaCha.""",,,,
+Michelle Visage,,,"""Oh God, she was literally drag Pinocchio. It was lederhosen. It was really like I was waiting for yodeling. It was really just a mess.""",,,,
+Santino Rice,,,"""She was showing so much of this like, oiled-up chest.""",,,,
+Camille Grammar,,,"""And it was like a little boy with a costume on.""",,,,
+,,,"""I think that she has to start thinking about her tiny little body and the way she's gonna execute her fashions.""",,,,
+,,,"""Well, she executed this fashion.""",,,,
+,,,"""She sure did.""",,,,
+,,,"""Silence! I've made my decision. Bring back my girls.""",,,,
+,,,"""Welcome back, ladies. I've made some decisions.""",,,,
+,,,"""Ivy Winters. Your red gown looked like it was ripped from the pages of Vogue. You're safe.""",,,,
+,,,"""Alaska. You had this challenge in the bag. You're safe.""",,,,
+,,,"""Thank you.""",,,,
+,,,"""Roxxxy Andrews. You dove deep into the dumpsters of Beverly Hills and made rubbish look ravishing. Condragulations. You're the winner of this challenge.""",,,,
+,,,"""You receive a custom gown by Marco Marco, plus immunity from elimination next week.""",,,,
+,,,"""Are you kidding me right now, 'cause I'm on cloud nine. Suck that ahhh!""",,,,confessional
+,,,"""Thank you for believing in me.""",,,,
+,,,"""You may join the other girls.""",,,,
+,,,"""Lineysha Sparx, you lit up the runway in classic Hollywood glamour. You're safe."" ",,,,
+,,,"""I thought that I was gonna win. But, whatever.""",,,,confessional
+,,,"""Serena ChaCha. On the runway, you move like Jagger, but your red carpet look was 'coutorture'. I'm sorry my dear, but you are up for elimination."" ",,,,
+,,,"""Oh crap. You really messed up. I do not wanna be the first one sent home. This cannot fucking happen at this point.""",,,,confessional
+,,,"""Penny Tration. We love your dangerous curves, but your red carpet couture veered off in the wrong direction.""",,,,
+,,,"""Jade Jolie. You didn't wear your dress. It wore you. But still, your personality shined through. Jade Jolie... you're safe.""",,,,
+,,,"""Thank you guys so much.""",,,,
+,,,"""Wait, hold up, mama. May I gve you a word of advice?""",,,,
+,,,"""Yes.""",,,,
+,,,"""Edit.""",,,,
+,,,"""Edit.""",,,,
+,,,"""That's right.""",,,,
+,,,"""Thank you so much.""",,,,
+,,,"""Penny Tration. I'm sorry my dear, but you are up for elimination."" ",,,,
+,,,"""I'm disappointed because there are a lot of people who wanted me to be here. And I'm letting them down.""",,,,
+,,,"""Two queens stand before me. Ladies, this is your last chance to impress me and save yourself from elimination.""",,,,
+,,,"""The time has come to lip synch for your life.""",,,,
