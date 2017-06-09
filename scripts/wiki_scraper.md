@@ -43,9 +43,9 @@ outcome = []
 table = soup('table')[1]
 
 # find all <tr> tag pairs; skip first one (table header):
-# 	+ create variable for each <td> pair 
-# 	+ create variable of string inside first <td> pair
-# 	+ append variable to 'name' 
+# 	1. create variable for each <td> pair 
+# 	2. create variable of string inside first <td> pair
+# 	3. append variable to 'name' 
 for row in table.find_all('tr')[1:]:
     
     col = row.find_all('td')
