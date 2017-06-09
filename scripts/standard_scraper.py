@@ -1,6 +1,8 @@
 """
 beautifulsoup4 scraper.py
 
+generic webpage scraper 1.0.0
+
 usage: 
 + $python scraper.py # must add code to specify output
 + as third party module in conjunction with parser.py

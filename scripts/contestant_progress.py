@@ -1,6 +1,8 @@
 """
 beautifulsoup4 parser.py
 
+RPDR contestant progress scraper 1.0.0
+
 scrape outcomes table for RPDR visualization project:
  + select table by position
  + assign table data to variables
