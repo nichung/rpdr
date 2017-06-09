@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 beautifulsoup4 parser.py
 
@@ -7,7 +8,6 @@ scrape contestant table for RPDR visualization project:
  + select table by position
  + assign table data to variables
  + make dataframe from combined variables
- + confirm proper encoding
  + save dataframe to CSV
 
 nicholas chung, 2017
@@ -74,9 +74,5 @@ results = results.transpose()
 results = results[['contestant', 'name', 'age', 'hometown', 'outcome']]
 
 
-# confirm unicode encoding
-results = results.apply(lambda x: pd.lib.infer_dtype(x.values))
-results[results=='unicode']
-
 # save to CSV
-results.to_csv('../data/contestants.csv')
+results.to_csv('contestants.csv')

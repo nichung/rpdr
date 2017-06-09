@@ -1,5 +1,5 @@
-contestant,unicode
-age,unicode
-outcome,unicode
-name,unicode
-hometown,unicode
+,contestant,age,outcome,name,hometown
+0,Jinkx Monsoon,24,Winner,Jerick Hoffer,"Seattle, Washington"
+1,Alaska[a],27,Runner-up,Justin Honard,"Pittsburgh, Pennsylvania"
+2,Roxxxy Andrews,28,Runner-up,Michael Feliciano,"Orlando, Florida"
+3,Detox[b],27,4th Place,Matthew Sanderson,"Los Angeles, California"
