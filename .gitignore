@@ -1,2 +1,4 @@
 resources/*.flac
 scripts/*.pyc
+
+*.DS_Store
