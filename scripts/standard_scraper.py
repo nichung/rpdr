@@ -16,7 +16,7 @@ import pandas as pd
 header = {'User-Agent': 'Mozilla/5.0'}
 
 # create variable with url to target page
-url = 'https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_5)' 
+url = 'https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_6)'
 
 # scrape html at url
 r = requests.get(url)

@@ -18,7 +18,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 # select scraper and import data
-from wiki_scraper import soup
+from standard_scraper import soup
 
 # create variables to store scraped data
 contestant = []
@@ -129,4 +129,4 @@ results = results[['contestant', 'ep_1', 'ep_2', 'ep_3', 'ep_4', 'ep_5', 'ep_6',
 
 
 # save to CSV
-results.to_csv('../data/results.csv')
+results.to_csv('../data/results-s6.csv')

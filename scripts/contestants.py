@@ -74,4 +74,4 @@ results = results[['contestant', 'name', 'age', 'hometown', 'outcome']]
 
 
 # save to CSV
-results.to_csv('../data/contestants.csv', encoding='utf-8')
+results.to_csv('../data/contestants-s6.csv', encoding='utf-8')
